@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .glass-panel {
+    background-color: rgba(25, 28, 31, 0.4);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+  }
+
+  .glass-card {
+    background-color: rgba(40, 42, 46, 0.6);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+  }
+
+  .neon-glow:hover {
+    box-shadow: 0 0 15px rgba(76, 215, 246, 0.4);
+  }
+
+  .cyber-glow {
+    box-shadow: 0 0 15px rgba(173, 198, 255, 0.1);
+  }
+
+  .cyber-glow-active {
+    box-shadow: 0 0 15px rgba(76, 215, 246, 0.25);
+  }
+}
+
+.font-data-mono {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.font-headline-md, .font-headline-lg, .font-display-lg {
+  font-family: 'Geist', sans-serif;
+}
+
+.font-body-md, .font-label-caps {
+  font-family: 'Inter', sans-serif;
+}
+
+.scroll-ticker {
+  animation: scroll 20s linear infinite;
+}
+
+@keyframes scroll {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+
+.pulse-dot {
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(76, 215, 246, 0.7); }
+  70% { transform: scale(1); box-shadow: 0 0 0 10px rgba(76, 215, 246, 0); }
+  100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(76, 215, 246, 0); }
+}
+
+.pulse-dot-critical {
+  animation: pulse-red 2s infinite;
+}
+
+@keyframes pulse-red {
+  0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(255, 84, 81, 0.7); }
+  70% { transform: scale(1); box-shadow: 0 0 0 10px rgba(255, 84, 81, 0); }
+  100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(255, 84, 81, 0); }
+}
+
+.scan-line {
+  position: absolute;
+  left: 0; top: 0; bottom: 0; width: 100%;
+  background: linear-gradient(to bottom, transparent, rgba(76,215,246,0.15) 50%, transparent);
+  transform: translateY(-100%);
+  animation: scan 4s linear infinite;
+  pointer-events: none;
+}
+
+@keyframes scan {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(100%); }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(0,0,0,0.2);
+}
+::-webkit-scrollbar-thumb {
+  background: #424754;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8c909f;
+}
+

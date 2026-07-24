@@ -1,0 +1,6 @@
+{
+  "name": "KSP Intelligence Wing",
+  "description": "Command Center, AI Intelligence Assistant, Criminal Network Graph, Case Registration Center, and Intelligence DB for Karnataka State Police Cyber Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
