@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ksp_crime_intel_backend
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_NAME=KSP Crime Intelligence Platform
+      - APP_ENV=production
+      - DEBUG=false
+      - DATABASE_URL=postgresql+asyncpg://postgres:postgres@db:5432/crime_intel
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+    depends_on:
+      - db
+    volumes:
+      - uploads_data:/app/uploads
+      - vector_db_data:/app/data/vector_db
+      - reports_data:/app/data/reports
+
+  db:
+    image: postgres:16-alpine
+    container_name: ksp_crime_intel_db
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=crime_intel
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
+  uploads_data:
+  vector_db_data:
+  reports_data:
