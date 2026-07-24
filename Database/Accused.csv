@@ -1,0 +1,1001 @@
+AccusedID,CaseMasterID,FullName,AliasName,Gender,Age,DOB,MobileNumber,AadhaarNumber,Occupation,Address,DistrictID,DistrictName,ArrestStatus,CriminalHistory,GangAffiliation,RiskLevel,WeaponUsed
+1,1,Advik Maharaj,Rocky,Male,24,1968-07-14,9914736535,270957763063,Private Employee,"81/960, Chander Nagar, Muzaffarpur-838637",12,Davanagere,Arrested,No,None,Medium,None
+2,1,Aarini Dutta,Silent,Female,62,1992-07-23,9895163715,483276346579,Business,"351, Rai Zila, Secunderabad 940781",12,Davanagere,Arrested,Yes,None,Low,Hands
+3,2,Chaaya Memon,Silent,Female,32,1999-07-08,9981024804,616426077141,Journalist,"10/341, Chaudhuri Ganj, Alwar 525534",29,Vijayanagara,Arrested,No,Organized Crime,Medium,Iron Rod
+4,2,Harinakshi Walla,King,Female,66,1994-03-15,9906758587,422675620223,Shop Keeper,"48, Nair Ganj, Berhampur-564139",29,Vijayanagara,Arrested,Yes,None,Low,Stick
+5,3,Jagvi Tata,Shadow,Female,39,1976-07-11,9914083790,854923885778,Labourer,"H.No. 23, Yohannan Circle, Bhimavaram-965328",21,Mandya,Arrested,Yes,None,Medium,Knife
+6,4,Chakradev Batta,Silent,Male,47,2001-03-13,9889595604,812343829484,Farmer,"69/166, Sidhu, Begusarai-184514",3,Belagavi,Surrendered,No,None,Medium,Firearm
+7,4,Farhan Setty,Black,Male,33,1955-09-23,9888624194,236977135959,Electrician,"14/89, Dua Ganj, Nanded 957015",3,Belagavi,Absconding,No,None,Medium,Knife
+8,4,Kashvi Bhardwaj,Master,Female,61,1968-04-28,9918750560,604443841156,Doctor,"71/822, Gandhi Chowk, Dehri 383465",3,Belagavi,Arrested,No,None,Medium,Hands
+9,4,Yauvani Seth,Black,Female,33,1961-12-20,9989247563,434322585512,Student,"H.No. 09, Karpe Circle, Chennai-031051",3,Belagavi,Absconding,No,None,Medium,Hands
+10,5,Liam Sunder,Bullet,Male,36,1966-11-29,9884263539,534327379617,Software Engineer,"763, Chatterjee Zila, Raichur-670106",15,Hassan,Surrendered,No,None,Low,Hands
+11,6,Darika Kothari,Black,Female,32,1965-09-16,9891052956,184854410948,Lawyer,"24, Krish Chowk, Mango-080132",22,Mysuru,Arrested,No,None,High,Hands
+12,6,Xavier Srivastava,King,Male,33,1966-11-19,9875456739,254509076202,Business,"606, Sha Road, Bhusawal-234309",22,Mysuru,Arrested,Yes,None,Low,Stick
+13,7,Nirja Bhandari,Boss,Female,63,1958-03-19,9897469766,945698013752,Journalist,"H.No. 812, Bir Zila, Sambhal-939909",13,Dharwad,Arrested,No,None,Medium,Stick
+14,8,Shaurya Virk,Rowdy,Male,56,1972-04-28,9878760268,507857154294,Teacher,"53/462, Shankar Road, Srinagar 799118",14,Gadag,Arrested,No,None,Medium,Firearm
+15,9,Yashica Lanka,Anna,Female,44,1962-07-30,9964647002,178808405644,Electrician,"542, Mittal Chowk, Begusarai 124118",11,Dakshina Kannada,Arrested,Yes,None,Medium,None
+16,10,Laban Manda,Don,Male,58,1987-08-12,9917730428,196192744441,Shop Keeper,"48/740, Sampath Zila, Varanasi 524278",20,Koppal,Arrested,No,Organized Crime,Low,Sharp Weapon
+17,10,Aarna Choudhury,Rocky,Female,68,1959-07-18,9912078568,443739892384,Mechanic,"H.No. 98, Sani Street, Kalyan-Dombivli-505331",20,Koppal,Absconding,No,None,Medium,Sharp Weapon
+18,11,Tanvi Dubey,Black,Female,20,2004-08-15,9885588454,746149366888,Cook,"602, Sabharwal Path, Shimoga-160733",1,Bagalkote,Absconding,No,None,Medium,Sharp Weapon
+19,11,Parth Mody,Tiger,Male,33,1999-01-17,9966220977,112030342461,Mechanic,"H.No. 365, Boase Road, Etawah-850142",1,Bagalkote,Surrendered,Yes,None,High,Hands
+20,12,Anirudh Chopra,Master,Male,47,1987-03-06,9962208961,435642813425,Student,"98, Rajan Zila, Rohtak 608835",19,Kolar,Absconding,Yes,Organized Crime,Low,Knife
+21,13,Bakhshi Narayanan,Boss,Male,56,1988-08-01,9964927636,667686963457,Government Employee,"46/56, Datta Road, Bidar 299468",29,Vijayanagara,Arrested,No,None,Medium,Stick
+22,13,Nidra Mangat,Rocky,Female,28,1966-09-11,9899992884,072663850321,Electrician,"73, Solanki Circle, Guwahati 895134",29,Vijayanagara,Absconding,No,Organized Crime,High,Hands
+23,13,Hardik Din,Silent,Male,48,1956-11-06,9876936664,761009125339,Electrician,"17/69, Rajagopalan Ganj, Silchar-201632",29,Vijayanagara,Arrested,No,None,Low,Stone
+24,13,Arya Krish,Anna,Female,57,2004-03-08,9909262423,939602998026,Sales Executive,"788, Nadig, Pudukkottai 872774",29,Vijayanagara,Arrested,Yes,Local Gang,Low,None
+25,14,Lakshit Verma,Black,Male,55,1981-03-29,9888277529,957181375021,Electrician,"14, Magar Ganj, Imphal-223623",3,Belagavi,Absconding,No,Local Gang,Medium,Stick
+26,14,Triya Reddy,King,Female,50,1973-02-03,9889078549,044649006026,Shop Keeper,"H.No. 366, Bahri, Morena-546688",3,Belagavi,Arrested,No,None,Medium,Hands
+27,14,Yagnesh Kanda,Black,Male,68,1970-01-08,9961685848,483733296400,Sales Executive,"56, Sibal Street, Deoghar-699016",3,Belagavi,Absconding,Yes,None,Medium,Sharp Weapon
+28,14,Vedhika Gopal,King,Female,60,1958-03-22,9874894902,315148351224,Doctor,"755, Mall Marg, Nizamabad-708053",3,Belagavi,Absconding,No,None,Low,Hands
+29,15,Anmol Balasubramanian,Anna,Male,29,2005-11-20,9897330854,160724337750,Shop Keeper,"23/27, Kamdar Zila, Bardhaman-299124",12,Davanagere,Absconding,Yes,None,Low,Knife
+30,16,Amara Muni,Black,Female,56,1986-01-27,9904253165,532902977214,Government Employee,"31/931, Dara Road, Sri Ganganagar-518506",4,Bengaluru Rural,Arrested,Yes,None,High,Hands
+31,16,Chatresh Sant,Black,Male,43,2006-06-24,9987440344,624919463414,Teacher,"28, Yohannan Road, Kirari Suleman Nagar-945314",4,Bengaluru Rural,Arrested,No,None,Low,Firearm
+32,16,Jairaj Shetty,Lucky,Male,50,1985-10-04,9961593788,211676174774,Private Employee,"H.No. 752, Kala Chowk, Rampur-494808",4,Bengaluru Rural,Absconding,No,None,High,None
+33,16,Brijesh Khurana,Lucky,Male,46,1993-09-20,9874675304,032690535970,Farmer,"77/701, Kant Road, Latur-957885",4,Bengaluru Rural,Absconding,No,None,Low,Firearm
+34,17,Oni Pandey,Ranga,Female,24,1992-10-22,9988375124,451324357600,Mechanic,"H.No. 31, Mutti Ganj, Jorhat 337498",25,Shivamogga,Arrested,No,Drug Network,Medium,Sharp Weapon
+35,17,Daksha Hari,Anna,Female,23,1971-04-05,9916936617,056317999065,Business,"H.No. 08, Mahal Street, Meerut 271094",25,Shivamogga,Arrested,No,Cyber Group,Medium,Iron Rod
+36,17,Wriddhish Sastry,Shadow,Male,27,1973-08-12,9872755756,865116697037,Engineer,"11, Swamy Marg, Gangtok 229413",25,Shivamogga,Absconding,No,None,Low,Stone
+37,17,Sathvik Kara,Bullet,Male,41,1996-09-01,9969942359,881268518827,Journalist,"49, Mody Marg, Phagwara-334123",25,Shivamogga,Arrested,No,None,High,Sharp Weapon
+38,18,Bishakha Dugar,Bullet,Female,19,1955-09-12,9900529309,867128617400,Lawyer,"H.No. 03, Mandal Road, Madurai-493618",24,Ramanagara,Arrested,Yes,None,Low,None
+39,19,Falan Lata,King,Male,37,1999-05-15,9870474195,052146246090,Farmer,"499, Sarna Road, Bhind 648877",5,Bengaluru Urban,Absconding,No,None,High,Hands
+40,20,Anusha Sankaran,Shadow,Female,41,1994-06-27,9897302615,713368694117,Lawyer,"H.No. 399, Luthra Nagar, Akola 874296",30,Vijayapura,Arrested,Yes,Cyber Group,Low,Stone
+41,20,Chandani Singhal,Boss,Female,70,1973-12-31,9914062806,274449316372,Private Employee,"12/567, Rattan Road, Malda 545168",30,Vijayapura,Arrested,No,Organized Crime,Medium,Hands
+42,21,Vihaan Sachdev,Tiger,Male,23,1958-06-06,9896364630,839299063869,Government Employee,"70/348, Mani Street, Shivpuri 093248",23,Raichur,Absconding,No,None,Low,Stick
+43,22,Tanvi Chander,Master,Female,42,1967-06-19,9910143401,332901591772,Journalist,"H.No. 274, Mahajan Circle, Karawal Nagar 378263",4,Bengaluru Rural,Surrendered,Yes,None,High,Hands
+44,23,Bakhshi Majumdar,Rocky,Male,63,1996-07-05,9909899675,221771329724,Driver,"40/44, Suri, Amroha-558867",21,Mandya,Arrested,No,None,Medium,Sharp Weapon
+45,23,Girindra Khare,Boss,Male,37,1985-11-11,9909757809,646387619490,Unemployed,"H.No. 576, Doshi Marg, Vadodara-895171",21,Mandya,Arrested,No,Cyber Group,Low,Knife
+46,23,Advika Dhawan,Bullet,Female,23,1977-04-14,9891926606,551693908097,Sales Executive,"45, Rao, Ozhukarai-578091",21,Mandya,Absconding,No,None,Medium,Stick
+47,23,Mitali Karan,Shadow,Female,59,1995-02-19,9894862004,426377891353,Cook,"17/240, Nair Nagar, Durg-562386",21,Mandya,Arrested,Yes,None,High,Knife
+48,24,Harinakshi Gill,Ranga,Female,33,1959-09-28,9989897119,484034250258,Government Employee,"92, Shenoy Ganj, Jaunpur-074821",26,Tumakuru,Arrested,No,None,High,Sharp Weapon
+49,24,Pooja Mistry,King,Female,41,1989-06-03,9874515057,296193739715,Mechanic,"43, Subramanian Marg, Patiala-959440",26,Tumakuru,Arrested,Yes,Organized Crime,Medium,Hands
+50,24,Laksh Anand,Bullet,Male,38,1985-07-20,9913368555,454031438865,Security Guard,"H.No. 39, Kanda Path, Udupi 210470",26,Tumakuru,Absconding,No,None,Medium,Stone
+51,24,Ekaja Chana,Don,Female,28,2003-10-08,9916681609,103164798701,Journalist,"328, Wali Path, Dehradun 745171",26,Tumakuru,Surrendered,No,None,High,Stick
+52,25,Jeevika Ranganathan,Bullet,Female,52,2006-10-28,9896868249,229977644597,Mechanic,"04, Dasgupta Circle, Arrah 965137",26,Tumakuru,Absconding,Yes,Drug Network,High,Firearm
+53,25,Omisha Kant,Shadow,Female,20,1989-11-18,9899096728,252172092213,Shop Keeper,"61/200, Tailor Road, Jalandhar-826758",26,Tumakuru,Absconding,Yes,None,High,Knife
+54,26,Garima Sachdeva,Rowdy,Female,48,1990-04-08,9961936905,579918199349,Private Employee,"H.No. 05, Sawhney Ganj, Noida-158506",25,Shivamogga,Surrendered,No,None,Low,Knife
+55,26,Ikshita Das,King,Female,47,2005-11-08,9965498411,142177571888,Business,"39/005, Dass Ganj, Coimbatore-933529",25,Shivamogga,Arrested,No,Drug Network,Medium,Knife
+56,27,Lakshit Dhillon,Master,Male,34,2007-11-24,9902793706,601345873192,Government Employee,"H.No. 020, Khanna Path, Pune 402681",8,Chikkaballapur,Surrendered,Yes,None,High,Stick
+57,28,Vyanjana Sen,Shadow,Female,62,1996-10-16,9919788765,755391892518,Farmer,"39/08, Shanker Road, Ghaziabad 661771",12,Davanagere,Arrested,Yes,None,Medium,Hands
+58,28,Oeshi Divan,Tiger,Female,26,1959-01-14,9914556302,020475089421,Labourer,"98, Setty Road, Navi Mumbai 836736",12,Davanagere,Surrendered,No,None,High,Hands
+59,29,Vasana Rastogi,Tiger,Female,42,1977-08-09,9900981819,319879474324,Shop Keeper,"54, Dua Path, Jabalpur 116152",23,Raichur,Surrendered,Yes,None,High,Hands
+60,29,Nitesh Das,Don,Male,33,1977-04-30,9880546820,457719295578,Farmer,"H.No. 94, Chawla Path, Bhatpara-315851",23,Raichur,Arrested,No,None,Low,Hands
+61,30,Isaiah Sanghvi,King,Male,58,2000-05-08,9964499673,413748378959,Journalist,"H.No. 244, Panchal Path, Bokaro 961201",16,Haveri,Arrested,No,None,Low,Iron Rod
+62,30,Riya Saini,Shadow,Female,23,1979-08-08,9917126681,775483909919,Private Employee,"H.No. 59, Chad, Bhatpara-901476",16,Haveri,Absconding,No,None,Low,Hands
+63,31,Vaishnavi Sachdeva,Tiger,Female,42,1970-01-13,9905325409,489345212954,Private Employee,"14, Sur, Ranchi 690034",26,Tumakuru,Arrested,Yes,None,Medium,Hands
+64,31,Ekantika Kumer,Ranga,Female,66,1970-11-24,9984774731,518995808001,Cook,"62, Rai Street, Orai 160607",26,Tumakuru,Absconding,Yes,None,Low,Knife
+65,32,Nirja Sanghvi,Boss,Female,60,1985-12-12,9900540752,564919526237,Driver,"H.No. 605, Sharma Street, Hubli–Dharwad-136968",22,Mysuru,Arrested,No,Drug Network,Low,Hands
+66,33,Rudra Mukherjee,Lucky,Male,23,1995-02-01,9903500144,758050288400,Student,"181, Uppal Circle, Karnal-231243",29,Vijayanagara,Arrested,Yes,None,High,Hands
+67,33,Faraj Borra,Rocky,Male,55,1964-12-11,9887730128,383719759048,Doctor,"97/99, Mutti Path, Gandhidham-774490",29,Vijayanagara,Absconding,No,Drug Network,Low,Hands
+68,34,Yashica Borah,Bullet,Female,49,1972-01-04,9883946606,770176731033,Electrician,"H.No. 541, Tripathi Zila, Surendranagar Dudhrej-793597",24,Ramanagara,Arrested,Yes,None,Medium,Stick
+69,34,Azaan Seshadri,Bullet,Male,23,1961-01-15,9895578047,759256122112,Cook,"20/37, Viswanathan Chowk, Bharatpur 466590",24,Ramanagara,Arrested,No,None,Medium,Iron Rod
+70,35,Bachittar Narayan,Ranga,Male,47,1960-07-25,9871038384,486536641337,Labourer,"H.No. 92, Bumb Path, Etawah-629148",5,Bengaluru Urban,Arrested,No,None,High,Iron Rod
+71,35,Omya Datta,Black,Female,25,1991-01-27,9911917079,278087613214,Shop Keeper,"50/54, Kala Street, Shivpuri 322141",5,Bengaluru Urban,Surrendered,Yes,None,Medium,Stick
+72,36,Om Deep,King,Male,68,1987-03-19,9897859126,165669371027,Security Guard,"927, Roy Nagar, Patiala-947383",5,Bengaluru Urban,Arrested,No,None,Medium,Stick
+73,36,Wahab Hari,Boss,Male,40,1975-01-20,9874290873,375307400703,Teacher,"H.No. 68, Sahota Circle, Kollam-407581",5,Bengaluru Urban,Arrested,No,None,Low,None
+74,36,Meghana Chacko,Rocky,Female,53,1996-01-02,9909241640,615372780181,Private Employee,"26/13, Palla Chowk, Vijayanagaram 685361",5,Bengaluru Urban,Arrested,Yes,None,High,Hands
+75,36,Jasmit Bala,Ranga,Female,57,1972-06-12,9905386872,601131654131,Lawyer,"204, Dewan Chowk, Sultan Pur Majra 104328",5,Bengaluru Urban,Surrendered,No,None,Low,None
+76,37,Christopher Mani,Bullet,Male,29,1968-02-25,9898689413,564474157202,Electrician,"697, Choudhry Zila, Kavali 893246",20,Koppal,Arrested,Yes,Local Gang,Medium,Stone
+77,37,Patrick Khosla,Don,Male,35,1985-10-20,9985957742,476280280818,Teacher,"51/88, Tripathi Circle, Pali-065405",20,Koppal,Arrested,No,Local Gang,Medium,Firearm
+78,37,Orinder Khosla,Silent,Male,68,1994-05-28,9888855519,259598174026,Labourer,"058, Gill Path, Nangloi Jat 217043",20,Koppal,Arrested,No,Organized Crime,Medium,Hands
+79,37,Irya Barman,Rowdy,Female,27,1972-04-13,9916630774,768445880966,Doctor,"74/03, Parikh Road, Bathinda 156676",20,Koppal,Arrested,Yes,None,Low,Iron Rod
+80,38,Idika Taneja,Rowdy,Female,36,1992-03-27,9895187870,680914949983,Teacher,"H.No. 616, Gole, Pondicherry 154479",19,Kolar,Arrested,No,None,Low,Hands
+81,39,Fiyaz Sawhney,Boss,Male,43,1974-03-10,9963626704,126068941037,Mechanic,"64/01, Patla Marg, Ludhiana 970213",7,Chamarajanagar,Arrested,Yes,None,High,Iron Rod
+82,40,Pratyush Rajagopal,Don,Male,22,2005-11-17,9915613279,642811734726,Lawyer,"75/571, Devan, Sikar 431027",7,Chamarajanagar,Absconding,No,Local Gang,Medium,Hands
+83,41,Daniel Lala,Cobra,Male,51,1996-08-18,9915720894,145599918536,Software Engineer,"47/31, Borah Street, Malegaon-155188",3,Belagavi,Surrendered,No,None,Low,Knife
+84,41,Mason Dugar,Bullet,Male,21,1993-04-13,9983277446,510099135766,Shop Keeper,"31/32, Tak Ganj, Karimnagar-782911",3,Belagavi,Absconding,No,None,Low,Sharp Weapon
+85,41,Rushil Srinivas,Cobra,Male,47,1983-06-02,9916377177,195771172870,Engineer,"517, Varughese Chowk, Warangal-268018",3,Belagavi,Arrested,No,Drug Network,Medium,Iron Rod
+86,41,Nidra Gala,Silent,Female,50,1964-02-21,9890811786,170800391908,Doctor,"41/43, Maharaj Circle, Avadi-829922",3,Belagavi,Arrested,No,None,Medium,Firearm
+87,42,Ansh Balakrishnan,Shadow,Male,54,1959-11-11,9891602504,887304327723,Mechanic,"69/07, Mann Circle, Karawal Nagar 647102",14,Gadag,Absconding,No,None,Medium,Stone
+88,43,Sarthak Sule,King,Male,44,1980-03-04,9872388906,871524097098,Unemployed,"H.No. 55, De Marg, Kottayam 537147",13,Dharwad,Surrendered,No,Local Gang,Medium,Stick
+89,44,Ekavir Chatterjee,Rocky,Male,58,1958-03-28,9983506128,938342917114,Doctor,"259, Gupta Path, Panchkula-747016",1,Bagalkote,Arrested,No,None,Low,None
+90,44,Jai Kale,Boss,Male,23,1986-06-22,9888376281,793028198550,Mechanic,"H.No. 79, Mangal Chowk, Moradabad 245650",1,Bagalkote,Arrested,No,Organized Crime,High,Knife
+91,45,Atharv Hayer,Black,Male,70,1974-10-09,9903665280,094198304158,Doctor,"87, Mammen Circle, Warangal 655852",27,Udupi,Arrested,No,None,High,Stick
+92,45,Yashoda Ratti,Shadow,Female,46,1982-01-23,9880622450,211856879735,Cook,"578, Dixit Chowk, Khammam 269495",27,Udupi,Arrested,No,None,Low,Firearm
+93,45,Mason Soman,Rowdy,Male,19,1998-10-17,9987095799,162890928738,Security Guard,"16/940, Som, Adoni 097289",27,Udupi,Arrested,Yes,Local Gang,Low,Firearm
+94,45,Ethan Kibe,Cobra,Male,63,1957-03-25,9963519889,510060436831,Electrician,"H.No. 756, Sachar Street, Bulandshahr 028385",27,Udupi,Arrested,No,None,High,Knife
+95,46,Zansi Puri,Silent,Female,22,1972-03-08,9897653397,464375863683,Labourer,"58/54, Sule, Shahjahanpur-843443",22,Mysuru,Arrested,No,Cyber Group,High,Hands
+96,47,Nathan Srinivasan,Rocky,Male,29,1974-01-16,9913866143,033698673026,Teacher,"H.No. 986, Pai Marg, Ramagundam 415747",18,Kodagu,Arrested,Yes,None,Medium,Knife
+97,47,Isha Yohannan,Rocky,Female,49,1969-12-04,9903387572,470021381099,Teacher,"H.No. 993, Bedi Ganj, Muzaffarpur 165712",18,Kodagu,Absconding,No,None,High,Hands
+98,48,Gaurangi Ray,Anna,Female,28,1990-02-28,9871216772,220581342661,Labourer,"34/540, Kata Zila, Akola-206724",5,Bengaluru Urban,Absconding,Yes,None,Low,None
+99,48,Aarna Misra,Anna,Female,49,1985-08-29,9962633310,428516068472,Engineer,"H.No. 78, Tak Circle, Dibrugarh 431527",5,Bengaluru Urban,Absconding,No,None,High,Stick
+100,48,Girik Atwal,Ranga,Male,48,1994-08-07,9890975986,617199814949,Driver,"966, Narang Circle, Rewa 227530",5,Bengaluru Urban,Arrested,Yes,Local Gang,High,Firearm
+101,48,Sanaya Keer,Lucky,Female,53,1979-03-27,9905859075,711559117788,Doctor,"H.No. 99, Lal Nagar, Noida 174268",5,Bengaluru Urban,Arrested,No,None,Low,Hands
+102,49,Dhriti Merchant,Shadow,Female,27,1975-01-14,9916608327,980832460819,Journalist,"727, Prakash, Jamalpur-833918",7,Chamarajanagar,Arrested,No,None,Low,Hands
+103,49,Pratyush Brahmbhatt,Bullet,Male,70,2004-03-03,9907788513,518801882497,Business,"83/98, Gala Street, Saharsa 139718",7,Chamarajanagar,Arrested,No,Cyber Group,Medium,Stick
+104,50,Baghyawati Setty,Rowdy,Female,49,1962-07-20,9914945382,800087222265,Cook,"08/74, Randhawa Nagar, Delhi-910651",5,Bengaluru Urban,Absconding,No,Cyber Group,Medium,Knife
+105,50,Bakhshi Sodhi,Bullet,Male,32,1957-03-28,9896977288,423565099855,Doctor,"656, Purohit Chowk, Jodhpur-512868",5,Bengaluru Urban,Arrested,Yes,Drug Network,Medium,Knife
+106,50,Jasmit Aggarwal,Rowdy,Female,59,1995-08-20,9969615208,843104294759,Government Employee,"86/863, Sharma Ganj, Bhatpara 310690",5,Bengaluru Urban,Absconding,Yes,None,Medium,Iron Rod
+107,50,Ishanvi Bhavsar,Boss,Female,28,1960-11-26,9986524775,998622848354,Software Engineer,"03/06, Kaur Chowk, Pimpri-Chinchwad 843959",5,Bengaluru Urban,Surrendered,No,Cyber Group,Low,Hands
+108,51,Jagat Mittal,Cobra,Male,61,2001-12-31,9905481939,891810393042,Cook,"H.No. 40, Gill Circle, Miryalaguda-056856",11,Dakshina Kannada,Absconding,Yes,Local Gang,Low,Hands
+109,52,Falguni Mital,Rowdy,Female,58,1975-07-05,9904930130,381662631351,Shop Keeper,"427, Sachar Nagar, Proddatur-634351",28,Uttara Kannada,Surrendered,Yes,None,Medium,Stick
+110,52,Qasim Chanda,Ranga,Male,39,1983-12-12,9903199427,175136082509,Electrician,"H.No. 69, Baral, Maheshtala-735403",28,Uttara Kannada,Absconding,Yes,None,Low,Knife
+111,52,Dhriti Srinivas,Don,Female,48,2004-01-09,9961663662,618171111125,Engineer,"854, Shukla Marg, Aizawl-587717",28,Uttara Kannada,Arrested,No,None,High,Knife
+112,52,Ishani Prabhakar,Ranga,Female,33,1972-02-21,9870015497,079649208883,Mechanic,"20/489, Sahni, Jamnagar 536937",28,Uttara Kannada,Absconding,No,Local Gang,Low,Knife
+113,53,Kabir Suresh,Boss,Male,39,2006-10-13,9898927331,448644811798,Labourer,"522, Suresh Circle, Hosur-801006",23,Raichur,Arrested,No,None,Low,Sharp Weapon
+114,53,Kala Bir,Silent,Female,57,1993-01-14,9878878448,406085772985,Labourer,"75/09, Subramanian, Pune 886008",23,Raichur,Arrested,No,None,Low,Hands
+115,53,Luke Badal,Boss,Male,70,1982-03-05,9918609544,173325538045,Electrician,"H.No. 182, Handa Ganj, Raichur-615679",23,Raichur,Arrested,No,None,Medium,Knife
+116,53,Jeevika Mital,Boss,Female,44,1991-10-24,9875006635,269302456467,Lawyer,"H.No. 666, Soni Circle, Bangalore 176591",23,Raichur,Absconding,Yes,None,Medium,Knife
+117,54,Jyoti Kakar,Shadow,Female,62,2003-04-29,9870117716,193477149857,Farmer,"H.No. 148, Bali, Satna-392614",19,Kolar,Arrested,No,Drug Network,Low,Hands
+118,55,Kavya Ramachandran,Tiger,Female,55,1991-06-10,9909796181,663846623328,Private Employee,"21/850, Sarkar Zila, Aurangabad 999650",5,Bengaluru Urban,Absconding,No,None,Medium,Stone
+119,55,Umang Swaminathan,Rowdy,Male,30,1967-08-25,9886236969,563134564782,Farmer,"961, Merchant, Srinagar-426265",5,Bengaluru Urban,Arrested,No,None,Low,Knife
+120,56,Chatresh Chand,Silent,Male,35,1955-10-31,9987961072,534665263576,Private Employee,"H.No. 41, Chahal Street, Chinsurah 888610",28,Uttara Kannada,Surrendered,No,Drug Network,High,Stick
+121,57,Peter Chander,Black,Male,18,1987-03-12,9962678897,675679216115,Student,"H.No. 466, Kibe Zila, Nadiad 244472",13,Dharwad,Arrested,Yes,None,High,Iron Rod
+122,57,Geetika Saran,Rocky,Female,47,1970-03-08,9969095768,375075957154,Cook,"H.No. 543, Hayre Chowk, Aligarh 406596",13,Dharwad,Arrested,Yes,None,Low,Firearm
+123,58,Urvi Natt,King,Female,53,1978-05-19,9987613269,208371270575,Electrician,"H.No. 93, Murthy Chowk, Sikar-479356",17,Kalaburagi,Arrested,No,None,Medium,Sharp Weapon
+124,58,Ronith Patla,Tiger,Male,67,1961-08-04,9915626268,288748060700,Labourer,"80/737, Biswas Road, Panchkula-434266",17,Kalaburagi,Arrested,No,None,Low,Hands
+125,58,Vanya Srinivas,Shadow,Female,58,1986-06-01,9904065667,570917307436,Lawyer,"H.No. 89, Chopra Zila, Raichur-909656",17,Kalaburagi,Arrested,Yes,Local Gang,High,Stone
+126,58,Abdul Chaudhari,Tiger,Male,37,1969-04-08,9968986908,105350277298,Security Guard,"H.No. 67, Tella, Hapur-714611",17,Kalaburagi,Arrested,Yes,None,Low,Sharp Weapon
+127,59,Owen Muni,Rocky,Male,66,1973-09-27,9914520074,316169346355,Shop Keeper,"H.No. 71, Sethi Chowk, Jabalpur-010512",22,Mysuru,Surrendered,No,None,Medium,Knife
+128,59,Yauvani Ghosh,Rowdy,Female,41,1984-10-22,9886344741,602881767886,Sales Executive,"36, Grewal Street, Tenali 937966",22,Mysuru,Arrested,No,Cyber Group,Medium,Hands
+129,60,Jalsa Jha,Rowdy,Female,59,1970-04-23,9981385815,030299671155,Engineer,"25/53, Comar Chowk, Unnao 969691",2,Ballari,Absconding,No,None,Low,Hands
+130,61,Patrick Shankar,Ranga,Male,22,1988-04-11,9893029344,093758825163,Labourer,"25/134, Goswami Zila, Ajmer 692966",4,Bengaluru Rural,Arrested,No,Drug Network,Low,Iron Rod
+131,62,Widisha Yogi,Master,Female,70,1992-04-23,9983780842,521168643164,Teacher,"42, Murty Street, Udupi-507236",22,Mysuru,Absconding,Yes,None,Medium,Knife
+132,62,Samarth Swamy,Cobra,Male,58,1977-08-02,9910502195,507620498186,Private Employee,"190, Master Ganj, Panipat-842797",22,Mysuru,Absconding,No,None,Low,Hands
+133,63,Deepa Loyal,Anna,Female,56,1996-08-21,9910310596,861958570695,Farmer,"78/361, Mishra Ganj, Hospet 517133",30,Vijayapura,Absconding,No,None,Low,Hands
+134,63,Upadhriti Gandhi,King,Female,32,1988-03-19,9984738985,427905520705,Mechanic,"H.No. 958, Yohannan Road, North Dumdum-494812",30,Vijayapura,Absconding,Yes,None,Low,Hands
+135,64,Bhanumati Malhotra,Silent,Female,59,2001-07-06,9912843267,474352337786,Private Employee,"253, Suri Marg, Gangtok-667116",5,Bengaluru Urban,Absconding,Yes,None,Medium,None
+136,64,Qarin Sha,Shadow,Male,28,2005-12-02,9909001940,200396575986,Cook,"17/518, Kamdar Marg, Rajpur Sonarpur 454589",5,Bengaluru Urban,Surrendered,Yes,None,Low,None
+137,64,Xavier Oza,Don,Male,57,2002-12-12,9886369023,642079575538,Shop Keeper,"H.No. 701, Sastry Street, Mumbai 324241",5,Bengaluru Urban,Arrested,No,None,Low,None
+138,64,Jeremiah Butala,Black,Male,53,1975-04-07,9875315257,243423768842,Government Employee,"43, Chand Marg, Mumbai-712938",5,Bengaluru Urban,Surrendered,No,None,Low,Hands
+139,65,Aayush Anand,Rowdy,Male,62,1992-06-04,9982237351,325179172222,Engineer,"27/136, Chaudry Zila, Satara 426221",21,Mandya,Absconding,Yes,None,High,Knife
+140,65,Fitan Sarraf,Black,Male,66,1974-03-03,9985046498,849922507455,Private Employee,"97, Chadha Ganj, Kolhapur-965652",21,Mandya,Absconding,No,None,Medium,Stick
+141,66,Lakshit Chad,Don,Male,18,1968-09-16,9962536252,463427382115,Software Engineer,"43/898, Ramanathan Ganj, Meerut 761379",28,Uttara Kannada,Absconding,No,None,High,Sharp Weapon
+142,66,Abeer Patel,Rocky,Male,69,2005-01-20,9961814985,773553608464,Shop Keeper,"65/82, Bora Chowk, Dharmavaram-043006",28,Uttara Kannada,Arrested,Yes,Organized Crime,Low,Hands
+143,67,Zashil Sagar,Master,Male,40,1978-01-02,9986656592,357406498694,Private Employee,"88/924, Mukherjee Zila, Sasaram-285691",26,Tumakuru,Absconding,No,None,Low,Knife
+144,68,Urmi Khare,Shadow,Female,63,1958-08-17,9896387975,418122772309,Doctor,"H.No. 799, More Nagar, Jamshedpur 202758",15,Hassan,Arrested,No,Local Gang,Low,Stick
+145,69,Fiyaz Prabhu,Master,Male,23,1962-04-14,9969327415,103984895195,Sales Executive,"H.No. 564, Bhatt Circle, Gangtok 778507",22,Mysuru,Absconding,No,None,Medium,Hands
+146,70,Raksha Dugar,Anna,Female,40,1969-01-28,9905843230,883409940422,Labourer,"800, Konda Nagar, Chittoor 622086",26,Tumakuru,Arrested,No,None,Low,Sharp Weapon
+147,71,Oeshi Kothari,Tiger,Female,32,1977-08-14,9890657662,652101144743,Journalist,"H.No. 951, Ben Circle, Rajahmundry 617445",5,Bengaluru Urban,Arrested,Yes,None,Low,Knife
+148,71,Vedant Anand,Boss,Male,32,1975-02-09,9871433794,738907041888,Farmer,"93/759, Hayre Chowk, Saharanpur 603850",5,Bengaluru Urban,Absconding,No,Drug Network,Low,Stick
+149,72,Aadi Puri,Rocky,Male,47,2000-07-21,9967594633,609526188216,Farmer,"836, Bhasin Chowk, Parbhani 038657",6,Bidar,Absconding,Yes,None,Low,Hands
+150,72,Charvi Tiwari,Silent,Female,62,1962-08-19,9911724639,703151435638,Engineer,"90/62, Manne Ganj, Satna-557431",6,Bidar,Absconding,Yes,None,High,Firearm
+151,72,Ekanta Chopra,Master,Female,53,1963-10-17,9895455348,581548547578,Sales Executive,"56, Wason Zila, Dhule-474112",6,Bidar,Absconding,No,Local Gang,Medium,Iron Rod
+152,72,Anusha Kale,Master,Female,30,1999-11-11,9916712430,609101106346,Software Engineer,"H.No. 356, Bawa Circle, Bhilwara 067883",6,Bidar,Arrested,Yes,None,High,Hands
+153,73,Vedhika Chaudry,Don,Female,23,1998-03-01,9908059437,820039907515,Security Guard,"H.No. 032, Rattan Ganj, Guwahati-101372",26,Tumakuru,Surrendered,No,None,Medium,Hands
+154,74,Oni Das,King,Female,61,1957-10-26,9907417556,559959846832,Journalist,"966, Balan Chowk, Purnia-532447",11,Dakshina Kannada,Absconding,Yes,None,High,None
+155,74,Anika Korpal,Bullet,Female,18,1989-11-11,9960201809,237989555041,Labourer,"70/14, Devan Marg, Kollam-806578",11,Dakshina Kannada,Arrested,No,Organized Crime,Low,Iron Rod
+156,75,Orinder Thakkar,Don,Male,64,1972-08-07,9877718659,537500738488,Farmer,"H.No. 593, Mand Nagar, Chittoor 932133",16,Haveri,Absconding,No,None,Medium,None
+157,76,Baghyawati Kanda,Black,Female,51,1986-01-25,9873536169,975047134752,Engineer,"239, Parmer Path, Nagercoil-937842",30,Vijayapura,Absconding,No,None,Medium,Knife
+158,77,Anjali Chana,Shadow,Female,59,1958-07-14,9911672073,906433503969,Mechanic,"70/59, De Ganj, Belgaum-002921",9,Chikkamagaluru,Arrested,No,None,Medium,None
+159,78,Balhaar Prakash,Anna,Male,25,1992-11-24,9960998806,140252524716,Software Engineer,"H.No. 45, Dugar Street, Morbi-289539",22,Mysuru,Surrendered,No,None,Low,Hands
+160,79,Saanvi Mohanty,Shadow,Female,21,1994-06-17,9906032868,086239038515,Engineer,"096, Bali, Madanapalle 939172",5,Bengaluru Urban,Absconding,No,Cyber Group,Low,Knife
+161,79,Brinda Khanna,King,Female,65,1973-12-08,9880633992,023999923317,Mechanic,"15/704, Krish Ganj, Etawah 100676",5,Bengaluru Urban,Absconding,No,None,Low,Hands
+162,80,Triveni Tailor,Boss,Female,37,2002-04-17,9913521588,375199199359,Shop Keeper,"H.No. 793, Seth Street, Visakhapatnam 054115",25,Shivamogga,Absconding,Yes,None,Low,Knife
+163,80,Riya Dyal,Shadow,Female,37,1994-05-09,9907867111,096665200718,Software Engineer,"97/06, Saraf Street, Meerut 533688",25,Shivamogga,Arrested,No,None,Low,Sharp Weapon
+164,80,Lohit Mishra,Rocky,Male,20,1968-02-23,9907024797,099843424073,Farmer,"87/20, Aggarwal Path, Chandigarh 973103",25,Shivamogga,Surrendered,No,None,Medium,Hands
+165,80,Madhav Bumb,Tiger,Male,46,1980-08-27,9908095375,560233844605,Security Guard,"77, Chand Road, Udaipur 652704",25,Shivamogga,Absconding,No,None,Low,Knife
+166,81,Viraj Lall,Master,Male,43,1967-07-19,9903048880,367170760779,Security Guard,"115, Sachdev Circle, Begusarai 686879",11,Dakshina Kannada,Arrested,No,Local Gang,High,Stick
+167,81,Wazir Mistry,Ranga,Male,28,1959-09-28,9981703792,189070448642,Sales Executive,"H.No. 722, Hans Ganj, Kalyan-Dombivli 163294",11,Dakshina Kannada,Arrested,No,None,Low,Knife
+168,82,Bhavna Chahal,Tiger,Female,57,1976-02-16,9965801608,682904166657,Private Employee,"H.No. 87, Virk Nagar, Gorakhpur-229991",9,Chikkamagaluru,Absconding,No,None,Medium,Firearm
+169,82,Daksha Mangal,Bullet,Female,42,2001-07-14,9980452162,556617694699,Mechanic,"H.No. 67, Solanki, Malegaon 629960",9,Chikkamagaluru,Absconding,No,None,Medium,Iron Rod
+170,82,Oni Khanna,Bullet,Female,51,1958-03-03,9966416790,061879435602,Electrician,"H.No. 05, Mukhopadhyay Road, Pallavaram-324754",9,Chikkamagaluru,Arrested,Yes,None,Medium,Firearm
+171,82,Chanchal Guha,Bullet,Female,39,1978-12-20,9907601336,976468537478,Private Employee,"50/82, Mukhopadhyay Zila, Bhavnagar-233030",9,Chikkamagaluru,Absconding,No,None,Medium,Hands
+172,83,Arya Patel,Bullet,Female,22,1992-11-26,9882096853,587730442492,Unemployed,"86, Balasubramanian Zila, Serampore 972798",19,Kolar,Arrested,Yes,None,Low,Knife
+173,83,Orinder Gade,Rowdy,Male,69,1999-12-15,9909134833,709592038130,Lawyer,"H.No. 06, Gaba Nagar, Korba 346800",19,Kolar,Arrested,No,None,Medium,Stick
+174,84,Dominic Ghose,Don,Male,54,1987-06-02,9983831234,112065233172,Student,"H.No. 94, Sampath Road, Karnal 437489",3,Belagavi,Arrested,Yes,None,Low,Sharp Weapon
+175,84,Dalaja Amble,Lucky,Female,61,1982-09-01,9871041558,663876597418,Engineer,"H.No. 17, Nayar Zila, Anantapur 443283",3,Belagavi,Arrested,No,None,Medium,Firearm
+176,84,Saksham Nagarajan,Cobra,Male,32,1991-08-21,9888693667,840434176118,Security Guard,"H.No. 46, Rama Marg, Ballia 538758",3,Belagavi,Arrested,Yes,None,Medium,Knife
+177,84,Harinakshi Golla,Boss,Female,33,1971-02-16,9912140264,953616778153,Cook,"48/251, Pant Ganj, Aizawl-554947",3,Belagavi,Arrested,No,None,Low,None
+178,85,Vrinda Bera,Lucky,Female,38,2001-06-23,9906021578,764264282769,Unemployed,"816, Misra Circle, Meerut 235697",10,Chitradurga,Surrendered,No,None,Low,Firearm
+179,85,Nisha Gole,Black,Female,26,1996-11-03,9982350783,882733335641,Mechanic,"25/007, Kadakia Road, Gangtok-712966",10,Chitradurga,Arrested,No,None,High,Stick
+180,86,Tanish Sood,Anna,Male,18,1975-11-15,9876186911,888696448324,Sales Executive,"50/583, Agrawal Nagar, Kamarhati 421689",13,Dharwad,Absconding,No,None,Low,Iron Rod
+181,87,Geetika Bhattacharyya,Cobra,Female,20,1999-03-22,9875714617,997408047906,Journalist,"89, Nazareth Circle, Guntur 753260",9,Chikkamagaluru,Absconding,No,None,Low,None
+182,87,Jasmit Deep,Boss,Female,54,1966-10-01,9963392165,372655627041,Student,"H.No. 506, Warrior Road, Hindupur 100167",9,Chikkamagaluru,Arrested,No,None,High,Knife
+183,88,David Krishnan,Silent,Male,56,1980-09-12,9889763172,150995887436,Electrician,"04/618, Devan Road, Vasai-Virar-411739",16,Haveri,Arrested,No,None,Medium,Stone
+184,88,Karan Virk,Rowdy,Male,28,2007-02-18,9903377537,418094696096,Electrician,"H.No. 20, Taneja Circle, Ongole 300119",16,Haveri,Surrendered,No,None,Low,Sharp Weapon
+185,89,Falguni Chana,Anna,Female,59,1996-11-14,9913777513,615680014221,Cook,"H.No. 37, Lalla Road, Dhanbad 204556",5,Bengaluru Urban,Arrested,No,Cyber Group,Low,Hands
+186,90,Champak Bath,Cobra,Male,63,1956-01-26,9870637681,112604976672,Doctor,"H.No. 57, Loyal, Serampore-216674",14,Gadag,Absconding,Yes,None,Low,Stick
+187,91,William Sama,Lucky,Male,46,1989-12-12,9874961417,269710524816,Student,"021, Subramanian Marg, Bokaro-590277",30,Vijayapura,Arrested,Yes,None,Low,Knife
+188,91,Tripti Sastry,Rowdy,Female,48,1957-12-28,9904780236,715933096383,Labourer,"H.No. 899, Nigam Ganj, Bhiwani 756289",30,Vijayapura,Absconding,No,None,Low,Hands
+189,92,Abdul Dugar,Rocky,Male,37,1982-05-09,9963164841,009237649890,Unemployed,"175, Narayanan Ganj, Dhanbad-866317",11,Dakshina Kannada,Absconding,Yes,None,High,Knife
+190,92,Vanya Chakrabarti,Rowdy,Female,61,2000-12-15,9988159016,490711037415,Software Engineer,"H.No. 701, Sachar Marg, Proddatur-199488",11,Dakshina Kannada,Arrested,No,None,Low,Hands
+191,93,Vasatika Om,Tiger,Female,39,1974-10-24,9988741653,920102713125,Engineer,"58, Solanki, Bidhannagar 130554",5,Bengaluru Urban,Absconding,Yes,Local Gang,Low,Hands
+192,94,Chatresh Bath,Cobra,Male,18,2003-02-03,9871068487,626549601496,Electrician,"61/493, Dara Ganj, Thrissur-351609",11,Dakshina Kannada,Arrested,No,None,High,Hands
+193,95,Varenya Shankar,Boss,Female,66,1990-06-16,9915462011,894190322684,Electrician,"H.No. 808, Subramanian Marg, Adoni-216995",19,Kolar,Surrendered,No,Local Gang,Medium,Knife
+194,96,Shaurya Kothari,Rocky,Male,33,1970-01-21,9964547821,224180504261,Mechanic,"22, Vala Marg, Motihari 833394",5,Bengaluru Urban,Absconding,Yes,Drug Network,Low,Hands
+195,97,Dominic Gokhale,Rowdy,Male,62,1982-04-06,9910184138,676619808495,Shop Keeper,"H.No. 87, Sahni, Bhusawal 810620",1,Bagalkote,Arrested,No,Organized Crime,Low,Stick
+196,98,Harish Loke,Don,Male,55,1995-04-26,9889840975,438604076423,Security Guard,"42/043, Bali Circle, Bidhannagar-983863",9,Chikkamagaluru,Arrested,No,None,Medium,Stick
+197,99,Arjun Raj,Lucky,Male,47,1976-02-05,9907847346,808304295770,Farmer,"H.No. 439, Kar Chowk, Giridih 347212",25,Shivamogga,Surrendered,No,Cyber Group,Low,Hands
+198,99,Darpan Purohit,King,Male,42,1957-09-16,9894036757,135677877738,Unemployed,"294, Narayanan Nagar, Bhatpara 259094",25,Shivamogga,Arrested,No,None,Medium,Knife
+199,99,Praneel Bora,Tiger,Male,48,1997-02-10,9965884366,981803190111,Sales Executive,"818, Sagar Street, Tiruchirappalli 335554",25,Shivamogga,Arrested,No,None,High,Hands
+200,99,Wazir Andra,Bullet,Male,48,1961-08-20,9894701088,535674655458,Farmer,"993, Nagi Nagar, Raipur 484085",25,Shivamogga,Arrested,Yes,Drug Network,Medium,Hands
+201,100,Yagnesh Bassi,Rocky,Male,40,1971-04-08,9894197298,661203121503,Student,"11/28, Amble Circle, Bhagalpur-613861",22,Mysuru,Arrested,Yes,None,Low,None
+202,101,Amaira Sharaf,Lucky,Female,49,1993-07-20,9981430793,742995159467,Business,"H.No. 024, Bobal Circle, Rampur 676650",26,Tumakuru,Absconding,Yes,None,Medium,Knife
+203,102,Dhriti Warrior,Silent,Female,40,1955-11-14,9873615771,086993465063,Journalist,"15/814, Chadha Road, Bahraich 607283",30,Vijayapura,Arrested,No,None,Low,Firearm
+204,102,Rohan Merchant,Anna,Male,31,2006-06-12,9968744178,748513953953,Mechanic,"50/882, Barman Zila, Chapra-881435",30,Vijayapura,Surrendered,No,None,Medium,Stick
+205,102,Samuel Vala,Don,Male,29,1963-02-08,9983508835,400298468446,Government Employee,"43/12, Bhagat, Jamalpur-414139",30,Vijayapura,Absconding,Yes,Drug Network,Medium,Hands
+206,102,Oni Parikh,King,Female,54,1962-05-09,9908646155,810381124932,Cook,"H.No. 91, Nadkarni Ganj, Hospet-949299",30,Vijayapura,Arrested,No,None,Medium,Knife
+207,103,Nakul Sangha,Lucky,Male,52,1964-06-29,9898863660,580534391121,Electrician,"645, Narula Street, Surendranagar Dudhrej 547812",27,Udupi,Absconding,No,Organized Crime,Medium,None
+208,103,Meera Dey,Boss,Female,47,2002-10-18,9871103614,959137116632,Shop Keeper,"11/080, Ravel, Vadodara-887256",27,Udupi,Absconding,No,None,Medium,Knife
+209,104,Maanav Desai,Rocky,Male,30,1980-03-09,9870654903,001652601725,Electrician,"H.No. 80, Gandhi Ganj, Amroha 299275",9,Chikkamagaluru,Arrested,Yes,None,Medium,Hands
+210,104,Imaran Sura,Cobra,Male,51,1967-11-03,9887917079,984616189454,Lawyer,"038, Rama Path, Malda 051844",9,Chikkamagaluru,Arrested,No,None,Medium,Knife
+211,105,Raghav Radhakrishnan,King,Male,23,1974-12-01,9894347682,494888930663,Electrician,"38, Pandit Marg, Morbi 908272",5,Bengaluru Urban,Arrested,No,None,Medium,Knife
+212,105,Balvan Varkey,Cobra,Male,22,1989-08-30,9899359187,275276446442,Student,"259, Karpe Zila, Bathinda-777392",5,Bengaluru Urban,Arrested,No,None,High,Hands
+213,106,Advay Kohli,Anna,Male,65,1957-11-04,9878401633,676544245585,Private Employee,"80/920, Kuruvilla Street, Hazaribagh-990413",1,Bagalkote,Arrested,No,Cyber Group,Low,Stick
+214,106,Vrishti Subramaniam,Master,Female,46,1964-08-06,9900167814,337545545102,Student,"29/84, Oommen Street, Kavali-366210",1,Bagalkote,Absconding,No,Drug Network,Low,Firearm
+215,107,Zayyan Saini,Anna,Male,26,1999-05-13,9983857634,940223068115,Engineer,"99, Wali Nagar, Tiruchirappalli 298068",22,Mysuru,Surrendered,No,Cyber Group,Low,Hands
+216,108,Qasim Bassi,Bullet,Male,38,1992-07-13,9905304624,861292690822,Security Guard,"65, Chaudhari, Guntur-731498",19,Kolar,Arrested,No,Local Gang,Low,Iron Rod
+217,108,Kabir Gulati,Tiger,Male,55,1955-11-05,9892554308,526342565865,Sales Executive,"06/35, Pathak Marg, Bhatpara 944869",19,Kolar,Arrested,No,Local Gang,Medium,None
+218,108,Manya Ranganathan,Don,Female,54,1995-07-28,9966531163,438024862641,Shop Keeper,"588, Kulkarni Chowk, Gangtok-621372",19,Kolar,Absconding,Yes,None,High,Firearm
+219,108,Hredhaan Trivedi,Rowdy,Male,30,1976-10-14,9882072560,770832098683,Unemployed,"601, Sinha Street, Hubli–Dharwad 435190",19,Kolar,Arrested,No,Local Gang,High,Knife
+220,109,Suhani Verma,Black,Female,49,1970-09-27,9872183537,241194254393,Engineer,"77/038, Hayer Road, Khora  920530",15,Hassan,Arrested,No,Local Gang,Low,Iron Rod
+221,109,Chameli Majumdar,Black,Female,70,1996-11-17,9890968696,725393818839,Lawyer,"93, Aurora Circle, Mysore 895543",15,Hassan,Surrendered,No,Cyber Group,Medium,Firearm
+222,110,Utkarsh Raval,Rowdy,Male,28,1986-01-10,9906874088,944878886536,Teacher,"81, Bora Circle, Mau 848947",17,Kalaburagi,Arrested,No,Local Gang,Medium,Hands
+223,110,Warhi Kohli,Cobra,Female,68,1995-09-14,9961463015,987867347268,Security Guard,"07/14, Raja Zila, Berhampur-658804",17,Kalaburagi,Arrested,Yes,None,Low,Firearm
+224,111,Maanas Chander,Ranga,Male,19,1976-09-12,9879669917,144203917494,Doctor,"27/55, Luthra Ganj, Jhansi 333433",23,Raichur,Arrested,No,Cyber Group,High,Iron Rod
+225,111,Kritika Parekh,Silent,Female,65,1963-10-28,9903422871,170924256048,Driver,"H.No. 790, Basak Circle, Serampore 794728",23,Raichur,Arrested,No,None,Medium,Stick
+226,111,Rushil Kapadia,Shadow,Male,53,1995-04-26,9870943668,780539618011,Mechanic,"67/80, Palan Circle, Akola-187500",23,Raichur,Surrendered,No,None,Medium,Knife
+227,111,Sachi Chaudhuri,Cobra,Female,25,1972-10-21,9890188792,867238397186,Teacher,"43/47, Oza, Udaipur 636556",23,Raichur,Arrested,No,None,Medium,Knife
+228,112,Varenya Gole,Anna,Female,45,1985-11-03,9879903744,881081152855,Electrician,"43/866, Dhingra Ganj, Bhalswa Jahangir Pur-267288",22,Mysuru,Arrested,No,None,Medium,Stick
+229,112,Widisha Mital,Silent,Female,19,1968-11-09,9896635981,086495096937,Lawyer,"H.No. 203, Soni Road, Hospet 455884",22,Mysuru,Absconding,No,Organized Crime,High,Knife
+230,112,Aishani Sabharwal,Lucky,Female,69,1961-12-25,9877560227,302346912879,Engineer,"H.No. 55, Sura Circle, Vijayawada-947225",22,Mysuru,Arrested,No,Organized Crime,Medium,Hands
+231,112,Tanmayi Bora,Cobra,Female,42,1959-10-01,9902604316,059667956040,Unemployed,"H.No. 54, Rana Road, Raiganj 987622",22,Mysuru,Arrested,No,Cyber Group,High,Knife
+232,113,Edhitha Keer,Bullet,Female,36,1990-08-24,9910001406,522051611308,Private Employee,"611, Solanki Zila, Indore 811492",16,Haveri,Absconding,No,None,High,Stone
+233,113,Robert More,Ranga,Male,31,1967-09-18,9880926403,064467738669,Student,"22/820, Parikh Nagar, Fatehpur 848728",16,Haveri,Arrested,No,None,Low,Knife
+234,113,Vedant Saran,Rowdy,Male,19,1983-04-20,9884128850,714197440422,Shop Keeper,"83, Sathe Zila, Ambarnath 424008",16,Haveri,Arrested,No,None,Medium,Knife
+235,113,Pooja Mangat,Ranga,Female,65,1980-06-04,9915524456,684754308444,Government Employee,"40, Master Marg, Chennai 368663",16,Haveri,Absconding,No,None,Low,Knife
+236,114,Saumya Radhakrishnan,Ranga,Female,32,1967-04-01,9912936861,279867778627,Engineer,"38/944, Luthra Circle, Maheshtala 224179",31,Yadgir,Arrested,No,None,Medium,Knife
+237,114,Madhavi Swamy,Lucky,Female,33,1965-07-05,9885932618,583125497775,Journalist,"H.No. 802, Manda Zila, Cuttack 031207",31,Yadgir,Absconding,Yes,None,Medium,Hands
+238,115,Pavani Salvi,Boss,Female,66,1972-01-26,9879768155,112377748138,Engineer,"05, Dhingra Zila, Shimoga-187234",1,Bagalkote,Arrested,No,Local Gang,Low,Stick
+239,115,Abha Dara,Silent,Female,36,2007-03-19,9911274627,571498956947,Teacher,"30, Sharma Ganj, Saharsa-764520",1,Bagalkote,Surrendered,No,None,High,Knife
+240,115,Lajita Srivastava,Lucky,Female,21,1989-05-26,9907669067,652465379025,Cook,"H.No. 313, Nair Marg, Rourkela-916300",1,Bagalkote,Arrested,Yes,Cyber Group,Medium,Hands
+241,115,Garima Prabhu,Master,Female,62,1996-05-29,9898741303,771920557107,Farmer,"19, Bhasin Path, Raurkela Industrial Township-812735",1,Bagalkote,Absconding,Yes,None,Medium,Firearm
+242,116,Urvashi Hans,Master,Female,34,1956-09-08,9965179450,327579682268,Security Guard,"24/077, Menon Circle, Jhansi-855749",17,Kalaburagi,Absconding,No,None,Low,Hands
+243,116,Bakhshi Wali,Shadow,Male,70,1963-10-10,9983078008,443555324449,Journalist,"57/08, Goyal Marg, Udupi 935186",17,Kalaburagi,Arrested,No,None,Medium,Knife
+244,117,Yuvraj Dube,Tiger,Male,63,1988-01-18,9918124793,964150139347,Teacher,"51/181, Dayal Nagar, Patna 173109",7,Chamarajanagar,Arrested,No,None,Low,None
+245,117,Wishi Vora,Master,Female,18,1988-08-17,9875004343,388116761706,Journalist,"H.No. 39, Arya Zila, Pallavaram 705865",7,Chamarajanagar,Arrested,No,None,High,Stick
+246,117,Lila Wadhwa,Anna,Female,59,1957-09-17,9878757751,516505148191,Driver,"H.No. 381, Kashyap Zila, Jhansi 839288",7,Chamarajanagar,Arrested,Yes,Organized Crime,Medium,Sharp Weapon
+247,117,Damyanti Parmar,Anna,Female,43,1991-04-22,9910804483,210112034163,Doctor,"286, Nazareth Circle, Deoghar-558556",7,Chamarajanagar,Arrested,No,None,High,Knife
+248,118,Ojasvi Khosla,Ranga,Female,70,1985-05-27,9870252559,235006905517,Software Engineer,"45/77, Acharya Marg, Anantapuram-824043",22,Mysuru,Arrested,No,None,Medium,Stick
+249,118,Nakul Bains,Master,Male,41,1996-06-12,9919754940,482909458336,Driver,"H.No. 075, Devi Street, Ambarnath 344196",22,Mysuru,Arrested,No,None,Low,Knife
+250,119,Brinda Nair,Tiger,Female,62,1997-07-31,9878798258,896972632939,Shop Keeper,"91/940, Raj, Pimpri-Chinchwad-566139",10,Chitradurga,Arrested,No,Cyber Group,Medium,Stick
+251,119,Sai Bhagat,Don,Female,66,1971-09-17,9905760086,638831760494,Cook,"92/58, Dua Ganj, Singrauli 998136",10,Chitradurga,Absconding,No,Local Gang,Low,Hands
+252,120,Shravya Divan,Master,Female,69,1962-07-25,9962990476,096125117661,Unemployed,"08/64, Rastogi Zila, Bikaner 783769",23,Raichur,Arrested,Yes,None,Low,Iron Rod
+253,120,Zaitra Koshy,Lucky,Female,30,1968-05-25,9986965254,969094926437,Labourer,"H.No. 91, Sachdev Zila, Ambarnath 355904",23,Raichur,Arrested,No,None,Low,None
+254,120,Parth Sathe,Rocky,Male,39,1988-08-02,9878892699,130604079824,Cook,"352, Chowdhury Zila, Latur-405147",23,Raichur,Absconding,No,None,Low,Hands
+255,120,Alka Narula,Cobra,Female,66,1966-08-20,9876500038,019436065230,Journalist,"84/87, Dhaliwal, Gandhinagar-420439",23,Raichur,Surrendered,No,None,Medium,Stone
+256,121,Avni Shroff,Anna,Female,57,1990-04-05,9911660551,075891534611,Lawyer,"45, Bahl Zila, Kharagpur 681579",25,Shivamogga,Arrested,Yes,Drug Network,Medium,Stick
+257,122,Girik Issac,Master,Male,27,1982-02-03,9903330560,588412973669,Private Employee,"H.No. 384, Suri Path, Sangli-Miraj & Kupwad-555438",7,Chamarajanagar,Surrendered,No,None,Low,Hands
+258,122,Azaan Kurian,Tiger,Male,24,2002-02-16,9908949664,247883480035,Student,"256, Chahal Street, Saharsa 639264",7,Chamarajanagar,Arrested,Yes,Local Gang,Low,Hands
+259,123,Udarsh Deep,King,Male,30,1966-07-07,9891873510,890637193286,Mechanic,"482, Dhillon Marg, Ratlam-881252",10,Chitradurga,Surrendered,No,Organized Crime,Low,Sharp Weapon
+260,123,Nathaniel Sachdev,Boss,Male,68,2006-07-02,9881335920,615730788982,Unemployed,"42/312, Bal Street, Medininagar 933051",10,Chitradurga,Absconding,No,None,Low,Hands
+261,124,Ekani Thakkar,Rocky,Female,49,2000-05-27,9914336742,495022833859,Business,"677, Gade Street, Kamarhati-604633",13,Dharwad,Arrested,Yes,None,Medium,Stone
+262,124,Bachittar Goel,Anna,Male,47,2004-09-10,9916444833,126308567900,Doctor,"57/366, Rai Nagar, Singrauli-817703",13,Dharwad,Arrested,No,None,Medium,Hands
+263,125,Anmol Ram,Silent,Male,63,1982-11-29,9919977902,874456457132,Journalist,"H.No. 76, Mangal Road, Rourkela 490827",13,Dharwad,Arrested,Yes,None,Medium,Hands
+264,126,Chandani Tella,King,Female,68,1961-07-21,9873176245,351908834647,Private Employee,"57, Gola Nagar, Gudivada-714521",18,Kodagu,Arrested,Yes,None,Low,Hands
+265,126,Deepa Sengupta,King,Female,42,1989-03-01,9889034396,316186019322,Shop Keeper,"89/268, Bassi Marg, Thanjavur 222064",18,Kodagu,Arrested,Yes,None,High,Hands
+266,126,Vansha Mani,Rowdy,Female,28,1988-10-04,9871473928,386153274294,Journalist,"094, Shanker Nagar, Panchkula 973397",18,Kodagu,Absconding,No,Cyber Group,High,Hands
+267,126,Tara Sathe,Don,Female,54,1959-10-07,9877284772,681287491539,Driver,"49/83, Goyal Nagar, Pimpri-Chinchwad 020994",18,Kodagu,Arrested,No,None,Medium,Sharp Weapon
+268,127,Caleb Bawa,Boss,Male,49,1961-04-29,9909590173,425406737830,Driver,"49/998, Shah Street, Vadodara-455616",29,Vijayanagara,Arrested,No,None,Medium,Hands
+269,127,Madhav Sinha,Rowdy,Male,63,1962-09-08,9901881012,530761320626,Lawyer,"68/33, Bhardwaj, Aurangabad 794695",29,Vijayanagara,Arrested,No,None,Low,Hands
+270,128,Zansi Pandya,Boss,Female,21,2004-09-10,9910779320,493162878114,Labourer,"29, Mannan Ganj, Mumbai-071396",16,Haveri,Arrested,No,None,High,Hands
+271,129,Aradhana Nath,Rowdy,Female,25,1974-02-01,9882314334,086302359159,Labourer,"34/414, Toor Road, Chennai-556990",30,Vijayapura,Arrested,No,None,Medium,Knife
+272,129,Gunbir Narayanan,Master,Male,39,1999-10-02,9886838436,536259268377,Farmer,"H.No. 272, Yadav Chowk, Surendranagar Dudhrej-084958",30,Vijayapura,Arrested,Yes,None,Low,Hands
+273,130,Hemang Narula,Silent,Male,64,1997-12-07,9919481370,748727320998,Student,"405, Warrior Marg, Aurangabad 291450",28,Uttara Kannada,Absconding,No,None,Low,Stick
+274,131,Samuel Chadha,Don,Male,49,1981-11-25,9879099115,725441146359,Teacher,"43, Mittal Circle, Gorakhpur-031780",14,Gadag,Absconding,Yes,Drug Network,Low,Knife
+275,132,Yamini Dube,Tiger,Female,46,1965-08-21,9905778703,879517244360,Government Employee,"H.No. 21, Deo Circle, Vadodara-681040",14,Gadag,Arrested,No,None,High,None
+276,133,Osha Sibal,Silent,Female,43,2002-09-07,9909934654,093514297546,Government Employee,"H.No. 943, Iyer Path, Baranagar 857142",17,Kalaburagi,Arrested,Yes,None,Medium,Stick
+277,134,Laksh Contractor,Bullet,Male,62,1956-05-13,9966246269,807693595148,Shop Keeper,"58/54, Mander Street, Tirunelveli 495870",5,Bengaluru Urban,Arrested,No,Cyber Group,Medium,Hands
+278,135,Akshay Sinha,Shadow,Male,24,2003-06-07,9965782276,014074424111,Farmer,"01, Ramanathan Marg, Kavali 954538",8,Chikkaballapur,Surrendered,Yes,Organized Crime,Low,Stick
+279,135,Viraj Deep,Cobra,Male,69,1960-06-24,9981984916,001002470296,Doctor,"47, Kata Chowk, Asansol-562557",8,Chikkaballapur,Arrested,No,None,Medium,Hands
+280,136,Amruta Bhattacharyya,Rowdy,Female,48,1980-09-30,9983438989,630331467816,Engineer,"24, Datta Path, Machilipatnam 581487",22,Mysuru,Surrendered,No,None,Medium,Stone
+281,136,Triveni Khare,Boss,Female,60,1988-06-18,9880693689,762477399466,Security Guard,"15, Sankar Ganj, Tezpur-832197",22,Mysuru,Arrested,No,None,Medium,Knife
+282,136,Vincent Nanda,Cobra,Male,26,1984-12-22,9907365814,162276047199,Mechanic,"H.No. 61, Chopra, Khammam-013290",22,Mysuru,Absconding,Yes,Drug Network,Medium,Hands
+283,136,Falguni Sethi,Lucky,Female,23,1983-09-18,9986897663,773658821007,Labourer,"354, Modi, Hapur-909862",22,Mysuru,Surrendered,Yes,None,Low,Hands
+284,137,Azaan Pingle,Bullet,Male,37,2003-04-25,9875134779,165108382261,Lawyer,"85/140, Sankaran Ganj, Ratlam 666832",13,Dharwad,Absconding,Yes,Local Gang,Medium,Sharp Weapon
+285,137,Ekaraj Guha,Ranga,Male,35,1984-12-29,9987484739,382787081439,Engineer,"422, Bora Nagar, Asansol 621267",13,Dharwad,Arrested,No,None,Low,Knife
+286,137,Hemangini Sha,Don,Female,66,1982-07-22,9903526183,175887411621,Electrician,"H.No. 32, Amble Marg, Patiala-689500",13,Dharwad,Arrested,No,None,High,Hands
+287,137,Qarin Chowdhury,Cobra,Male,42,1986-04-24,9906103491,534172133517,Labourer,"84/781, Chakrabarti Circle, Chittoor 894905",13,Dharwad,Absconding,No,Local Gang,High,Hands
+288,138,Vrinda Setty,Silent,Female,58,1982-09-23,9964011692,594605397213,Sales Executive,"54, Ganesh Road, Kavali-940792",10,Chitradurga,Absconding,No,Organized Crime,Low,Knife
+289,138,Mugdha Bala,Boss,Female,22,1970-10-04,9918586726,186043056027,Student,"14/42, Mand, Bardhaman 192927",10,Chitradurga,Arrested,No,None,Low,Firearm
+290,139,Gagan Lal,Master,Male,37,1997-01-11,9879576456,593520821289,Sales Executive,"805, Dhillon Zila, Shimla-637239",3,Belagavi,Arrested,No,Local Gang,Low,Iron Rod
+291,139,Avni Lalla,Cobra,Female,34,1995-08-07,9906149691,262667565183,Electrician,"767, Soni Road, Nadiad 742860",3,Belagavi,Arrested,No,None,Low,Hands
+292,140,Vanya Raja,Rowdy,Female,22,1991-07-08,9896332820,393191738457,Labourer,"56/94, Madan Path, Navi Mumbai 967393",9,Chikkamagaluru,Arrested,Yes,None,Low,Knife
+293,141,Gautam Munshi,Silent,Male,40,1984-07-31,9987955841,051137079726,Shop Keeper,"H.No. 618, Sehgal Zila, Muzaffarnagar 430091",26,Tumakuru,Arrested,No,None,Low,Firearm
+294,141,Ikbal Dara,King,Male,37,1993-01-31,9968943007,910754894574,Software Engineer,"26/92, Gour Zila, Durg 174654",26,Tumakuru,Absconding,No,None,Low,Hands
+295,141,Balhaar Malhotra,Black,Male,63,1996-09-28,9907727988,566968520859,Sales Executive,"H.No. 04, Gokhale Road, Coimbatore-396271",26,Tumakuru,Arrested,No,None,Medium,None
+296,141,Tanveer Kamdar,Silent,Male,36,1988-02-05,9894206399,958988004213,Unemployed,"41/011, Krishna, Surat 200642",26,Tumakuru,Arrested,Yes,None,Low,Knife
+297,142,Rohan Aggarwal,Bullet,Male,44,1982-11-15,9879072433,852964170871,Software Engineer,"61, Kara Circle, Yamunanagar-198554",17,Kalaburagi,Arrested,Yes,Cyber Group,Low,Stone
+298,143,Baghyawati Chana,Rowdy,Female,60,1974-12-02,9891446177,377819713060,Engineer,"43, Baral Street, Jhansi 615717",9,Chikkamagaluru,Surrendered,No,None,Low,Stone
+299,143,Ekaraj Banik,Tiger,Male,66,1965-10-16,9902152789,281787519562,Software Engineer,"18, Tata Road, Pune-505061",9,Chikkamagaluru,Arrested,No,None,Low,Knife
+300,143,Veer Yadav,Shadow,Male,21,1963-06-14,9904362345,632234300072,Private Employee,"H.No. 270, Bath Chowk, Bikaner-204179",9,Chikkamagaluru,Absconding,Yes,None,Medium,Stick
+301,143,Bhavika Cherian,Rowdy,Female,25,1961-08-10,9876671387,562250166098,Private Employee,"656, Dara Path, Pondicherry-092511",9,Chikkamagaluru,Absconding,Yes,None,Medium,None
+302,144,Ekta Sagar,Anna,Female,64,1964-06-18,9909270152,889984790495,Farmer,"39, Deol Nagar, Pudukkottai 207100",26,Tumakuru,Arrested,Yes,None,High,None
+303,145,Chaitanya Mander,Bullet,Male,65,1977-08-13,9983689173,742112687475,Sales Executive,"248, Sabharwal Chowk, Akola-927914",2,Ballari,Arrested,No,None,Low,Iron Rod
+304,146,Shaurya Agrawal,Bullet,Male,36,1985-02-11,9876921809,921669398218,Doctor,"19/58, Kanda Circle, Dhule-031277",1,Bagalkote,Arrested,No,Organized Crime,Low,Sharp Weapon
+305,147,Fariq Bassi,Silent,Male,34,1958-06-02,9875977173,686582258712,Teacher,"645, Setty, Vasai-Virar 822078",13,Dharwad,Arrested,No,None,Medium,Stick
+306,147,Balendra Keer,Boss,Male,54,1993-10-16,9909123886,114464717003,Driver,"531, Kari Path, Patiala 363179",13,Dharwad,Absconding,No,None,Low,Hands
+307,148,Avni Sarin,Anna,Female,27,1963-03-28,9965707588,017883425250,Business,"52, Hari Chowk, Gopalpur-520904",18,Kodagu,Arrested,Yes,Organized Crime,Low,Hands
+308,148,Christopher Shroff,Tiger,Male,32,1979-11-11,9903329667,949292033900,Lawyer,"492, Garde, Chandigarh-873977",18,Kodagu,Arrested,Yes,None,Low,Hands
+309,149,Advika Sangha,Tiger,Female,40,1994-07-29,9872432977,897114798147,Shop Keeper,"H.No. 69, Dixit Ganj, Erode-078068",27,Udupi,Surrendered,Yes,None,Low,Knife
+310,149,Wakeeta Chaudhari,Don,Female,62,1979-07-15,9906619935,545207578203,Farmer,"06/32, Merchant Path, Mysore-742799",27,Udupi,Arrested,No,Drug Network,High,Hands
+311,149,Vasana Sheth,Master,Female,41,1996-06-18,9988714859,422716176401,Driver,"H.No. 70, Rajan Zila, Bettiah-464989",27,Udupi,Absconding,Yes,None,Low,Sharp Weapon
+312,149,Banjeet Nayak,Rowdy,Male,22,1994-07-21,9875811776,243762180750,Security Guard,"H.No. 165, Baria Chowk, Ambarnath 818325",27,Udupi,Surrendered,No,Local Gang,Low,Stick
+313,150,Deepa Sridhar,Cobra,Female,63,1994-08-21,9884195912,621758843681,Private Employee,"H.No. 54, Sampath Circle, Meerut-557788",18,Kodagu,Arrested,No,None,Low,Iron Rod
+314,151,Wahab Wali,Black,Male,33,1991-07-05,9891120912,920509400397,Electrician,"51/37, Buch Zila, Mangalore 112412",24,Ramanagara,Arrested,No,None,Low,Stick
+315,151,Forum Jayaraman,King,Female,44,1983-02-25,9965570748,016069226179,Mechanic,"82, Palan Chowk, Raiganj 431038",24,Ramanagara,Absconding,No,Cyber Group,Low,Hands
+316,151,Tripti Oza,Shadow,Female,36,1990-04-24,9896907629,695900738784,Driver,"88/77, Deo Road, Tirunelveli 375402",24,Ramanagara,Surrendered,No,None,Low,Knife
+317,151,Lucky Shah,Ranga,Male,29,2006-03-28,9967242861,150848913893,Farmer,"222, Dada Ganj, Ratlam-745238",24,Ramanagara,Arrested,No,Drug Network,Low,Sharp Weapon
+318,152,Nathan Padmanabhan,Black,Male,62,1963-05-26,9985113582,863458111934,Engineer,"41/06, Dhillon Chowk, Imphal-088547",16,Haveri,Arrested,No,None,Medium,None
+319,153,Ethan Sathe,Boss,Male,35,1973-07-04,9900146306,393440896260,Software Engineer,"H.No. 281, Bakshi Road, Tadipatri 751509",13,Dharwad,Arrested,Yes,None,Low,Sharp Weapon
+320,153,Zansi Kapadia,Master,Female,29,1996-12-18,9980849219,457949585817,Private Employee,"H.No. 187, Vala Zila, Jammu 599805",13,Dharwad,Arrested,No,Cyber Group,Medium,None
+321,154,Ethan Sane,Don,Male,27,1975-02-23,9909437627,998665071676,Government Employee,"H.No. 55, Sehgal Road, Thrissur 674266",14,Gadag,Surrendered,No,None,Low,None
+322,155,Caleb Dhawan,Black,Male,37,1966-07-27,9895866443,557114155386,Driver,"H.No. 961, Rout Nagar, Vijayanagaram-879232",21,Mandya,Absconding,No,Cyber Group,Low,None
+323,156,Maanav Swaminathan,Shadow,Male,23,1957-10-17,9960917656,586827518937,Government Employee,"87, Bala Ganj, Jamnagar 471462",10,Chitradurga,Absconding,No,Local Gang,Low,Hands
+324,157,Jason Balakrishnan,Black,Male,50,1961-11-18,9892639960,900785731545,Mechanic,"H.No. 959, Sarin Chowk, Fatehpur 589042",29,Vijayanagara,Absconding,Yes,Organized Crime,Medium,Sharp Weapon
+325,158,Eta Nagarajan,Master,Female,64,1979-12-29,9884312711,537981300071,Mechanic,"045, Parekh Marg, Ramagundam-818321",5,Bengaluru Urban,Surrendered,No,None,Medium,Knife
+326,158,Ojasvi Mutti,Tiger,Female,58,1999-05-19,9967162187,832001098191,Software Engineer,"51/895, Arya Street, Kadapa 576521",5,Bengaluru Urban,Surrendered,Yes,None,Low,Knife
+327,159,Garima Thakur,Master,Female,24,1967-04-11,9907446248,641296681339,Student,"71, Deep Zila, Nangloi Jat-452798",2,Ballari,Arrested,No,Cyber Group,Low,Stone
+328,160,Gabriel Modi,Bullet,Male,51,1957-01-29,9917238010,612107648499,Security Guard,"234, Kadakia Street, Vijayawada 110760",3,Belagavi,Absconding,Yes,None,Low,Sharp Weapon
+329,160,Darika Bali,Lucky,Female,28,1997-08-03,9982744523,131388489246,Private Employee,"H.No. 401, Anne Road, Amravati 932501",3,Belagavi,Surrendered,No,None,Low,Firearm
+330,161,Maya Pall,Lucky,Female,68,1974-03-23,9883063713,034785365126,Shop Keeper,"H.No. 908, Handa Ganj, Tirunelveli-138759",6,Bidar,Absconding,No,None,Medium,Hands
+331,162,Urvi Chhabra,King,Female,70,1965-02-21,9891040214,652007504190,Shop Keeper,"38, Reddy Ganj, Satara 718275",22,Mysuru,Arrested,No,None,Low,Hands
+332,162,Anusha Butala,Black,Female,35,1972-12-11,9897453636,489136000136,Sales Executive,"H.No. 79, Sawhney Road, Begusarai 463175",22,Mysuru,Arrested,Yes,Organized Crime,High,Hands
+333,163,Abeer Swamy,Ranga,Male,62,1991-03-07,9980800326,736951315886,Private Employee,"11/26, Chaudry Marg, Amritsar-353961",5,Bengaluru Urban,Arrested,Yes,None,High,Hands
+334,164,Unnati Tata,Rowdy,Female,32,1970-04-26,9872205867,209002811255,Electrician,"H.No. 79, Sundaram Marg, Siliguri 114773",7,Chamarajanagar,Surrendered,No,None,High,Hands
+335,165,Alexander Chaudhary,Rocky,Male,32,1994-08-30,9893462404,695141104245,Unemployed,"02/695, Mitter Street, Solapur 734778",18,Kodagu,Surrendered,Yes,None,Low,Knife
+336,166,Pavani Zachariah,Boss,Female,50,1984-07-12,9890206742,455446692002,Labourer,"H.No. 675, Savant Marg, Vadodara 284276",22,Mysuru,Arrested,No,None,Low,Sharp Weapon
+337,166,Nachiket Ramachandran,Shadow,Male,32,1981-05-23,9968641267,201967861613,Doctor,"88/977, Dugar Circle, Katni 796954",22,Mysuru,Arrested,Yes,None,Low,Stick
+338,167,Azaan Bala,Rocky,Male,28,1986-11-07,9967034084,006225770834,Government Employee,"H.No. 90, Rai Path, Haldia-565033",22,Mysuru,Arrested,No,None,Low,Hands
+339,167,Nimrat Chad,Don,Female,63,2003-10-23,9898789516,709861427937,Sales Executive,"H.No. 520, Nanda Circle, Jaunpur 986407",22,Mysuru,Arrested,No,None,Medium,Knife
+340,168,Nitara Purohit,Shadow,Female,51,1985-10-14,9882683493,053644972946,Engineer,"13, Taneja Path, Rourkela 563718",2,Ballari,Arrested,No,None,Low,Iron Rod
+341,168,Mitali Lanka,Silent,Female,22,1958-01-28,9982428140,380187595971,Government Employee,"19/19, Mahajan Path, Tezpur-635148",2,Ballari,Arrested,Yes,None,Medium,Knife
+342,169,Tarak Zacharia,King,Male,69,1972-03-01,9966490233,563561153056,Private Employee,"H.No. 98, Gole Chowk, Hazaribagh-973748",24,Ramanagara,Absconding,Yes,None,Medium,Sharp Weapon
+343,169,Bhanumati Vig,Anna,Female,47,1966-03-11,9894440594,763251552734,Doctor,"246, Nagar Marg, Kurnool-442493",24,Ramanagara,Absconding,No,Organized Crime,Low,Hands
+344,170,Jagdish Comar,Anna,Male,39,1963-07-04,9910243076,702174268339,Electrician,"H.No. 77, Sarin Circle, Vadodara 242044",4,Bengaluru Rural,Absconding,No,None,Low,Iron Rod
+345,170,Ansh Sunder,Don,Male,33,1997-01-06,9881053924,128264611017,Electrician,"H.No. 94, Ray Zila, Mysore 231981",4,Bengaluru Rural,Absconding,Yes,None,Low,Hands
+346,171,Yadavi Chana,Anna,Female,41,1968-03-04,9962374812,135066493184,Unemployed,"H.No. 96, Sampath Ganj, Asansol 234764",7,Chamarajanagar,Arrested,No,None,Low,Sharp Weapon
+347,172,Xalak Walla,Bullet,Female,50,1975-06-01,9871165481,769084961756,Labourer,"67/34, Patil Street, Arrah 090034",5,Bengaluru Urban,Arrested,Yes,None,Medium,None
+348,173,Mohammed Patil,Rowdy,Male,20,2003-06-05,9878101947,987281874061,Teacher,"60, Kumer Marg, Mysore 432756",22,Mysuru,Arrested,No,None,Low,Firearm
+349,173,Mahika Buch,Cobra,Female,24,1999-03-10,9964165146,274570090010,Unemployed,"65/612, Toor Road, Nagercoil-985700",22,Mysuru,Arrested,No,None,Medium,Knife
+350,173,Vamakshi Deshpande,Bullet,Female,30,1955-09-20,9982853888,468515140508,Lawyer,"H.No. 91, Dugar Zila, Hazaribagh-965772",22,Mysuru,Arrested,No,None,High,Hands
+351,173,Gabriel Narang,Cobra,Male,52,1997-12-07,9912563658,599604280283,Cook,"52, Purohit Marg, Jaipur-893173",22,Mysuru,Surrendered,No,None,High,Iron Rod
+352,174,Frado Bawa,King,Male,40,1976-10-23,9879560592,005643890078,Labourer,"152, Dalal, Hajipur-771333",13,Dharwad,Arrested,No,None,Medium,Hands
+353,174,Mitali Talwar,Silent,Female,62,1975-10-22,9884414893,140252787590,Private Employee,"34/36, Rege Street, Bhopal-439735",13,Dharwad,Arrested,Yes,None,Low,Knife
+354,175,Chaman Anne,Lucky,Female,56,1980-05-29,9968913660,927888433582,Cook,"36/694, Chandran Zila, Faridabad 375990",31,Yadgir,Absconding,Yes,None,High,Hands
+355,175,Lajita Thaman,Boss,Female,35,1988-05-25,9872192723,819664140238,Journalist,"52/809, Lad Street, Ambala 572158",31,Yadgir,Surrendered,Yes,None,Low,Stick
+356,175,Ekavir Lad,Lucky,Male,32,1961-09-30,9883656079,973827207687,Lawyer,"45, Mandal Marg, Pudukkottai 856257",31,Yadgir,Arrested,No,None,Medium,Knife
+357,175,Urvi Bera,Ranga,Female,45,1965-07-27,9917729492,926297250222,Doctor,"074, Sibal Street, Bhiwandi 075877",31,Yadgir,Absconding,No,None,Low,Knife
+358,176,Daksh Divan,Rowdy,Male,46,1962-02-09,9900003654,508594272421,Journalist,"H.No. 22, Mahajan Circle, Ballia 892613",5,Bengaluru Urban,Arrested,No,None,Medium,Knife
+359,177,Charvi Narasimhan,Ranga,Female,20,1956-12-06,9917072268,376304523384,Shop Keeper,"H.No. 91, Dube Path, Jodhpur 774905",22,Mysuru,Arrested,No,None,Low,Knife
+360,177,Varsha Nair,Boss,Female,48,2005-10-09,9896109906,857553280739,Sales Executive,"H.No. 450, Raj Zila, Silchar-236103",22,Mysuru,Surrendered,No,None,High,None
+361,177,Sara Rau,Black,Female,52,1970-08-29,9961876653,159379239649,Cook,"H.No. 76, Deep Road, Jalandhar-837767",22,Mysuru,Arrested,No,Cyber Group,Medium,Hands
+362,177,Siddharth Chana,Lucky,Male,46,1995-08-26,9984581574,512230495678,Engineer,"61, Varghese Nagar, Madhyamgram 278814",22,Mysuru,Arrested,No,Local Gang,Medium,Stick
+363,178,Tejas Buch,Silent,Male,26,2003-08-22,9980469189,934571885690,Shop Keeper,"243, Sane Circle, Jehanabad-810818",5,Bengaluru Urban,Surrendered,No,None,Medium,None
+364,179,Triveni Chandra,King,Female,66,1980-03-08,9907775851,056431727240,Private Employee,"H.No. 91, Babu Circle, Surendranagar Dudhrej 260164",3,Belagavi,Arrested,No,None,Low,Sharp Weapon
+365,180,Utkarsh Sengupta,Tiger,Male,27,1988-08-14,9878792556,021248299796,Farmer,"321, Lad, Raebareli 061027",26,Tumakuru,Arrested,Yes,None,Medium,Hands
+366,181,Samaksh Sur,Rocky,Male,18,1971-08-09,9908029575,821784428971,Private Employee,"H.No. 12, Atwal Street, Gorakhpur 303723",18,Kodagu,Absconding,No,None,Low,Iron Rod
+367,182,Ikshita Chadha,Don,Female,47,1971-07-04,9967606801,751586962582,Software Engineer,"60, Ganesan Zila, Raiganj-707933",22,Mysuru,Arrested,Yes,Local Gang,Low,Sharp Weapon
+368,182,Rohan Behl,Ranga,Male,51,1973-04-02,9987244670,666235988864,Lawyer,"79, Mannan, Morbi 789973",22,Mysuru,Arrested,No,None,Low,Hands
+369,182,Zarna Bahl,Rocky,Female,46,1977-12-03,9892419633,188866022845,Farmer,"H.No. 67, Talwar Zila, Sultan Pur Majra 024375",22,Mysuru,Arrested,Yes,None,Low,Stick
+370,182,Kala Tripathi,Cobra,Female,49,1967-03-15,9962604285,719615903733,Teacher,"466, Sodhi Path, Dhule 172232",22,Mysuru,Absconding,No,None,Low,Hands
+371,183,Daksha Sagar,Rowdy,Female,63,2005-07-16,9882134520,875570206607,Driver,"380, Parmer Nagar, Raurkela Industrial Township-280156",6,Bidar,Absconding,No,Local Gang,Low,Knife
+372,184,Ishaan Dara,Shadow,Male,22,1985-05-05,9917740861,771633502226,Lawyer,"H.No. 50, Loke Circle, Kottayam-077119",30,Vijayapura,Arrested,No,None,Low,Iron Rod
+373,184,Ansh Tripathi,Master,Male,42,1961-02-21,9879797745,074413160529,Security Guard,"H.No. 24, Toor Chowk, Navi Mumbai 552137",30,Vijayapura,Arrested,Yes,None,Medium,Hands
+374,184,Aarush Korpal,Silent,Male,21,1999-10-21,9984478065,822544924457,Teacher,"H.No. 82, Lata Zila, Vijayanagaram-328632",30,Vijayapura,Arrested,Yes,None,Medium,Hands
+375,184,Samuel Rout,Tiger,Male,28,2003-02-26,9884904184,753242965636,Cook,"20, Boase Circle, Sonipat 626060",30,Vijayapura,Absconding,Yes,Drug Network,Low,Sharp Weapon
+376,185,Barkha Venkatesh,Master,Female,48,2007-02-09,9902379917,431490710406,Software Engineer,"84/550, Wable Road, Sambhal-389975",22,Mysuru,Arrested,Yes,None,Medium,Hands
+377,186,Ira Mitra,Rowdy,Female,36,1960-01-09,9989473795,625121515635,Engineer,"28/843, Vaidya Zila, Saharsa 200894",23,Raichur,Arrested,No,Organized Crime,Medium,Sharp Weapon
+378,186,Max Sami,Shadow,Male,28,2007-11-13,9877908118,380546351533,Software Engineer,"H.No. 48, Dasgupta Path, Amravati 490753",23,Raichur,Absconding,No,None,Medium,Firearm
+379,186,Parth Mistry,Rocky,Male,58,1970-08-21,9982144621,861887346891,Student,"31/58, Hans, Malda-266110",23,Raichur,Absconding,Yes,None,Medium,Knife
+380,186,Eiravati Soni,Silent,Female,39,1966-12-10,9879950266,397205074641,Mechanic,"86/988, Lalla Marg, Bhusawal 762282",23,Raichur,Absconding,No,None,Low,Sharp Weapon
+381,187,Veer Dayal,Ranga,Male,26,2006-11-12,9874806005,916088379595,Unemployed,"70, Pingle Street, Madanapalle 115940",1,Bagalkote,Absconding,No,None,High,Hands
+382,187,Daniel Prabhu,Tiger,Male,64,1971-09-20,9890421517,802335654107,Government Employee,"H.No. 70, Dhar Street, Nashik 432701",1,Bagalkote,Absconding,No,None,Low,Knife
+383,187,Bhavna Basu,Boss,Female,23,1977-09-08,9969369877,332254821924,Teacher,"H.No. 67, Deo, Dibrugarh 772519",1,Bagalkote,Arrested,No,None,Low,Firearm
+384,187,Rishi Kaul,Shadow,Male,55,2003-04-09,9901594662,395725222956,Farmer,"74/120, More, Karaikudi 398909",1,Bagalkote,Arrested,Yes,None,Medium,Firearm
+385,188,Vyanjana Thakkar,Rocky,Female,62,2003-02-03,9876804361,934108454382,Business,"H.No. 433, Sawhney, Deoghar 690705",17,Kalaburagi,Arrested,No,None,High,Stick
+386,189,Gautam Sachdeva,Shadow,Male,44,1956-10-30,9907940598,991971399378,Lawyer,"H.No. 11, Ganguly Zila, Asansol 412462",1,Bagalkote,Arrested,No,None,Low,Hands
+387,190,Nicholas Golla,Lucky,Male,29,1956-12-30,9888471570,105324342933,Shop Keeper,"15, Sachar Street, Rampur 103399",31,Yadgir,Absconding,Yes,Organized Crime,Medium,Sharp Weapon
+388,190,Xiti Trivedi,Tiger,Female,52,1995-06-08,9873690812,350530240303,Shop Keeper,"H.No. 05, Ray Chowk, Karawal Nagar-630489",31,Yadgir,Arrested,No,Organized Crime,Low,Stick
+389,190,Jatin Dass,Ranga,Male,28,1971-09-14,9906840618,803534494732,Private Employee,"H.No. 832, Zachariah Path, Sambalpur-870079",31,Yadgir,Absconding,Yes,None,Medium,None
+390,190,Geetika Acharya,Rocky,Female,25,1958-09-29,9981478009,725684408405,Teacher,"46/53, Uppal, Ranchi-891416",31,Yadgir,Arrested,Yes,Organized Crime,Medium,Iron Rod
+391,191,Ekiya Mammen,Silent,Female,40,2002-02-08,9900365307,200764296288,Cook,"54/743, Om Path, Jaunpur-020970",10,Chitradurga,Arrested,No,None,Low,Knife
+392,192,Gabriel Sachdev,Cobra,Male,42,1985-01-05,9919097409,268841123582,Teacher,"11/80, Dasgupta Chowk, Gandhinagar-620175",17,Kalaburagi,Arrested,Yes,Cyber Group,Low,Iron Rod
+393,192,Vamakshi Andra,Shadow,Female,50,1967-04-19,9960312027,624760272676,Student,"53/194, Kaur Ganj, Mirzapur 479303",17,Kalaburagi,Absconding,No,None,High,Firearm
+394,193,Dayamai Mall,Ranga,Female,39,1985-09-20,9893447266,208965329323,Shop Keeper,"39/99, Bhattacharyya Street, Amritsar-493843",5,Bengaluru Urban,Arrested,No,None,Medium,Hands
+395,194,Jonathan Setty,Master,Male,66,1955-08-29,9895429168,029511774474,Private Employee,"H.No. 66, Dara Road, Shimla-803046",13,Dharwad,Absconding,Yes,None,Medium,Hands
+396,194,Nisha Ahluwalia,Master,Female,32,1976-04-28,9984729184,087660544102,Private Employee,"03/61, Hegde Ganj, Ozhukarai 110760",13,Dharwad,Surrendered,No,Local Gang,High,Hands
+397,194,Jeremiah Kota,Master,Male,28,1961-04-09,9916690673,519472471100,Journalist,"H.No. 583, Sarna Zila, Amroha-100651",13,Dharwad,Arrested,No,Drug Network,Medium,Hands
+398,194,Azaan Sathe,Silent,Male,69,1958-06-17,9918892707,645437985769,Farmer,"H.No. 080, Raj Road, Jalandhar-399076",13,Dharwad,Arrested,Yes,None,Low,Hands
+399,195,Upadhriti Chaudhuri,Silent,Female,43,1973-07-22,9969647187,577361242364,Journalist,"59/31, Arora Zila, Guntakal 928456",8,Chikkaballapur,Arrested,No,None,Low,Iron Rod
+400,195,Vamakshi Grewal,Ranga,Female,54,1968-06-11,9895712233,291644276123,Government Employee,"496, Parmar Circle, Ballia 274954",8,Chikkaballapur,Surrendered,Yes,None,Low,Hands
+401,195,Aarna Vasa,Silent,Female,48,1986-08-21,9919965553,968443602216,Student,"880, Padmanabhan Marg, Kollam-153779",8,Chikkaballapur,Absconding,No,None,High,Firearm
+402,195,Oliver Mistry,Silent,Male,65,1977-09-30,9883069529,850745271982,Software Engineer,"07, Aggarwal Ganj, Berhampur-933756",8,Chikkaballapur,Arrested,No,None,Low,Hands
+403,196,Ryan Gour,Lucky,Male,26,1999-05-05,9913227408,070444055204,Cook,"H.No. 150, Contractor Circle, Ramagundam 395003",3,Belagavi,Surrendered,Yes,None,High,Stone
+404,196,Meghana Ghosh,Shadow,Female,18,1967-02-28,9897641559,282253499439,Journalist,"H.No. 83, Hayre Street, Belgaum 102615",3,Belagavi,Arrested,No,None,Low,Stone
+405,197,Niharika Shan,King,Female,58,1968-04-14,9965177253,513651177861,Doctor,"96/11, De Street, Nellore 559630",13,Dharwad,Absconding,No,Local Gang,Low,Stone
+406,198,Nandini Dixit,Bullet,Female,37,1972-12-03,9891337443,474938970727,Software Engineer,"897, Bumb Ganj, Srikakulam 286857",18,Kodagu,Arrested,No,None,Medium,Stick
+407,198,Gaurav Nagy,King,Male,57,1993-04-27,9914201795,997397295003,Private Employee,"49, Bansal Marg, Muzaffarnagar-736346",18,Kodagu,Surrendered,No,None,Medium,Knife
+408,199,Gaurangi Prasad,Silent,Female,70,1969-01-17,9888555435,658617867937,Doctor,"H.No. 478, Karpe Path, Kirari Suleman Nagar 677665",22,Mysuru,Arrested,No,None,Low,Stick
+409,200,Nitara Mahajan,Boss,Female,56,1975-10-28,9969164878,093599835230,Driver,"415, Menon Zila, Bally-111508",13,Dharwad,Surrendered,No,None,Medium,Stone
+410,201,Osha Hegde,Rowdy,Female,57,1991-05-04,9969774248,760635684050,Security Guard,"43/928, Anand Road, Ichalkaranji 669078",24,Ramanagara,Arrested,No,None,High,Firearm
+411,201,Sneha Kari,Ranga,Female,52,1967-08-02,9906289875,113159013089,Software Engineer,"898, Shenoy Chowk, Guwahati-366377",24,Ramanagara,Arrested,Yes,None,High,Stick
+412,202,Ridhi Dewan,Don,Female,19,1986-03-01,9888919088,204175195551,Software Engineer,"07/553, Sandal Marg, Siwan-590902",24,Ramanagara,Arrested,Yes,Local Gang,Low,Hands
+413,203,Noah Raman,Anna,Male,23,2007-07-05,9985459034,913309627688,Business,"H.No. 863, Chopra Chowk, Jehanabad-412182",15,Hassan,Arrested,No,None,Low,Hands
+414,203,Yash Bala,Tiger,Male,54,1965-06-14,9871167088,634119978181,Cook,"H.No. 33, Viswanathan Road, Malda 580256",15,Hassan,Arrested,Yes,None,High,Stick
+415,204,Gaurangi Choudhry,Shadow,Female,19,1962-05-26,9980047145,771132409448,Doctor,"16/323, Sankaran Road, Kozhikode-938743",26,Tumakuru,Absconding,Yes,None,Medium,Hands
+416,205,Ekbal Sehgal,Bullet,Male,38,1958-12-12,9965960485,158167726227,Doctor,"59/77, Baral Chowk, Tumkur-546926",11,Dakshina Kannada,Surrendered,No,None,Medium,Hands
+417,205,Gaurav Sankaran,Master,Male,38,1979-10-28,9903178776,790682304818,Doctor,"03, Mahal Street, Jabalpur-768151",11,Dakshina Kannada,Surrendered,No,None,Low,Stick
+418,206,Yashawini Nanda,Bullet,Female,39,1977-04-17,9882845663,503691241528,Teacher,"807, Bora Nagar, Eluru-636004",25,Shivamogga,Arrested,No,Drug Network,High,None
+419,206,Ekanta Narain,Master,Female,70,1991-01-31,9911820736,185832953116,Shop Keeper,"11, Kibe Circle, Kolhapur-422091",25,Shivamogga,Surrendered,Yes,None,High,Hands
+420,207,Manan Dash,Rowdy,Male,35,1983-11-23,9879929984,190253969041,Teacher,"H.No. 042, Parmar Chowk, Thrissur-837081",5,Bengaluru Urban,Surrendered,Yes,Drug Network,Low,None
+421,207,Nikita Sawhney,Ranga,Female,43,1958-05-02,9911809281,791467013164,Private Employee,"33, Khare Path, Mysore 600531",5,Bengaluru Urban,Absconding,No,None,Low,Hands
+422,208,Chasmum Ganesh,Anna,Female,20,1993-12-06,9908264178,425079828474,Doctor,"15/58, Johal Ganj, Haldia 331552",22,Mysuru,Surrendered,No,Local Gang,Low,Iron Rod
+423,209,Suhani Mutti,Master,Female,44,1956-03-10,9968901824,561775835936,Business,"149, Bassi Path, Bellary-497189",22,Mysuru,Absconding,No,None,High,Knife
+424,210,Ladli Chandran,Bullet,Female,55,1987-05-08,9967687064,480387492163,Government Employee,"H.No. 25, Bir Chowk, Surat-683890",2,Ballari,Absconding,No,Organized Crime,Low,Hands
+425,211,Aishani Dash,Don,Female,33,1971-12-05,9894049272,753438883678,Cook,"10/25, Minhas Chowk, Saharanpur-303975",20,Koppal,Arrested,No,None,Low,None
+426,212,Maya Nadkarni,Boss,Female,58,1989-09-01,9887284343,110135625160,Private Employee,"40/355, Jha Ganj, Kulti 968527",23,Raichur,Arrested,Yes,None,Low,Sharp Weapon
+427,213,Bhavini Swamy,Ranga,Female,43,1959-04-07,9889198825,094056248922,Engineer,"23/212, Jayaraman, Guna-674233",1,Bagalkote,Arrested,No,Drug Network,High,Iron Rod
+428,214,Hema Kothari,Tiger,Female,44,1971-08-15,9915548568,977982399339,Electrician,"H.No. 71, Rao Path, Rourkela-768962",3,Belagavi,Absconding,No,Local Gang,Medium,Hands
+429,215,Aishani Raj,Shadow,Female,52,1978-03-17,9891823798,228445090468,Security Guard,"82/82, Rai Road, Farrukhabad 468971",5,Bengaluru Urban,Arrested,No,None,Medium,Hands
+430,215,Ekanta Singh,Silent,Female,64,1965-12-05,9877479924,563589156306,Shop Keeper,"H.No. 857, Sagar Marg, Dindigul-749160",5,Bengaluru Urban,Arrested,No,None,Low,Stone
+431,215,Reyansh Gaba,Silent,Male,64,1965-11-07,9882671164,109593461303,Government Employee,"58/750, Samra Marg, Latur-050249",5,Bengaluru Urban,Arrested,No,None,Low,Knife
+432,215,Ethan Kumar,Tiger,Male,39,1968-09-01,9907506903,195030958916,Government Employee,"H.No. 166, Buch, Bhusawal-644886",5,Bengaluru Urban,Surrendered,No,None,Low,Knife
+433,216,Samesh Chakraborty,Master,Male,46,1961-05-07,9968758469,871991651011,Journalist,"H.No. 36, Ahuja Road, Pallavaram 116864",3,Belagavi,Surrendered,No,None,Low,None
+434,217,Frederick Goda,Silent,Male,60,1975-05-31,9910219470,094867580695,Journalist,"28, Seshadri Zila, Gaya-023467",16,Haveri,Arrested,No,None,Low,Hands
+435,217,Fiyaz Buch,Ranga,Male,36,1971-02-03,9964400156,397765093595,Government Employee,"H.No. 15, Keer Nagar, Shivpuri-004090",16,Haveri,Arrested,No,Drug Network,Low,Knife
+436,217,Hitesh Vig,Boss,Male,70,1997-07-10,9986458560,241237456039,Teacher,"75, Sanghvi, Uluberia-535669",16,Haveri,Arrested,No,Organized Crime,High,Iron Rod
+437,217,Rachana Narayanan,Lucky,Female,70,1998-04-16,9883801268,458628726442,Farmer,"62/091, Mammen Circle, Arrah 978630",16,Haveri,Absconding,Yes,None,Medium,Iron Rod
+438,218,Adweta Parsa,Don,Female,26,2001-11-06,9966011705,179762282738,Engineer,"976, Bumb, Haldia 164932",11,Dakshina Kannada,Arrested,No,None,High,Hands
+439,219,Eesha Tank,Bullet,Female,24,1997-10-15,9872817826,415097123593,Mechanic,"717, Khosla Circle, Rajpur Sonarpur 116025",9,Chikkamagaluru,Arrested,No,None,Low,Iron Rod
+440,219,Meera Kannan,Anna,Female,50,1993-09-03,9872637048,621531050773,Labourer,"28/715, Bhattacharyya Ganj, Burhanpur-863341",9,Chikkamagaluru,Arrested,Yes,None,Medium,Iron Rod
+441,220,Caleb Choudhury,Rocky,Male,32,1960-04-12,9986506996,264766394915,Doctor,"52/56, Agarwal, Ghaziabad-665528",10,Chitradurga,Arrested,Yes,Drug Network,Low,Stone
+442,220,Chatresh Rana,Silent,Male,41,1956-01-16,9960814752,483944743333,Cook,"437, Din Chowk, Ulhasnagar-954814",10,Chitradurga,Arrested,No,None,High,Hands
+443,221,Janaki Talwar,Anna,Female,47,1971-01-03,9918733345,499841386949,Security Guard,"H.No. 23, Ben Ganj, Morbi-420865",18,Kodagu,Arrested,No,None,Medium,Hands
+444,221,Warjas Pall,Boss,Male,59,1995-09-19,9905813277,467560000983,Driver,"44/38, Chatterjee Marg, North Dumdum-472927",18,Kodagu,Surrendered,No,None,Low,Iron Rod
+445,222,Mugdha Dhillon,Ranga,Female,57,1966-09-03,9895847215,914561549699,Engineer,"H.No. 91, Puri Street, Gulbarga-157201",3,Belagavi,Surrendered,No,None,High,Knife
+446,222,Urishilla Dixit,Lucky,Female,48,1988-10-14,9887593454,046330316691,Driver,"H.No. 136, Mittal Chowk, Gandhinagar-764750",3,Belagavi,Absconding,No,None,Medium,None
+447,223,Devika Butala,Ranga,Female,56,1962-01-09,9984659325,990316729329,Cook,"99/74, Golla Zila, Karawal Nagar-492151",23,Raichur,Arrested,No,None,High,Hands
+448,223,Samaksh Bahri,Lucky,Male,65,1976-06-05,9910393066,388743975429,Student,"98/13, Golla Zila, Kolkata-510293",23,Raichur,Absconding,No,Organized Crime,High,None
+449,224,Caleb Kunda,Boss,Male,69,2000-09-07,9981031878,008861684871,Driver,"H.No. 845, Garg Circle, Mumbai 408487",1,Bagalkote,Arrested,Yes,Cyber Group,Low,None
+450,225,Yatan Munshi,Lucky,Male,45,1983-04-05,9986273618,747475845092,Teacher,"10/303, Mistry Street, Guntur 954296",31,Yadgir,Surrendered,No,Local Gang,Low,Hands
+451,225,Lakshmi Lad,Rowdy,Female,66,1975-10-16,9881656524,875692700376,Driver,"14, Dhar Marg, Madurai-359892",31,Yadgir,Absconding,No,None,High,Sharp Weapon
+452,226,Ganga Mutti,Shadow,Female,55,2008-02-27,9989366028,474473915034,Journalist,"H.No. 931, Dash Road, Motihari-151554",16,Haveri,Absconding,No,None,High,None
+453,226,Jeevika Mahal,Shadow,Female,27,1956-01-29,9887398738,134891920421,Engineer,"11, Vyas Street, Giridih-185948",16,Haveri,Arrested,No,None,Low,None
+454,227,Chavvi Bava,Boss,Female,45,1964-08-09,9909190903,422984031664,Mechanic,"H.No. 88, Rau, Guntakal-408222",9,Chikkamagaluru,Arrested,No,None,Medium,Firearm
+455,227,Lila Bera,Don,Female,54,2004-03-27,9900442328,399755311369,Student,"96/727, Sidhu Path, Bally 834146",9,Chikkamagaluru,Absconding,No,None,Medium,Sharp Weapon
+456,228,Chandani Buch,Master,Female,50,1959-08-15,9873135499,703177374203,Cook,"901, Tailor Road, Khandwa-778816",17,Kalaburagi,Arrested,No,None,High,Iron Rod
+457,229,Girish Amble,Shadow,Male,70,1993-05-29,9986951771,727480210670,Journalist,"89/097, Viswanathan Street, Akola 528506",22,Mysuru,Surrendered,No,None,Low,Stick
+458,230,Sachi Garde,Ranga,Female,24,1975-05-05,9894162530,034183043167,Mechanic,"38/144, Memon Chowk, Kakinada 963480",23,Raichur,Arrested,Yes,Cyber Group,Low,Hands
+459,230,Widisha Bhandari,Cobra,Female,22,1974-05-30,9871117033,030404765021,Farmer,"H.No. 51, Palla Nagar, Rewa-016731",23,Raichur,Arrested,No,None,Medium,Iron Rod
+460,230,Samesh Dasgupta,Rocky,Male,48,2003-12-14,9870799133,635207402024,Software Engineer,"43/765, Patla Road, South Dumdum 177225",23,Raichur,Arrested,No,Cyber Group,Low,Firearm
+461,230,Aarnav Parmer,Anna,Male,52,2002-05-22,9879725512,633212066541,Lawyer,"402, Sama Marg, Patna-374167",23,Raichur,Arrested,No,None,Medium,None
+462,231,Devansh Nair,King,Male,55,1995-05-14,9983462882,008829339614,Electrician,"110, Dugal Street, Orai-305690",2,Ballari,Absconding,No,Cyber Group,Low,Hands
+463,232,Wriddhish Mann,Shadow,Male,19,1970-07-07,9910020479,036973262011,Student,"928, Krish Street, Raipur 363718",14,Gadag,Surrendered,No,None,High,Sharp Weapon
+464,232,Ijaya Dixit,Ranga,Female,29,1967-09-18,9871748620,506233044108,Doctor,"H.No. 432, Badami Marg, Mysore-668433",14,Gadag,Absconding,Yes,None,Medium,Iron Rod
+465,233,Tanay Srinivas,Lucky,Male,60,1958-10-22,9899168905,857777203853,Teacher,"H.No. 14, Mand Path, Gurgaon-502000",18,Kodagu,Arrested,No,Local Gang,Low,Knife
+466,233,Jagvi Mangal,Ranga,Female,41,1980-07-29,9909716864,902196456839,Security Guard,"475, Modi Path, Jalandhar 825559",18,Kodagu,Arrested,Yes,Local Gang,High,Hands
+467,233,Jagat Majumdar,Black,Male,70,1966-09-09,9982604150,109612731775,Electrician,"H.No. 291, Halder Nagar, Amroha-189547",18,Kodagu,Absconding,No,None,Low,Iron Rod
+468,233,Faraj Bassi,Boss,Male,58,1962-05-01,9964881075,110924850800,Electrician,"55/71, Bir Marg, Gurgaon-294240",18,Kodagu,Absconding,Yes,None,Medium,Hands
+469,234,Ikshita Rao,Silent,Female,40,1981-10-17,9964633245,460403078350,Labourer,"86, Ramakrishnan Circle, Medininagar 320293",5,Bengaluru Urban,Surrendered,No,None,High,None
+470,235,Vedant Thakur,Rowdy,Male,49,1993-01-25,9989450779,472903782401,Doctor,"448, Garg Zila, Ranchi 402424",2,Ballari,Arrested,No,None,Low,Hands
+471,235,Kritika Kade,Cobra,Female,69,1983-11-22,9916056492,123118140789,Engineer,"95/518, Deol Road, Pudukkottai 500534",2,Ballari,Arrested,No,Organized Crime,Medium,Iron Rod
+472,236,Kabir Babu,Boss,Male,63,1984-01-15,9908911196,047478354047,Business,"49/837, Nair Ganj, Kurnool 273652",5,Bengaluru Urban,Arrested,Yes,None,Low,None
+473,236,Chakradhar Tandon,Boss,Male,25,1965-03-05,9871564932,071452117007,Private Employee,"972, Bail Road, Ujjain-693121",5,Bengaluru Urban,Arrested,No,None,High,Hands
+474,236,Jason Sha,Ranga,Male,48,2003-09-28,9982642156,806817490164,Private Employee,"82/091, Rajagopalan Marg, Bhubaneswar-023142",5,Bengaluru Urban,Arrested,No,None,Low,Iron Rod
+475,236,Aarna Cherian,Boss,Female,19,1984-04-20,9886936871,678671527400,Doctor,"279, Gade Chowk, Bathinda 230848",5,Bengaluru Urban,Absconding,No,None,Low,Stone
+476,237,Aishani Basu,King,Female,59,1961-01-02,9989386984,478556571369,Lawyer,"62/03, Karan Nagar, Kharagpur 543617",17,Kalaburagi,Absconding,No,None,Low,Iron Rod
+477,237,Christopher Kapur,Cobra,Male,38,1960-12-12,9899533854,246781726353,Business,"H.No. 951, Chad Path, Mahbubnagar 268592",17,Kalaburagi,Arrested,No,Local Gang,Low,Knife
+478,238,Falan Mitra,Shadow,Male,56,1988-09-01,9986388337,943201353082,Software Engineer,"H.No. 475, Bose Road, Jalgaon 526771",3,Belagavi,Surrendered,No,None,Medium,Hands
+479,239,Unni Mallick,Anna,Female,21,1963-03-23,9906414311,790015107406,Business,"655, Samra Chowk, Haridwar 236687",17,Kalaburagi,Arrested,Yes,None,Low,Hands
+480,240,Ishwar Rajagopalan,Rowdy,Male,57,1959-12-27,9915258153,288269079240,Doctor,"13/503, Patil Nagar, Guntur-055247",24,Ramanagara,Arrested,No,Cyber Group,High,Hands
+481,240,Shivansh Kibe,Rocky,Male,18,1966-09-22,9886488428,441887072648,Government Employee,"21/260, Prabhu Marg, Aligarh-792025",24,Ramanagara,Arrested,No,Organized Crime,Medium,Hands
+482,241,Balveer Konda,Rocky,Male,63,1959-08-22,9876637234,222640926483,Shop Keeper,"728, Singhal Road, Naihati-041200",25,Shivamogga,Arrested,No,None,Low,Stick
+483,241,Yashasvi Dyal,Bullet,Female,40,1956-02-18,9882921255,510302716525,Business,"49/84, Sampath Ganj, Darbhanga-862369",25,Shivamogga,Arrested,No,None,High,Sharp Weapon
+484,242,Januja Ramanathan,Tiger,Female,37,1965-04-17,9885200679,915982817018,Sales Executive,"56, Gala Marg, Serampore 341115",3,Belagavi,Absconding,No,None,Low,Hands
+485,242,Akshay Khatri,Ranga,Male,33,1970-07-07,9980875050,101188522112,Unemployed,"904, Jaggi Ganj, New Delhi 199097",3,Belagavi,Arrested,No,None,Low,None
+486,243,Arunima Murty,Bullet,Female,61,1960-06-30,9983545993,677754548253,Engineer,"H.No. 46, Hayer Circle, Katni 215681",11,Dakshina Kannada,Surrendered,Yes,None,Low,Stick
+487,244,Advik Raja,Don,Male,66,1980-11-01,9872774571,731992373219,Journalist,"271, Kata Zila, Ajmer 889857",11,Dakshina Kannada,Surrendered,No,None,Low,None
+488,244,Pallavi Mannan,Anna,Female,59,1974-08-27,9984535498,431919172025,Government Employee,"63/399, Dua Zila, Jalandhar-248171",11,Dakshina Kannada,Arrested,No,None,Low,Hands
+489,245,Naksh Gara,Master,Male,69,2005-01-23,9915874565,759183776171,Software Engineer,"H.No. 95, Chakraborty Path, Mangalore-474721",22,Mysuru,Arrested,No,None,High,Knife
+490,246,Anusha Patla,Master,Female,54,2001-01-31,9884815290,082404994048,Sales Executive,"27/58, Murthy, Gwalior-874090",6,Bidar,Arrested,No,Drug Network,Medium,Stick
+491,247,Aarna Dubey,Boss,Female,58,2000-10-08,9963167525,820435474938,Journalist,"961, Rama Ganj, Tiruchirappalli 778711",1,Bagalkote,Arrested,No,None,High,Sharp Weapon
+492,248,Chatura Ranganathan,Don,Male,24,1996-04-09,9965374301,490384814091,Shop Keeper,"H.No. 15, Sunder Path, Fatehpur-470827",26,Tumakuru,Surrendered,No,None,Low,None
+493,248,Hredhaan Nagarajan,Rowdy,Male,36,1985-09-02,9886113300,705409869011,Farmer,"H.No. 67, Bhagat Ganj, Lucknow-442121",26,Tumakuru,Absconding,No,None,Medium,Sharp Weapon
+494,249,Samaksh Bumb,Cobra,Male,37,1971-05-15,9890900097,884228061481,Private Employee,"34/20, Sangha Zila, Bihar Sharif-356778",25,Shivamogga,Arrested,No,None,Low,Hands
+495,249,Tejas Pant,Tiger,Male,62,2003-12-04,9908352748,293321105114,Engineer,"93/19, Dhillon, Ratlam-272751",25,Shivamogga,Arrested,No,None,Low,Firearm
+496,250,Lekha Verma,Rowdy,Female,44,1993-11-02,9879667378,633308838497,Private Employee,"79/103, Salvi Ganj, Ghaziabad-353390",20,Koppal,Arrested,No,Drug Network,Low,Firearm
+497,251,Qabil Babu,Shadow,Male,18,1971-07-24,9987944918,269974767830,Unemployed,"77/665, Sandhu Path, Raipur 765289",21,Mandya,Surrendered,No,None,Medium,Iron Rod
+498,251,Urmi Raj,Lucky,Female,51,1970-08-30,9908966498,475570346748,Business,"91/111, Sabharwal Nagar, Mehsana-789046",21,Mandya,Surrendered,No,Cyber Group,High,Hands
+499,252,Jasmit Sha,Rowdy,Female,34,1984-10-16,9898886530,228200085890,Farmer,"15, Sachar Chowk, Chennai 384444",16,Haveri,Absconding,No,None,Medium,Hands
+500,253,Kavya Agrawal,Bullet,Female,55,2003-04-08,9885578937,160432409712,Lawyer,"H.No. 025, Nadkarni Circle, Tirunelveli-386396",22,Mysuru,Surrendered,No,None,Low,Iron Rod
+501,253,Upadhriti Dave,Bullet,Female,52,2005-05-06,9965098802,779914177416,Sales Executive,"58, Sarkar Street, Navi Mumbai-819648",22,Mysuru,Arrested,No,None,High,Knife
+502,254,Ojasvi Jani,Don,Female,64,1960-07-01,9879697913,561973337158,Business,"H.No. 920, Brar, Nagpur 752334",24,Ramanagara,Absconding,Yes,None,Medium,Hands
+503,255,Krisha Radhakrishnan,Master,Female,53,1996-05-22,9984338015,063370341057,Cook,"H.No. 209, Choudhry Zila, Kavali 124421",22,Mysuru,Arrested,Yes,Local Gang,Low,None
+504,255,Yug Pathak,Black,Male,68,2003-12-07,9986254019,696892899347,Unemployed,"H.No. 706, Sur Zila, Bhagalpur-657224",22,Mysuru,Surrendered,Yes,Local Gang,High,Firearm
+505,256,Gaurav Balay,Bullet,Male,41,1961-10-08,9870238128,228558855625,Driver,"99, Ahluwalia Circle, Nagaon 139080",15,Hassan,Arrested,Yes,None,High,None
+506,256,Janaki Patla,Anna,Female,35,1961-08-22,9960095144,352557016586,Unemployed,"H.No. 23, Date Zila, Panipat-315847",15,Hassan,Absconding,No,Local Gang,High,Knife
+507,257,Tejas Vala,Silent,Male,44,2005-09-18,9876857842,463821945268,Software Engineer,"346, Muni Zila, Tiruppur-676945",12,Davanagere,Absconding,No,Drug Network,Low,Hands
+508,257,Sanaya Sanghvi,Rocky,Female,62,1966-02-21,9885859272,200392102164,Private Employee,"17/208, Rout Road, Mahbubnagar 601256",12,Davanagere,Arrested,Yes,Local Gang,High,Hands
+509,258,Rachita Korpal,Bullet,Female,42,1959-05-29,9965268131,692420040804,Student,"510, Apte Path, Kakinada 953816",25,Shivamogga,Arrested,Yes,None,Low,Iron Rod
+510,259,Jagvi Vyas,Boss,Female,68,1967-01-30,9985536462,431290242959,Unemployed,"66/55, Hegde Ganj, Kumbakonam 046117",5,Bengaluru Urban,Arrested,Yes,None,High,Iron Rod
+511,259,Omisha Rajagopal,Black,Female,65,1968-02-01,9900582287,656751451077,Shop Keeper,"H.No. 907, Deep Road, Vadodara 501716",5,Bengaluru Urban,Arrested,No,None,Low,Knife
+512,259,Mahika Nadig,Master,Female,62,1995-07-03,9982148650,412034232900,Driver,"57/90, Misra Marg, Kumbakonam-591030",5,Bengaluru Urban,Arrested,No,None,Low,Sharp Weapon
+513,259,Ekaraj Cheema,Cobra,Male,61,2008-03-19,9914172029,496880960257,Student,"135, Ahluwalia Circle, Rampur-104145",5,Bengaluru Urban,Arrested,Yes,None,Medium,Iron Rod
+514,260,Lopa Garde,Anna,Female,70,2004-07-29,9887815250,697517956182,Journalist,"529, Sekhon Marg, Nagaon-977457",26,Tumakuru,Arrested,No,None,Medium,Iron Rod
+515,260,Chakradhar Lalla,Boss,Male,57,1996-03-01,9880773778,468131018401,Unemployed,"33/11, Bhasin Chowk, Ahmedabad 763715",26,Tumakuru,Arrested,Yes,Organized Crime,Low,Iron Rod
+516,261,Zarna Varkey,Cobra,Female,46,2001-01-20,9888562418,436978127405,Electrician,"28/123, Rajan Path, Udupi 631462",29,Vijayanagara,Surrendered,No,Local Gang,High,Iron Rod
+517,261,Dalaja Din,Black,Female,43,1979-12-27,9965715521,956825352311,Driver,"072, Balakrishnan Road, Bettiah 541815",29,Vijayanagara,Absconding,No,Local Gang,Medium,Knife
+518,262,Hitesh Dora,Boss,Male,57,1976-08-05,9900757312,807776870176,Sales Executive,"H.No. 745, Bawa Zila, Bhusawal-436294",20,Koppal,Arrested,Yes,None,Medium,None
+519,263,Yochana Sant,Tiger,Female,21,1961-05-05,9986901331,967208654490,Farmer,"H.No. 310, Lata Nagar, Amritsar 439666",25,Shivamogga,Arrested,No,None,Low,Hands
+520,264,Januja Loyal,Tiger,Female,47,1981-10-20,9870068360,721314759303,Farmer,"H.No. 49, Aggarwal Road, Udaipur-432512",13,Dharwad,Arrested,No,Local Gang,Medium,Knife
+521,265,Osha Shah,King,Female,31,1963-01-27,9884856706,699102013815,Sales Executive,"50, Lalla Street, Tirunelveli 957907",25,Shivamogga,Arrested,No,Drug Network,Medium,Stone
+522,265,Vrishti Choudhary,Silent,Female,49,1957-12-13,9885375021,066215674124,Doctor,"882, Chandra Street, Avadi 775847",25,Shivamogga,Absconding,Yes,None,Low,Sharp Weapon
+523,266,Qabil Shanker,Shadow,Male,47,1956-04-10,9980396193,281773511876,Unemployed,"58/971, Venkataraman Road, Siliguri 325703",5,Bengaluru Urban,Arrested,No,None,Medium,Iron Rod
+524,266,Pranit Jhaveri,Cobra,Male,67,1995-01-04,9887355193,948060608292,Electrician,"14/878, Lanka Street, Bathinda-964430",5,Bengaluru Urban,Arrested,No,None,High,Hands
+525,267,Divya Sant,Anna,Female,64,1997-09-16,9888807448,109206416904,Private Employee,"H.No. 072, Doctor Chowk, Proddatur 474140",27,Udupi,Surrendered,No,None,Medium,None
+526,267,Anusha Kalla,Ranga,Female,24,1970-07-22,9909877509,208534585063,Shop Keeper,"40, Pandey Marg, Dhanbad 254882",27,Udupi,Arrested,No,Drug Network,Low,Iron Rod
+527,268,Krishna Dhar,Tiger,Male,57,2008-05-04,9962371030,157252348574,Business,"14/30, Pant Chowk, Kharagpur-614494",3,Belagavi,Arrested,No,None,Low,Iron Rod
+528,269,Urmi Naidu,Boss,Female,35,1998-03-10,9893020771,590307294975,Software Engineer,"H.No. 26, Iyengar Circle, Farrukhabad-497826",19,Kolar,Arrested,Yes,None,Low,Stone
+529,269,Chanakya Devi,Ranga,Male,51,1983-06-19,9883368736,092972304541,Unemployed,"56, Salvi Chowk, Surendranagar Dudhrej 806129",19,Kolar,Arrested,No,Cyber Group,Medium,Hands
+530,270,Keya Vala,Rocky,Female,36,1975-05-02,9969135797,328975426611,Security Guard,"26, Shere Nagar, Meerut 041591",6,Bidar,Absconding,No,None,Low,Hands
+531,271,Wridesh Narula,Silent,Male,69,2001-05-14,9892109951,776675372566,Mechanic,"38/287, Kapoor Street, Barasat 079311",14,Gadag,Absconding,No,None,Medium,Sharp Weapon
+532,271,Ganga Dara,Master,Female,55,1983-02-09,9906515278,578981882774,Engineer,"H.No. 708, Raman Chowk, Bhilai-672384",14,Gadag,Surrendered,No,None,High,Stick
+533,272,David Sankaran,Rowdy,Male,43,1963-04-23,9961790473,975266329187,Electrician,"328, Iyer Circle, Nangloi Jat 419754",5,Bengaluru Urban,Arrested,No,None,Low,Knife
+534,272,Reyansh Chhabra,Ranga,Male,62,1980-02-23,9916358153,642733408044,Private Employee,"H.No. 471, Ramachandran, Amaravati-097052",5,Bengaluru Urban,Surrendered,No,Organized Crime,Low,Stone
+535,273,Veer Malhotra,Anna,Male,34,1956-01-15,9981252735,600942084380,Software Engineer,"83/58, Varghese Marg, Akola-595724",22,Mysuru,Surrendered,Yes,None,Low,Stick
+536,273,Shravya Bir,Rocky,Female,70,2004-02-11,9988005622,683478589660,Lawyer,"92, Tripathi, Bikaner-995996",22,Mysuru,Arrested,Yes,None,Low,Knife
+537,274,Aradhana Balan,Cobra,Female,28,2000-09-18,9877414865,350878999590,Software Engineer,"H.No. 177, Kata Path, Vasai-Virar-661094",17,Kalaburagi,Arrested,Yes,None,Low,Hands
+538,274,Anirudh Bora,Cobra,Male,30,1978-12-16,9902993713,915008811601,Sales Executive,"517, Deol Marg, Thiruvananthapuram 774332",17,Kalaburagi,Absconding,No,None,Medium,None
+539,275,Zarna Handa,Rowdy,Female,42,1960-02-12,9871485357,150820842046,Engineer,"020, Reddy Path, Mau 873397",2,Ballari,Arrested,Yes,None,Medium,Knife
+540,275,Pranav Devi,Don,Male,29,1998-01-16,9870104851,629453876478,Private Employee,"61/912, Misra Circle, Kochi-309850",2,Ballari,Arrested,No,Organized Crime,Low,Sharp Weapon
+541,275,Mohini Krishnamurthy,Rocky,Female,19,1976-04-01,9892790757,469474924717,Business,"418, Khurana, Silchar 819740",2,Ballari,Arrested,No,None,Low,Knife
+542,275,Pallavi Sama,Master,Female,38,1969-05-20,9961966039,964106905334,Cook,"385, Keer Nagar, Srinagar 516991",2,Ballari,Arrested,No,None,Low,Hands
+543,276,Eiravati Madan,Master,Female,68,1993-11-22,9918919879,628477296268,Sales Executive,"83, Sankar Path, Avadi 000389",31,Yadgir,Absconding,No,None,Medium,Hands
+544,276,Adya Subramaniam,Shadow,Female,69,1958-04-27,9989643184,317606279069,Shop Keeper,"68, D’Alia Street, Kochi-535603",31,Yadgir,Arrested,No,Organized Crime,Medium,Hands
+545,277,Charita Anne,Black,Female,63,1967-08-05,9981835477,560667368687,Electrician,"30/102, Gole Chowk, Varanasi 593429",25,Shivamogga,Absconding,No,None,Low,Hands
+546,277,Wriddhish Das,Don,Male,35,1990-05-10,9911782154,318612967878,Private Employee,"37/53, Mittal Chowk, Suryapet 384588",25,Shivamogga,Arrested,No,Cyber Group,High,None
+547,278,Avni Pal,King,Female,28,2003-04-13,9890635394,931545825732,Unemployed,"H.No. 328, Mody Ganj, Bhilai-203771",1,Bagalkote,Absconding,Yes,None,Medium,Firearm
+548,279,Yahvi Bandi,Silent,Female,42,1969-11-18,9985034682,161655914405,Labourer,"H.No. 049, Tandon Marg, Eluru-703362",7,Chamarajanagar,Arrested,No,None,Low,Stone
+549,280,Zinal Ben,Rowdy,Female,23,1990-07-23,9892182216,247907430691,Government Employee,"H.No. 954, Kalita, Mau 601864",18,Kodagu,Arrested,No,Local Gang,Low,None
+550,280,Simon Venkataraman,Cobra,Male,47,1969-05-05,9906915407,142185831138,Shop Keeper,"32/044, Krish Zila, Naihati-094544",18,Kodagu,Arrested,No,Organized Crime,Medium,None
+551,280,Diya Mohanty,Boss,Female,52,1985-09-07,9902817598,267438782536,Student,"770, Andra Chowk, Vadodara 783609",18,Kodagu,Absconding,No,None,Low,Stick
+552,280,Lakshit Murthy,Tiger,Male,20,2006-01-30,9888326291,888780030265,Labourer,"H.No. 44, Datta Chowk, Akola-903102",18,Kodagu,Arrested,No,None,Medium,Iron Rod
+553,281,Nitara Barman,Rowdy,Female,27,1984-11-20,9909694877,247189792902,Driver,"44/058, Keer Nagar, Moradabad-871813",18,Kodagu,Arrested,Yes,Local Gang,Low,Sharp Weapon
+554,282,Nicholas Prabhu,Cobra,Male,30,1999-07-03,9911803030,022174014504,Sales Executive,"64/205, Parsa, Vellore-749025",9,Chikkamagaluru,Arrested,Yes,None,High,Stick
+555,282,Mohini Doctor,Ranga,Female,48,2003-11-20,9883893657,648573514140,Security Guard,"35/88, Padmanabhan, Burhanpur 261139",9,Chikkamagaluru,Arrested,Yes,None,Medium,Hands
+556,283,Darsh Wable,Cobra,Male,19,1997-11-11,9891199241,143803518339,Shop Keeper,"H.No. 43, Memon, Ozhukarai-537513",18,Kodagu,Surrendered,No,None,Low,Iron Rod
+557,283,Samarth Pathak,Tiger,Male,49,1959-10-12,9966782829,522876714884,Cook,"79/376, Dass Ganj, Vellore 944551",18,Kodagu,Arrested,No,None,Medium,Knife
+558,283,Tara Sama,Anna,Female,66,1982-04-28,9919727819,951069137701,Journalist,"32/702, Sahota Zila, Begusarai-120602",18,Kodagu,Arrested,No,None,High,Hands
+559,283,Ekaja Varma,Rowdy,Female,40,2001-07-02,9962773516,308797223968,Software Engineer,"H.No. 26, Khurana Circle, Kochi-599910",18,Kodagu,Arrested,No,None,High,Stick
+560,284,Peter Sen,Boss,Male,19,2003-10-28,9981577530,346716104425,Electrician,"H.No. 72, Upadhyay Street, Saharanpur-995765",22,Mysuru,Arrested,No,None,Medium,Stick
+561,284,Gaurang Trivedi,King,Male,28,1993-11-07,9878994711,761319060137,Farmer,"475, Vasa Nagar, Baranagar 652203",22,Mysuru,Surrendered,No,None,Medium,Knife
+562,285,Yochana Mall,Ranga,Female,54,1986-01-15,9884356488,717212766130,Security Guard,"H.No. 42, Mani Zila, Morbi 324491",19,Kolar,Arrested,No,None,Low,Hands
+563,286,Liam Dhaliwal,Black,Male,62,1960-08-22,9983978076,826516400912,Mechanic,"08/83, Suresh Nagar, Uluberia-496782",22,Mysuru,Arrested,No,None,Medium,Hands
+564,286,Manbir Choudhary,Don,Male,19,1993-07-08,9899870994,312405079480,Private Employee,"74, Devan Zila, Bhiwandi 131528",22,Mysuru,Surrendered,Yes,Cyber Group,Low,Hands
+565,287,Manya Setty,Cobra,Female,28,1988-12-24,9988607800,039957447635,Engineer,"H.No. 618, Gupta Path, Bangalore 296334",22,Mysuru,Arrested,No,None,Low,Stick
+566,288,Faqid Sundaram,Anna,Male,26,1998-09-10,9988400017,128742429440,Student,"318, Aggarwal Ganj, Jabalpur-893206",23,Raichur,Absconding,No,None,Low,Hands
+567,288,Ranveer Keer,Black,Male,39,1989-05-10,9960054107,398299414110,Shop Keeper,"H.No. 34, Suri Chowk, Khora -874131",23,Raichur,Arrested,Yes,None,Low,Hands
+568,288,Ubika Sekhon,Rowdy,Female,49,1972-10-20,9872539876,189988413021,Lawyer,"751, Rao Path, Karawal Nagar-963044",23,Raichur,Arrested,No,None,Low,None
+569,288,Tara Bhat,Rocky,Female,58,1985-05-10,9910014449,072275856765,Cook,"56/676, Lad Marg, Agartala 350476",23,Raichur,Surrendered,Yes,Local Gang,Low,Knife
+570,289,Fiyaz Wason,Don,Male,69,1966-06-26,9912889369,661568352430,Teacher,"980, Raghavan Nagar, Thoothukudi 810835",24,Ramanagara,Surrendered,No,None,Low,Hands
+571,290,Gaurangi Wason,Lucky,Female,45,1976-07-08,9882655251,680828891204,Student,"556, Kothari Ganj, Vadodara-818670",12,Davanagere,Arrested,No,None,Low,Knife
+572,291,Megha Mitra,Bullet,Female,24,1956-11-03,9989997267,558741199756,Labourer,"H.No. 16, Deep Marg, Guwahati-186008",3,Belagavi,Arrested,No,Organized Crime,High,Sharp Weapon
+573,291,Charvi Raman,Rowdy,Female,37,1965-11-08,9911748359,545401820440,Driver,"80, Mahal Road, Panihati 497646",3,Belagavi,Arrested,Yes,None,Low,Hands
+574,292,Indrajit Ray,Cobra,Male,50,1985-04-16,9906575491,739686003727,Business,"88/360, Ramesh Chowk, Bongaigaon-739063",17,Kalaburagi,Arrested,No,None,Medium,Stick
+575,293,Qasim Sood,King,Male,49,1985-05-28,9896852737,478632064683,Lawyer,"118, Johal Street, Guntakal 126978",12,Davanagere,Arrested,Yes,None,Medium,Hands
+576,294,Ayushman Tak,Lucky,Male,22,1968-11-29,9900511937,845155725556,Unemployed,"059, Ray, Agartala 878753",5,Bengaluru Urban,Surrendered,No,None,High,Stick
+577,294,Vedhika Subramanian,Black,Female,56,1982-10-27,9910080091,892696182424,Sales Executive,"16, Arya Street, Saharsa 237106",5,Bengaluru Urban,Arrested,No,None,Low,None
+578,295,Frederick Vohra,Lucky,Male,43,1981-05-18,9897793974,264686274847,Sales Executive,"H.No. 416, Madan Road, Srikakulam-922483",7,Chamarajanagar,Absconding,No,None,Low,Stone
+579,295,Jeremiah Sodhi,Cobra,Male,52,1980-02-02,9919784500,259786969565,Lawyer,"870, Saha Path, Jalgaon 104331",7,Chamarajanagar,Absconding,No,None,Medium,Hands
+580,296,Oni Chandra,Shadow,Female,54,1958-10-17,9896835980,115187929801,Sales Executive,"H.No. 583, Atwal Path, Panipat-694596",4,Bengaluru Rural,Absconding,Yes,Organized Crime,Medium,Knife
+581,296,Isha Brahmbhatt,Black,Female,31,1986-12-19,9903471523,040563155123,Shop Keeper,"H.No. 24, Chaudry, Nagaon 599949",4,Bengaluru Rural,Arrested,No,Organized Crime,Medium,None
+582,296,Jagrati Ganguly,Don,Female,44,1955-09-12,9873418938,445049791564,Teacher,"H.No. 922, Soman Street, North Dumdum-028767",4,Bengaluru Rural,Arrested,No,Organized Crime,Medium,Stone
+583,296,Nidhi Tella,Tiger,Female,39,1995-11-02,9962166390,948111749463,Electrician,"67, Muni Path, Bettiah-932426",4,Bengaluru Rural,Absconding,No,None,Low,Stick
+584,297,Yash Krishna,Shadow,Male,41,1991-11-19,9985955307,904537918159,Shop Keeper,"057, Samra Path, Tadepalligudem-652037",4,Bengaluru Rural,Surrendered,No,None,Low,None
+585,298,Zansi Hayer,Bullet,Female,28,1955-11-08,9968079052,742353705963,Business,"H.No. 548, Mahajan Nagar, Panipat 604409",25,Shivamogga,Arrested,No,None,Medium,Knife
+586,299,Vrishti Sha,Cobra,Female,34,1981-07-17,9897920926,247880119925,Driver,"H.No. 509, Goel Street, Gwalior-107051",8,Chikkaballapur,Surrendered,No,None,High,Hands
+587,299,Indali Badal,Don,Female,46,1973-03-10,9983266611,185688305807,Business,"58/06, Bhat Marg, Nellore 412704",8,Chikkaballapur,Arrested,No,None,Low,Hands
+588,300,Yashawini Rout,Tiger,Female,64,1964-09-21,9915162880,887757342983,Farmer,"H.No. 85, Om Zila, Tezpur 971112",5,Bengaluru Urban,Arrested,Yes,None,Low,Hands
+589,300,Girik Nadkarni,Black,Male,70,1986-11-21,9918646471,669736159525,Mechanic,"H.No. 357, Koshy Zila, Jhansi 406424",5,Bengaluru Urban,Arrested,No,None,Medium,Stick
+590,301,Nakul Sachdev,Shadow,Male,37,1967-07-14,9894781862,288959711252,Sales Executive,"244, Lalla Chowk, Unnao-955872",26,Tumakuru,Arrested,Yes,None,High,Hands
+591,302,Sanya Dugal,Black,Female,19,1984-01-26,9909182189,752101110054,Sales Executive,"H.No. 43, Thakur Path, Mysore-437401",15,Hassan,Surrendered,Yes,None,Medium,Hands
+592,302,Vyanjana Dey,King,Female,63,1980-04-27,9901581300,782329577277,Electrician,"69/05, Parmer Zila, Kozhikode 755125",15,Hassan,Arrested,No,Organized Crime,Medium,Firearm
+593,302,Finn Sibal,Boss,Male,18,1984-07-15,9887947908,237383904832,Driver,"79/96, Solanki Marg, Nizamabad 957640",15,Hassan,Absconding,Yes,None,Low,None
+594,302,Zehaan Chokshi,Tiger,Male,36,1977-11-13,9878516957,450774521556,Sales Executive,"02/82, Viswanathan Road, Tezpur 250142",15,Hassan,Arrested,No,None,Low,Knife
+595,303,Veer Randhawa,Shadow,Male,48,1964-04-26,9919646335,140436200479,Student,"244, Goyal Zila, Kurnool 132850",25,Shivamogga,Absconding,No,Organized Crime,Low,Hands
+596,303,Gauri Padmanabhan,King,Female,23,1960-11-07,9918795997,359142074310,Security Guard,"67, Char Ganj, Warangal-265469",25,Shivamogga,Absconding,No,None,Medium,Hands
+597,303,Bimala Palan,Black,Female,26,1981-06-09,9902164500,798739156380,Government Employee,"23/55, Thaker Path, Phagwara 132730",25,Shivamogga,Arrested,No,None,High,Sharp Weapon
+598,303,Nidhi Saran,Bullet,Female,18,1960-06-23,9965906273,201828959688,Teacher,"24, Ram Road, Visakhapatnam-622681",25,Shivamogga,Arrested,Yes,Cyber Group,High,Hands
+599,304,Benjamin Pal,Rowdy,Male,62,1991-12-02,9897214399,734035690596,Shop Keeper,"H.No. 252, Tripathi, Malda 766046",30,Vijayapura,Absconding,No,None,Low,None
+600,305,Dalbir Seshadri,King,Male,65,1982-03-02,9877287051,004309279057,Unemployed,"51/26, Rajagopal Circle, Jalgaon-594389",11,Dakshina Kannada,Absconding,No,None,Medium,Iron Rod
+601,306,Urishilla Bava,Cobra,Female,44,1980-03-10,9915283524,180679923527,Cook,"75, Pingle Nagar, Khandwa 408424",7,Chamarajanagar,Arrested,Yes,None,Medium,Knife
+602,306,Turvi Badal,King,Female,32,1979-03-28,9961429774,582815425041,Software Engineer,"15/08, Kothari Marg, Guwahati 227645",7,Chamarajanagar,Absconding,Yes,None,Medium,Iron Rod
+603,307,Keya Viswanathan,Master,Female,29,1985-09-19,9898399929,530897343091,Private Employee,"H.No. 50, Chaudhuri Street, Anand 546602",5,Bengaluru Urban,Absconding,Yes,None,Low,Hands
+604,307,Balveer Sant,Tiger,Male,20,2006-09-17,9906309129,945366187436,Doctor,"H.No. 98, Kohli Circle, Dindigul-364248",5,Bengaluru Urban,Arrested,Yes,None,Low,Hands
+605,308,Ryan Golla,Rocky,Male,61,1991-07-03,9889861979,390876033899,Cook,"30, Dayal Marg, Shimoga 951330",22,Mysuru,Absconding,No,None,Medium,Hands
+606,308,Janya Bhatt,Master,Female,20,1987-12-17,9902947784,597530270039,Electrician,"95/867, Arora Circle, Mau-572773",22,Mysuru,Arrested,Yes,None,High,Hands
+607,309,Robert Kumer,Lucky,Male,35,1976-11-29,9891020692,026026861537,Farmer,"51/38, Modi Path, Satna 702992",17,Kalaburagi,Arrested,No,None,Low,Knife
+608,309,Upasna Sagar,Don,Female,49,2008-05-03,9919005995,034278956182,Business,"73/68, Radhakrishnan Street, Jalandhar 331942",17,Kalaburagi,Arrested,No,Drug Network,Low,Hands
+609,309,Sai Rege,Master,Male,18,1974-03-19,9904381326,802328115101,Driver,"45/51, Thakkar Path, Kamarhati-774722",17,Kalaburagi,Arrested,No,None,High,Stone
+610,309,Maanas Aggarwal,Bullet,Male,65,1983-10-15,9980084630,759521903219,Security Guard,"21/696, Roy Marg, Bhopal 299819",17,Kalaburagi,Arrested,No,Cyber Group,Low,None
+611,310,Alka Nair,Lucky,Female,38,1987-11-17,9985117733,284810643129,Government Employee,"15/096, Vaidya Circle, Nanded-532735",3,Belagavi,Arrested,Yes,None,Low,Knife
+612,310,Manan Bhattacharyya,Black,Male,32,2002-12-18,9967017166,609515403011,Private Employee,"39, Khurana Chowk, Surendranagar Dudhrej-952371",3,Belagavi,Arrested,Yes,None,Medium,Hands
+613,310,Anamika Ray,King,Female,62,2001-07-06,9901635777,947680961941,Unemployed,"H.No. 648, Walla Zila, Bahraich-046056",3,Belagavi,Surrendered,Yes,None,Low,Firearm
+614,310,Tanish Dash,Boss,Male,28,1961-01-18,9967105656,826122422175,Student,"25/652, Subramanian Ganj, Bilaspur 517734",3,Belagavi,Surrendered,Yes,None,Medium,None
+615,311,Manbir Saxena,Black,Male,65,1973-01-30,9967169271,814396131875,Farmer,"49/02, Vig Street, Indore-595442",20,Koppal,Arrested,No,None,Medium,Iron Rod
+616,311,Vyanjana Sarraf,Anna,Female,63,1991-03-30,9985944356,276690689028,Student,"946, Kari Road, Rajpur Sonarpur-290458",20,Koppal,Arrested,No,None,Low,Stone
+617,312,Waida Garde,Lucky,Female,33,2007-02-04,9989526310,894004894939,Unemployed,"56/72, Subramaniam Circle, Karawal Nagar-015343",29,Vijayanagara,Arrested,No,Cyber Group,Low,Hands
+618,312,Falguni Mall,Black,Female,41,1987-10-25,9890577309,313775336118,Software Engineer,"H.No. 77, Arora, Panihati 061581",29,Vijayanagara,Surrendered,Yes,None,Low,Knife
+619,313,Chaaya Bhalla,Silent,Female,60,1979-03-25,9889795361,558079560646,Doctor,"H.No. 23, Shan Ganj, Thane-841312",18,Kodagu,Absconding,No,None,Medium,Knife
+620,313,Azaan Johal,Rowdy,Male,30,1967-08-14,9913219999,130522288208,Journalist,"H.No. 805, Hegde Zila, Bhiwandi-173189",18,Kodagu,Arrested,No,Drug Network,Low,Knife
+621,314,Widisha Mital,Cobra,Female,62,1985-09-24,9916474779,799319459237,Driver,"73/997, Krishnamurthy Nagar, Ghaziabad-725878",5,Bengaluru Urban,Surrendered,No,None,Low,Knife
+622,315,Mason Lalla,Don,Male,39,2001-07-10,9893595999,303753953818,Security Guard,"H.No. 88, Sarraf Road, South Dumdum-058772",16,Haveri,Surrendered,Yes,None,Medium,Iron Rod
+623,316,Bachittar Sankaran,Don,Male,35,1991-03-24,9883929965,289833370527,Electrician,"H.No. 82, Chopra Ganj, Kakinada 845871",13,Dharwad,Surrendered,Yes,None,Medium,None
+624,317,Jagrati Dubey,Lucky,Female,51,1972-09-18,9983190749,532867185426,Student,"292, Varty Path, Hindupur-434745",5,Bengaluru Urban,Arrested,No,None,Low,Hands
+625,317,Niharika Nath,Boss,Female,68,1994-01-27,9898824454,314196077889,Farmer,"H.No. 69, Sahni Marg, Sambhal 652740",5,Bengaluru Urban,Surrendered,Yes,None,High,Firearm
+626,317,Hemang Kunda,Lucky,Male,27,1971-03-07,9908113369,103961975609,Unemployed,"H.No. 66, Iyengar Path, Tadipatri 411325",5,Bengaluru Urban,Arrested,Yes,None,Medium,Firearm
+627,317,Vrinda Batra,Lucky,Female,29,1996-12-17,9960656421,368869116826,Business,"499, Bhargava Marg, Pimpri-Chinchwad-485741",5,Bengaluru Urban,Absconding,No,None,Medium,Knife
+628,318,Ekani Borah,Tiger,Female,32,1972-10-03,9882459400,901671518304,Sales Executive,"949, Chakrabarti Ganj, Sambalpur-984884",29,Vijayanagara,Arrested,No,Organized Crime,Medium,Sharp Weapon
+629,319,Ekaraj Bir,Silent,Male,63,2001-09-15,9879476975,242421999911,Government Employee,"32, Sidhu Path, Jaunpur 534490",3,Belagavi,Absconding,No,None,High,Stone
+630,320,Darpan Roy,Ranga,Male,63,1978-03-16,9986681943,869269287470,Business,"08/50, Sarkar, Dibrugarh-874951",10,Chitradurga,Arrested,Yes,Local Gang,Low,Stick
+631,320,Chakradhar Chowdhury,Silent,Male,49,1983-09-28,9963897630,623407628430,Teacher,"31/64, Seth Chowk, Bathinda 295786",10,Chitradurga,Arrested,Yes,None,Low,Firearm
+632,321,Sai Memon,Tiger,Male,41,1955-11-23,9874705934,090752353140,Engineer,"H.No. 356, Lad Street, Bhimavaram-873959",25,Shivamogga,Arrested,Yes,None,Low,None
+633,322,Girindra Divan,Cobra,Male,26,1966-06-25,9966102279,645409404827,Private Employee,"H.No. 890, Zachariah Street, Coimbatore-533342",24,Ramanagara,Arrested,Yes,Local Gang,Medium,Stick
+634,322,Lopa Kaul,Tiger,Female,59,2005-03-07,9914262659,626633057532,Engineer,"H.No. 271, Bal Marg, Dhule-077633",24,Ramanagara,Arrested,Yes,Organized Crime,Medium,Knife
+635,322,Diya Chander,Black,Female,35,2006-12-05,9895494704,533644559808,Student,"179, Nadig Path, Jhansi 185748",24,Ramanagara,Arrested,No,None,Low,None
+636,322,Vasatika Babu,Anna,Female,33,1955-12-10,9893215324,140853533034,Software Engineer,"H.No. 554, Saraf Zila, Berhampur-670450",24,Ramanagara,Arrested,Yes,None,Low,Knife
+637,323,Kritika Goel,Bullet,Female,37,1985-06-24,9889869655,339442329973,Cook,"700, Kadakia, Serampore-262282",30,Vijayapura,Absconding,No,None,Medium,Firearm
+638,324,Qabil Choudhary,Lucky,Male,66,1997-03-30,9912782428,825665103464,Security Guard,"465, Nagi Road, Indore 070260",29,Vijayanagara,Arrested,Yes,None,High,Sharp Weapon
+639,325,Zaitra Gara,Cobra,Female,24,1963-12-10,9881997401,874383274381,Lawyer,"161, Soni Zila, Vijayanagaram 290477",18,Kodagu,Arrested,Yes,None,Low,Knife
+640,326,Eesha Naidu,Anna,Female,22,1990-05-06,9887200881,728333733364,Driver,"79, Dass Ganj, Kottayam 231164",2,Ballari,Arrested,No,Cyber Group,Medium,Sharp Weapon
+641,326,Kritika Kara,Bullet,Female,63,1968-11-03,9895163209,502814970232,Security Guard,"79/889, Deep Road, Bhusawal 290603",2,Ballari,Absconding,No,None,Medium,Knife
+642,326,Advika Dhar,Shadow,Female,50,1989-03-11,9966838807,967852791806,Software Engineer,"50, Srivastava, Hapur-967379",2,Ballari,Arrested,No,None,Low,Stick
+643,326,Urvi Dalal,Tiger,Female,21,1995-01-15,9882789186,231777711962,Student,"457, Shan Circle, Tiruvottiyur 156082",2,Ballari,Arrested,Yes,None,Low,Hands
+644,327,Ishaan Shankar,Don,Male,19,1999-07-21,9881447197,384476382716,Doctor,"547, Butala Marg, Sikar 230358",5,Bengaluru Urban,Surrendered,Yes,None,Medium,Knife
+645,328,Zilmil Vohra,Anna,Female,28,1958-01-17,9880297054,978790411728,Sales Executive,"82/521, Kara Street, Panvel 340646",13,Dharwad,Surrendered,No,Organized Crime,Medium,Stick
+646,328,Vyanjana Sidhu,Tiger,Female,64,1972-08-14,9989846484,689123628474,Security Guard,"H.No. 484, Bhavsar Ganj, Bulandshahr 272362",13,Dharwad,Surrendered,No,None,Medium,Knife
+647,328,Shivani Hari,Silent,Female,42,1968-09-24,9907225794,647011005906,Driver,"426, Doshi Zila, Raiganj 450184",13,Dharwad,Absconding,No,None,High,Stone
+648,328,Vrishti Kata,Bullet,Female,21,1990-07-24,9988206211,966138741143,Mechanic,"97/21, Magar Path, Eluru 176927",13,Dharwad,Arrested,Yes,None,High,Knife
+649,329,Isaiah Virk,King,Male,25,1961-01-06,9901662839,970519249055,Student,"76/601, Majumdar Road, Danapur 645101",3,Belagavi,Surrendered,No,None,High,Knife
+650,329,Keya Talwar,Shadow,Female,57,1967-04-16,9963536816,469362953219,Driver,"H.No. 789, Prashad, Kalyan-Dombivli-919113",3,Belagavi,Arrested,No,None,Low,None
+651,330,Ucchal Ramesh,Shadow,Female,40,1993-08-17,9910816591,209972137744,Lawyer,"77/980, Sankaran Marg, Thrissur 051460",2,Ballari,Absconding,No,None,Medium,Hands
+652,330,Jonathan Parmer,Rowdy,Male,20,1998-12-06,9903325650,216702587180,Unemployed,"470, Shanker Path, Nanded 885652",2,Ballari,Surrendered,Yes,None,Medium,Knife
+653,331,Chaitanya Nath,Lucky,Male,63,1974-03-15,9895855920,713503318071,Private Employee,"H.No. 11, Munshi Marg, Gaya-347557",5,Bengaluru Urban,Surrendered,No,None,Low,Stick
+654,331,Gauri Ganguly,Bullet,Female,67,1972-08-30,9969628771,412167410130,Engineer,"48/84, Yohannan Circle, Sikar 311964",5,Bengaluru Urban,Arrested,Yes,Drug Network,Low,Iron Rod
+655,332,Onkar Walia,Anna,Male,23,1974-04-23,9908484692,601615084061,Sales Executive,"H.No. 499, Naik Zila, Mango-382407",24,Ramanagara,Arrested,Yes,None,Low,Knife
+656,332,Januja Korpal,Silent,Female,30,2001-12-09,9980308288,503698665603,Teacher,"043, Subramanian Nagar, Vijayanagaram-628969",24,Ramanagara,Absconding,No,Cyber Group,High,Stone
+657,332,Kalpit Patla,Boss,Male,50,1998-02-20,9918682847,568997714259,Business,"H.No. 53, Zachariah Path, Solapur 538921",24,Ramanagara,Arrested,Yes,None,Low,Knife
+658,332,Naksh Cheema,Rocky,Male,24,1998-05-05,9965593177,047790943646,Doctor,"83/749, Sharma Nagar, Mehsana-120878",24,Ramanagara,Arrested,No,Cyber Group,Medium,Hands
+659,333,Oscar Sood,Black,Male,67,2001-07-16,9876444451,948652616981,Cook,"51/494, Swaminathan Nagar, Guntur-374845",18,Kodagu,Absconding,No,None,Medium,Sharp Weapon
+660,333,Yashoda Ray,Cobra,Female,54,1963-03-15,9980326581,366604218024,Security Guard,"05/91, Bhatt Zila, Nanded 392207",18,Kodagu,Arrested,No,None,Medium,None
+661,333,Oni Chakraborty,Ranga,Female,49,1960-07-18,9875553623,654058881424,Labourer,"67, Oza Street, Jalandhar-526471",18,Kodagu,Arrested,No,Organized Crime,Low,Hands
+662,333,Leena Ratti,Rowdy,Female,67,1966-03-10,9915237168,831891143260,Business,"H.No. 71, Kurian Circle, Medininagar 805120",18,Kodagu,Arrested,No,None,Low,Sharp Weapon
+663,334,Aarnav Narain,Lucky,Male,53,1975-12-13,9915160465,254871392197,Labourer,"H.No. 239, Gopal Chowk, Hapur 295927",25,Shivamogga,Arrested,Yes,None,Low,Knife
+664,335,Zehaan Dixit,Ranga,Male,55,1998-09-20,9987329930,258968240799,Electrician,"08/14, Chokshi Road, Bokaro-173929",17,Kalaburagi,Arrested,Yes,None,Low,Stick
+665,336,Utkarsh Ramachandran,Cobra,Male,45,1997-02-10,9898129391,504695983301,Mechanic,"H.No. 35, Khatri Street, Maheshtala 050791",3,Belagavi,Arrested,Yes,None,High,Firearm
+666,336,Oeshi Vyas,Boss,Female,45,1985-05-25,9981916326,640443563563,Driver,"H.No. 52, Hora Chowk, Purnia-661707",3,Belagavi,Absconding,No,None,Medium,Hands
+667,337,Naveen Sule,Cobra,Male,36,1987-11-14,9897218807,369907496641,Private Employee,"H.No. 08, Guha Nagar, Aizawl 508004",21,Mandya,Absconding,Yes,None,Medium,Stone
+668,338,Ijaya Pandey,Bullet,Female,28,2006-08-29,9885363734,933003080304,Lawyer,"88/285, Kala Nagar, Berhampore 351373",16,Haveri,Arrested,Yes,None,Medium,Firearm
+669,338,Aradhana Raj,Boss,Female,51,1966-06-23,9967717433,851292345212,Cook,"H.No. 352, Kari Marg, Rewa 229394",16,Haveri,Arrested,No,Organized Crime,Medium,Iron Rod
+670,339,Mohammed Jayaraman,Rocky,Male,45,2005-05-23,9875588531,512516316482,Security Guard,"06/664, Sura Ganj, Ghaziabad 607231",18,Kodagu,Arrested,No,None,Low,Sharp Weapon
+671,339,Dalbir Dutt,Bullet,Male,40,2003-05-18,9906123047,953992816237,Farmer,"852, Rao Road, Jorhat-494116",18,Kodagu,Arrested,No,None,Medium,Hands
+672,339,Caleb Tank,Master,Male,21,1966-03-14,9915320986,300562263755,Journalist,"11, Barad Ganj, Udaipur 136957",18,Kodagu,Surrendered,No,Local Gang,Medium,Hands
+673,339,Timothy Barman,Bullet,Male,53,1990-09-09,9898837359,780145768888,Journalist,"50/902, Krishna Path, Etawah-306624",18,Kodagu,Arrested,No,Organized Crime,High,Hands
+674,340,Isaiah Gour,Rowdy,Male,39,1988-10-19,9985299877,248535076257,Sales Executive,"H.No. 713, Wadhwa, Proddatur 285011",23,Raichur,Absconding,No,None,High,Hands
+675,341,Abhiram Gara,Boss,Male,35,1993-12-07,9895807688,588453189527,Journalist,"H.No. 213, Raj Nagar, Phusro 691309",27,Udupi,Absconding,No,None,Low,Stone
+676,342,Advaith Soni,Anna,Male,67,2005-03-25,9986160712,509589363170,Electrician,"96/737, Krishna, Malda-278532",14,Gadag,Arrested,No,None,Medium,Hands
+677,343,Gagan Rama,Cobra,Male,36,2008-07-06,9890124499,752714237423,Shop Keeper,"06/420, Roy Chowk, Rewa-536667",18,Kodagu,Absconding,No,None,High,Hands
+678,343,Tristan Rama,Shadow,Male,41,1980-02-15,9969426882,413812360152,Labourer,"62/833, Halder Ganj, Tadipatri 786543",18,Kodagu,Arrested,Yes,None,High,Knife
+679,344,Ekta Singhal,Bullet,Female,18,1961-04-25,9899253207,401949625894,Student,"60/33, Dugar Path, Hazaribagh-270369",19,Kolar,Arrested,Yes,None,Medium,Knife
+680,344,Laban Dugal,Bullet,Male,49,1989-07-17,9880144951,664555795504,Student,"57, De Ganj, Satna-111000",19,Kolar,Surrendered,No,None,High,Hands
+681,344,Chakradev Munshi,Black,Male,29,2004-12-06,9915895787,382837481216,Doctor,"23/415, Mutti, Fatehpur 244182",19,Kolar,Surrendered,No,Local Gang,Medium,None
+682,344,Finn Sagar,Lucky,Male,30,1961-10-31,9899579524,635722402200,Student,"87/43, Din Zila, Jalandhar-267672",19,Kolar,Surrendered,Yes,Organized Crime,High,Knife
+683,345,Pratyush Sastry,Master,Male,52,1986-07-22,9883379908,820064122074,Business,"H.No. 795, Chada Path, Coimbatore-294621",11,Dakshina Kannada,Arrested,No,None,Low,Hands
+684,345,Naveen Master,Bullet,Male,21,1993-04-06,9914606175,457479852104,Software Engineer,"70/99, Gara Marg, Nizamabad 848075",11,Dakshina Kannada,Arrested,No,Organized Crime,Medium,Knife
+685,346,Atharv Khare,Lucky,Male,44,1992-09-07,9871801346,241361910572,Sales Executive,"50, Shanker Road, Thoothukudi 290904",29,Vijayanagara,Absconding,No,None,Low,Knife
+686,347,Harish Singhal,Anna,Male,18,1975-09-12,9894600237,904607041153,Electrician,"65/586, Oommen Marg, Sri Ganganagar 837441",19,Kolar,Arrested,No,None,Low,Knife
+687,347,Brijesh Nagar,Rowdy,Male,69,2001-03-20,9982872414,559084349123,Student,"131, Prakash Street, Jamnagar 110059",19,Kolar,Surrendered,No,None,Medium,Knife
+688,347,Faras Sharma,Lucky,Male,39,1988-12-31,9882571797,538741621630,Sales Executive,"10/23, Grewal Zila, Mysore 633016",19,Kolar,Arrested,Yes,None,Low,Hands
+689,347,Gopal Soni,Cobra,Male,61,1998-11-20,9882365331,163958148977,Unemployed,"49, Savant Nagar, Guna-123428",19,Kolar,Arrested,No,None,High,Stick
+690,348,Diya Borra,Black,Female,26,1965-07-13,9884995240,746991028140,Software Engineer,"694, Sachar, Bellary 453804",24,Ramanagara,Absconding,No,Organized Crime,High,Hands
+691,348,Gaurika Bhattacharyya,Don,Female,56,1958-10-27,9966879224,495155341819,Private Employee,"09/617, Chakrabarti Nagar, Giridih-919457",24,Ramanagara,Arrested,No,None,Low,None
+692,349,Wriddhish Prabhakar,Rowdy,Male,31,1982-01-15,9982005227,421055791170,Mechanic,"33/92, Pandit Nagar, Kirari Suleman Nagar-567772",7,Chamarajanagar,Arrested,No,None,High,Stone
+693,350,Sanya Saini,Anna,Female,30,2005-11-20,9907557776,357399985422,Business,"26, Atwal Path, Malegaon-923106",27,Udupi,Arrested,Yes,None,Low,Sharp Weapon
+694,350,Falan Madan,Ranga,Male,45,1973-06-08,9878724950,066631581068,Student,"24, Mall Circle, Jhansi 976627",27,Udupi,Arrested,Yes,None,Low,Firearm
+695,350,Qushi Cherian,Ranga,Female,38,1959-02-07,9909625784,100187875059,Labourer,"42/38, Kalita Chowk, Pallavaram 425496",27,Udupi,Arrested,Yes,None,Low,None
+696,350,Dhruv Wagle,Tiger,Male,20,1970-07-01,9913846947,394193400695,Teacher,"H.No. 97, Badami Zila, Uluberia 335357",27,Udupi,Arrested,No,None,High,Hands
+697,351,Panini Narula,Tiger,Female,40,1992-07-26,9910681041,040055407719,Student,"93/993, Suresh Ganj, Surat-816295",5,Bengaluru Urban,Surrendered,No,None,Low,Hands
+698,351,Zarna Swaminathan,Rowdy,Female,52,1980-01-30,9963447288,973793114982,Software Engineer,"63, Dhar Road, Allahabad 330559",5,Bengaluru Urban,Arrested,No,None,Low,Knife
+699,352,Eta Mahajan,Rocky,Female,49,2006-04-06,9981254441,977149395873,Driver,"83/39, Dara, Ghaziabad-884366",5,Bengaluru Urban,Absconding,No,Organized Crime,Low,None
+700,353,Neha Lal,Rocky,Female,44,1966-05-19,9985587240,102049835991,Labourer,"H.No. 615, Divan Chowk, Eluru 975147",26,Tumakuru,Absconding,No,None,Low,Firearm
+701,353,Hardik Setty,King,Male,25,1970-08-25,9880742733,519622871741,Lawyer,"H.No. 105, Sood Circle, Ajmer-680656",26,Tumakuru,Arrested,Yes,Organized Crime,Low,Iron Rod
+702,354,Nihal Banerjee,Rocky,Male,39,1989-09-01,9965285105,540427301008,Student,"02/71, Dey Zila, Kota 315551",18,Kodagu,Absconding,No,Organized Crime,Low,Iron Rod
+703,355,Onveer Boase,Anna,Male,63,1981-08-28,9900694821,765001925556,Engineer,"62/813, Dutt Chowk, Bhilwara 308003",3,Belagavi,Absconding,Yes,None,Low,Knife
+704,355,Ansh Basak,Master,Male,33,1967-03-01,9877408750,787819379972,Government Employee,"855, Randhawa Marg, Sasaram-706810",3,Belagavi,Absconding,No,Organized Crime,Low,Hands
+705,356,Andrew Joshi,Black,Male,58,1967-09-21,9870933114,158474750214,Mechanic,"H.No. 19, Upadhyay Path, Sikar-280944",20,Koppal,Absconding,Yes,None,High,Knife
+706,356,Rishi Dutta,Cobra,Male,30,1999-10-21,9965763475,480851912075,Lawyer,"546, Mangal Zila, Bhopal 986321",20,Koppal,Surrendered,No,None,Medium,Hands
+707,357,Rishi Chhabra,Silent,Male,69,1994-12-05,9981891830,967582608634,Mechanic,"43/94, Sheth Path, Berhampur-380403",14,Gadag,Arrested,Yes,Cyber Group,Medium,None
+708,357,Ojas Jhaveri,Rowdy,Male,38,1982-01-13,9877888309,239967818766,Student,"69, Swamy Street, Kishanganj-319100",14,Gadag,Arrested,Yes,None,Low,Hands
+709,358,Abdul Mahal,Rowdy,Male,37,2004-11-08,9877688321,304385327269,Electrician,"92, Bera Zila, Thrissur 651460",16,Haveri,Arrested,No,None,Low,Knife
+710,358,Anika Dar,Master,Female,49,1971-07-26,9902948549,323791504481,Labourer,"107, Atwal Street, Chandigarh 798440",16,Haveri,Arrested,No,None,Low,Hands
+711,358,Azad Dua,Rocky,Male,66,1966-12-23,9968423174,797441340284,Business,"H.No. 076, Sachar Chowk, Ahmedabad-144734",16,Haveri,Arrested,No,None,Medium,Hands
+712,358,Madhavi Guha,Black,Female,60,1968-01-01,9960039578,203876311276,Farmer,"09/687, Batta Ganj, Bharatpur-957782",16,Haveri,Surrendered,No,None,Low,Knife
+713,359,Ria Zachariah,Rowdy,Female,44,1963-04-12,9902063240,823794416257,Unemployed,"965, Palan Chowk, Siliguri 865619",1,Bagalkote,Arrested,No,None,Medium,Sharp Weapon
+714,360,Ekantika Natarajan,Rocky,Female,55,2004-07-26,9962033207,696124095497,Unemployed,"20/58, Om Street, Chapra-361618",13,Dharwad,Absconding,Yes,None,Medium,Firearm
+715,360,Yoshita Chawla,Boss,Female,49,1986-01-21,9963240708,511248420191,Shop Keeper,"35/715, Rana Path, Muzaffarnagar 613723",13,Dharwad,Arrested,Yes,None,High,Stick
+716,360,Zayyan Chokshi,Silent,Male,49,1981-10-20,9874026512,552398905818,Doctor,"643, Char Circle, Nagpur 041321",13,Dharwad,Surrendered,No,None,Low,Hands
+717,360,Jonathan Sethi,Tiger,Male,61,2005-12-17,9902805848,798094786921,Electrician,"60/945, Prasad Marg, Avadi-997990",13,Dharwad,Arrested,No,None,Medium,Iron Rod
+718,361,Anamika Tata,Tiger,Female,28,1972-06-30,9912499025,773086693626,Teacher,"76/816, Panchal, Indore 071748",7,Chamarajanagar,Arrested,No,None,High,Stone
+719,361,Benjamin Korpal,Rocky,Male,70,1993-12-11,9902627808,746841632466,Student,"53, Singh, North Dumdum 873961",7,Chamarajanagar,Absconding,Yes,None,Low,Hands
+720,361,Eesha Bala,Bullet,Female,65,2005-02-21,9909780007,198517979820,Software Engineer,"27/49, Wason Marg, Nizamabad-872742",7,Chamarajanagar,Surrendered,No,None,Low,Hands
+721,361,Maanav Narula,King,Male,31,1978-03-05,9880130898,391823378245,Business,"773, Ram Nagar, Gandhinagar-423597",7,Chamarajanagar,Arrested,No,None,Medium,Stone
+722,362,Tristan D’Alia,Black,Male,28,1960-12-08,9898314053,756187708077,Mechanic,"99/077, Sani Path, Loni-816704",27,Udupi,Surrendered,No,None,Low,Hands
+723,362,Siddharth Bhavsar,Shadow,Male,49,1959-01-04,9901433193,586593901302,Engineer,"68, Devan Ganj, Nagpur 192378",27,Udupi,Absconding,No,None,High,Knife
+724,363,Lekha Sridhar,Tiger,Female,27,1959-02-05,9968633810,618205689310,Private Employee,"H.No. 803, Din Ganj, Guntur-050801",22,Mysuru,Arrested,No,Organized Crime,Low,Hands
+725,364,Aayush Mitter,Silent,Male,35,2002-03-21,9887151285,494149378105,Electrician,"733, Sridhar Chowk, Kakinada-268812",21,Mandya,Absconding,No,Local Gang,Medium,Hands
+726,364,Elijah Bir,Black,Male,65,1980-11-15,9873544681,221553360376,Unemployed,"653, Ray Road, Bhiwani 560356",21,Mandya,Surrendered,Yes,None,Medium,Firearm
+727,365,Isaiah Datta,Black,Male,65,1980-12-18,9911767441,724673986337,Sales Executive,"984, Borde Chowk, Ghaziabad-618120",19,Kolar,Arrested,Yes,None,Medium,Knife
+728,365,Liam Ramaswamy,Cobra,Male,40,1970-06-10,9967947945,178609722255,Farmer,"95/47, Sura Circle, Giridih 751758",19,Kolar,Absconding,Yes,None,Medium,Stick
+729,366,Jeremiah Loyal,Tiger,Male,44,2005-01-25,9900988054,142076075275,Labourer,"H.No. 53, Halder, Farrukhabad 586449",17,Kalaburagi,Arrested,Yes,None,Medium,Stick
+730,366,Girindra Dewan,Rocky,Male,62,1998-01-28,9874054632,164844127730,Mechanic,"58/853, Venkatesh Chowk, Kochi 339527",17,Kalaburagi,Arrested,Yes,None,High,Iron Rod
+731,367,Jason Ramanathan,Shadow,Male,61,1981-03-24,9872814096,204120382911,Farmer,"52/49, Krishnan Zila, Gandhinagar 013477",22,Mysuru,Arrested,No,Drug Network,High,Firearm
+732,367,Yashodhara Salvi,Tiger,Female,62,1966-02-11,9887619888,481500865160,Engineer,"79/176, Munshi Marg, Kolhapur 150014",22,Mysuru,Arrested,Yes,Local Gang,Low,Firearm
+733,367,Krish Datta,King,Male,32,1997-02-06,9893775325,918732815061,Cook,"H.No. 900, Nazareth Zila, Anantapuram-333999",22,Mysuru,Absconding,No,None,High,Knife
+734,367,Raagini Khalsa,Black,Female,32,1963-08-06,9918637207,276807406046,Doctor,"638, Badal, Mysore 711363",22,Mysuru,Arrested,No,Drug Network,Medium,Stick
+735,368,Victor Gandhi,Boss,Male,47,2002-10-30,9873354688,244632589068,Mechanic,"H.No. 034, Raju Marg, Kakinada-116772",25,Shivamogga,Absconding,No,None,High,Stone
+736,368,Sachi Bajaj,King,Female,48,1984-03-30,9961805366,832248082224,Labourer,"76/855, Tata Nagar, Mango 521962",25,Shivamogga,Arrested,Yes,None,Low,Hands
+737,369,Ishita Kamdar,Anna,Female,62,1972-03-17,9988191148,967674642768,Teacher,"436, Singh, Phusro-170695",16,Haveri,Absconding,No,None,Medium,Hands
+738,370,Sai Bahri,Black,Female,43,1981-07-30,9877393063,186065775470,Student,"H.No. 645, Luthra Ganj, Bhilwara-223989",3,Belagavi,Absconding,Yes,None,Low,Stone
+739,371,Anita Raj,Black,Female,30,1974-11-17,9985188098,945438284490,Student,"21/980, Buch Road, Bidhannagar-426423",16,Haveri,Arrested,No,None,Low,Iron Rod
+740,372,Nachiket Ganesan,Rowdy,Male,63,1983-02-22,9965669079,396027640316,Doctor,"09/24, Singhal Circle, Rourkela-039111",5,Bengaluru Urban,Arrested,No,Drug Network,Medium,Firearm
+741,372,Gaurav Walla,Lucky,Male,53,1962-02-19,9917278676,807148069221,Labourer,"22/823, Nanda Nagar, Darbhanga-880622",5,Bengaluru Urban,Arrested,No,Cyber Group,Low,Stone
+742,373,Vrinda Dugal,Lucky,Female,67,2000-06-04,9919696009,710516082555,Cook,"47/37, Choudhary Street, Nanded-162047",4,Bengaluru Rural,Surrendered,No,None,Medium,Stick
+743,373,Siya Raval,Master,Female,53,2002-08-31,9886788396,015535642054,Engineer,"96/48, Ganesan Marg, Cuttack-319541",4,Bengaluru Rural,Absconding,No,None,Low,Sharp Weapon
+744,374,Sai Prashad,King,Female,43,1971-06-07,9880010646,894682283663,Lawyer,"30, Saran Ganj, Hospet 463203",13,Dharwad,Surrendered,No,None,Low,Sharp Weapon
+745,374,Jonathan Sur,Lucky,Male,37,1976-09-18,9886340099,421954872370,Lawyer,"726, Korpal Nagar, Salem-505766",13,Dharwad,Arrested,No,Organized Crime,High,Firearm
+746,374,Manan Pant,Shadow,Male,40,1999-01-28,9892727687,720247885185,Software Engineer,"15, Hari Path, Guna-012840",13,Dharwad,Arrested,Yes,None,Low,None
+747,374,Ikbal Verma,Tiger,Male,32,1975-03-27,9900447945,155498910263,Journalist,"H.No. 97, Narain Path, Arrah-891776",13,Dharwad,Arrested,No,None,Low,Knife
+748,375,Yashica Bhavsar,Tiger,Female,29,2008-06-26,9888399961,969527783574,Teacher,"H.No. 74, Dhar Street, Tiruchirappalli-463004",5,Bengaluru Urban,Absconding,No,None,Low,Knife
+749,376,Ekalinga Hayer,Master,Male,51,1977-09-24,9988880251,709408209691,Business,"689, Kade Road, Amritsar-047137",15,Hassan,Surrendered,No,None,Medium,None
+750,376,Yatin Comar,Bullet,Male,36,1959-10-18,9969030553,984064362766,Teacher,"57/49, Narayanan Circle, Hajipur-984933",15,Hassan,Arrested,No,None,Low,None
+751,377,Teerth Subramanian,King,Male,39,1969-12-25,9982544686,294959799093,Student,"60/944, Divan Zila, Muzaffarnagar 721885",21,Mandya,Arrested,Yes,None,Medium,Stick
+752,377,Sudiksha Saini,Shadow,Female,57,1985-08-02,9904943476,792837327396,Engineer,"297, Murthy Zila, Junagadh 626705",21,Mandya,Arrested,No,None,Medium,Stick
+753,378,Daniel Morar,Tiger,Male,59,1968-01-18,9880932056,913685014202,Cook,"36/63, Kohli Road, Naihati-959611",11,Dakshina Kannada,Surrendered,No,Organized Crime,Low,Firearm
+754,378,Benjamin Anand,Cobra,Male,67,1963-07-05,9894075873,090840704095,Sales Executive,"H.No. 200, Goel Chowk, Guntur-559102",11,Dakshina Kannada,Arrested,No,Drug Network,Low,Hands
+755,378,Oni Chaudhry,Boss,Female,23,1957-08-14,9893126075,350708428336,Student,"03/26, Chokshi Chowk, Guntakal 981942",11,Dakshina Kannada,Arrested,No,None,Low,Hands
+756,378,Vihaan Lad,Rocky,Male,69,1963-11-24,9877335992,971056531972,Student,"34/06, Gaba Path, Bidhannagar 844663",11,Dakshina Kannada,Arrested,No,Cyber Group,Medium,Stick
+757,379,Omisha Kade,Lucky,Female,52,1968-04-24,9910316092,468734296420,Cook,"H.No. 109, Divan Zila, Sultan Pur Majra-214559",1,Bagalkote,Arrested,No,None,Low,Stone
+758,379,Warda Saran,King,Female,20,1977-04-12,9911975657,682206983055,Cook,"05, Raman Street, Hapur 004627",1,Bagalkote,Arrested,Yes,None,Low,Stick
+759,380,Sneha Naik,Ranga,Female,20,1979-05-22,9899761029,649324678661,Cook,"59/202, Sagar Road, Morbi 202389",7,Chamarajanagar,Arrested,No,None,Medium,Stone
+760,380,Maya Jain,King,Female,64,1993-10-04,9885478914,275939137314,Farmer,"H.No. 559, Nazareth Path, Vasai-Virar-833258",7,Chamarajanagar,Arrested,No,None,Low,None
+761,380,Zilmil Raman,Anna,Female,33,2002-09-15,9873283156,648650201182,Journalist,"07/984, Shan Circle, Anantapuram-069176",7,Chamarajanagar,Arrested,Yes,None,Medium,Hands
+762,380,Kala Murty,Tiger,Female,54,1999-10-20,9906385890,650849996226,Private Employee,"H.No. 40, Kumar Ganj, Bilaspur-830373",7,Chamarajanagar,Arrested,Yes,None,Medium,Hands
+763,381,Aarav Sani,Rocky,Male,50,1958-02-01,9871057533,288734856144,Shop Keeper,"86/08, Behl Road, Amaravati 884136",29,Vijayanagara,Arrested,No,Organized Crime,Low,Iron Rod
+764,381,Gaurang Iyer,Boss,Male,37,1956-04-23,9914428149,017050310466,Security Guard,"H.No. 37, Chaudhary Nagar, Rampur-446263",29,Vijayanagara,Absconding,No,None,Medium,Firearm
+765,382,Pratyush Chatterjee,Silent,Male,41,1996-02-09,9881325350,327263995345,Lawyer,"81/12, Aggarwal Zila, Amritsar 217518",6,Bidar,Absconding,Yes,None,Low,Hands
+766,382,Yashodhara Das,Boss,Female,55,1981-01-23,9884312874,653934799688,Teacher,"H.No. 15, Rama Street, Bongaigaon 091122",6,Bidar,Arrested,No,None,Medium,Knife
+767,383,Faris Vig,Lucky,Male,56,1998-10-06,9894218664,715820893789,Journalist,"50/566, Vala Zila, Rajpur Sonarpur-397913",26,Tumakuru,Arrested,No,None,Low,Sharp Weapon
+768,383,Vasudha Ram,Ranga,Female,33,1972-08-19,9919178602,152906275222,Engineer,"H.No. 073, Pant Nagar, Serampore 605712",26,Tumakuru,Arrested,Yes,None,Medium,Knife
+769,384,Yoshita Dada,Tiger,Female,70,1986-12-24,9898323809,356052073226,Engineer,"85/19, Nadig Nagar, Bijapur-401042",6,Bidar,Arrested,No,Local Gang,High,Hands
+770,385,Sachi Dua,Bullet,Female,47,1970-06-07,9902947603,970805030615,Lawyer,"51/74, Ray Road, Indore-521289",5,Bengaluru Urban,Arrested,Yes,None,Medium,Hands
+771,385,Pratyush Comar,Rowdy,Male,26,1960-08-07,9902684754,439841824863,Driver,"H.No. 12, Kala, Ahmednagar 448818",5,Bengaluru Urban,Surrendered,No,Local Gang,High,Sharp Weapon
+772,386,Neha Chaudhry,Master,Female,54,2003-01-04,9902562525,767878505745,Software Engineer,"15, Ben Road, Coimbatore 901707",30,Vijayapura,Absconding,No,None,Medium,Knife
+773,386,Samaksh Chhabra,Don,Male,70,1969-07-25,9907421258,117595669329,Teacher,"H.No. 22, Chawla, Nandyal-228360",30,Vijayapura,Arrested,Yes,None,Low,Knife
+774,387,Girindra Tailor,Ranga,Male,30,1984-07-30,9985599389,134548759146,Unemployed,"963, Master Circle, Bhavnagar 969443",3,Belagavi,Arrested,No,Organized Crime,Low,Hands
+775,387,Shivansh Kumer,Lucky,Male,42,1989-12-02,9960762644,959937344273,Mechanic,"H.No. 693, Dave Road, Amaravati-320330",3,Belagavi,Arrested,No,None,High,Knife
+776,388,Rudra Deol,Rocky,Male,43,2006-09-18,9981808431,039764249937,Doctor,"03/10, Chhabra Marg, Tiruppur 221556",19,Kolar,Arrested,No,None,Medium,None
+777,389,Laksh Sawhney,Anna,Male,18,1990-09-14,9873458882,003211230569,Shop Keeper,"53, Suri Ganj, Panipat-040672",11,Dakshina Kannada,Absconding,Yes,None,High,Iron Rod
+778,389,Ayushman Shanker,Silent,Male,50,1983-05-06,9982340002,182912600675,Software Engineer,"H.No. 424, Goel Road, Kanpur-819754",11,Dakshina Kannada,Arrested,No,Organized Crime,Medium,Hands
+779,389,Varenya Iyer,Anna,Female,60,1992-01-17,9910768448,854831223203,Unemployed,"42, Kannan Chowk, Guntur 376388",11,Dakshina Kannada,Arrested,No,Local Gang,Medium,Stone
+780,389,Christopher Loyal,Lucky,Male,54,1993-10-13,9894622038,706416268020,Student,"H.No. 84, Bahri Marg, Tezpur 344389",11,Dakshina Kannada,Surrendered,No,None,Medium,Knife
+781,390,Yadavi Wadhwa,King,Female,30,1955-09-26,9983007645,469135429510,Labourer,"86/950, Hari Chowk, Moradabad 644936",11,Dakshina Kannada,Arrested,No,Local Gang,Medium,Hands
+782,391,Chasmum Rai,Black,Female,24,1980-07-25,9914271806,736248250910,Government Employee,"H.No. 05, Sinha Path, Katihar-736801",28,Uttara Kannada,Arrested,Yes,None,Medium,Hands
+783,391,Ekapad Kashyap,Boss,Male,69,1977-04-29,9919705178,885458992416,Business,"68, Chauhan Zila, Bhavnagar 335104",28,Uttara Kannada,Arrested,No,Drug Network,High,Hands
+784,391,Tara Dara,Rocky,Female,61,2008-02-05,9985087488,764658957074,Sales Executive,"H.No. 539, Chander Zila, Khora -074820",28,Uttara Kannada,Arrested,No,Organized Crime,High,Knife
+785,391,Hritik Sabharwal,Anna,Male,46,2002-08-05,9962530405,397618225458,Teacher,"93/94, Sane Nagar, Raurkela Industrial Township 820190",28,Uttara Kannada,Arrested,No,None,Medium,Knife
+786,392,Gopal Gera,Black,Male,58,1999-02-21,9986087580,965687078080,Journalist,"23/332, Sharma Road, Hospet-920135",7,Chamarajanagar,Absconding,No,None,Low,None
+787,393,Tarak Dube,King,Male,32,1992-01-07,9907515829,594399234354,Journalist,"02, Banerjee Path, Bidar-123126",17,Kalaburagi,Surrendered,No,None,Low,None
+788,394,Teerth Karnik,King,Male,69,1992-08-22,9904778681,366749365667,Sales Executive,"88/899, Sethi Path, Hindupur-762974",3,Belagavi,Absconding,Yes,None,High,Iron Rod
+789,395,Kalpit Kala,Anna,Male,24,2004-08-24,9873340911,263049163950,Mechanic,"46, Shroff Circle, Amaravati 203818",9,Chikkamagaluru,Arrested,No,None,Medium,Sharp Weapon
+790,396,Rudra Deshmukh,Don,Male,58,1958-05-10,9898635295,299848980213,Engineer,"308, Borah, Siwan-588144",21,Mandya,Arrested,No,None,Medium,Iron Rod
+791,396,Ekanta Gokhale,Bullet,Female,46,1957-11-21,9969671413,577183373182,Doctor,"318, Sathe Street, Bhusawal-572450",21,Mandya,Surrendered,Yes,None,Low,Stone
+792,396,Abdul Bala,Black,Male,55,1996-08-25,9907042234,211755694796,Unemployed,"H.No. 529, Butala Zila, Ongole 785090",21,Mandya,Arrested,Yes,None,Low,Knife
+793,396,Patrick Munshi,Silent,Male,43,1975-08-24,9915698072,246058244095,Software Engineer,"H.No. 42, Divan Zila, Tumkur 812248",21,Mandya,Arrested,No,None,Low,Iron Rod
+794,397,Naksh Raghavan,Rocky,Male,69,1980-05-28,9884839075,715134534401,Mechanic,"H.No. 090, Lal Nagar, Burhanpur-515848",10,Chitradurga,Surrendered,No,Organized Crime,High,Iron Rod
+795,398,Samaksh Purohit,Boss,Male,26,1985-05-25,9966265097,958460440138,Driver,"483, Pingle Path, Ambarnath-296080",23,Raichur,Arrested,Yes,None,High,Knife
+796,399,Avni Ray,Tiger,Female,37,1966-07-30,9983381881,341257393635,Driver,"50/98, Dass Street, Ghaziabad-016481",5,Bengaluru Urban,Arrested,No,Organized Crime,Low,Stick
+797,400,Leena Kuruvilla,King,Female,56,2006-07-21,9870999501,837987226831,Business,"38, Radhakrishnan Ganj, Dehri-643212",5,Bengaluru Urban,Arrested,No,None,Low,Knife
+798,400,Manbir Garde,Bullet,Male,34,1983-03-18,9892763451,316554821625,Unemployed,"H.No. 20, Saini Ganj, Arrah 314417",5,Bengaluru Urban,Arrested,Yes,None,Low,Stick
+799,401,Saumya Manne,Ranga,Female,50,2005-09-01,9870759020,002446907040,Farmer,"H.No. 54, Grover Nagar, Berhampur-582430",17,Kalaburagi,Arrested,No,None,Medium,Stick
+800,401,Vrinda Purohit,Rocky,Female,59,1971-11-13,9916088628,091700109436,Electrician,"98/80, Chopra Ganj, New Delhi 452790",17,Kalaburagi,Arrested,No,Organized Crime,Low,Firearm
+801,402,Anirudh Mann,Rowdy,Male,36,1991-12-17,9981441035,108428518203,Student,"333, Hari Path, Dharmavaram 163211",18,Kodagu,Arrested,No,None,Low,Hands
+802,403,Utkarsh Vora,Bullet,Male,60,1980-04-12,9966007232,121139717284,Lawyer,"33/91, Tailor Ganj, Guntur 530601",17,Kalaburagi,Arrested,No,None,Medium,Knife
+803,403,Yashawini Taneja,Shadow,Female,45,1995-10-02,9980254277,534466826561,Labourer,"H.No. 786, Vohra Circle, Hyderabad 300915",17,Kalaburagi,Arrested,No,None,Medium,Sharp Weapon
+804,404,Dayita Datta,Lucky,Female,41,1999-12-14,9983827317,856432732861,Private Employee,"65/774, Dar Road, Delhi 659520",13,Dharwad,Surrendered,No,Local Gang,Low,Iron Rod
+805,405,Nachiket Bobal,Shadow,Male,39,1998-05-30,9885664785,871297391141,Business,"43/36, Sood Circle, Indore 632239",6,Bidar,Absconding,No,None,Medium,Stick
+806,405,Bina Khatri,Rowdy,Female,35,1979-06-23,9889255460,735246677700,Software Engineer,"11, Bansal Road, Bikaner 050537",6,Bidar,Surrendered,Yes,None,Medium,Knife
+807,406,Upadhriti Saran,Tiger,Female,23,2006-10-09,9872421067,792689908322,Journalist,"H.No. 260, Hans Nagar, Saharsa 566910",22,Mysuru,Surrendered,No,None,Medium,Stick
+808,406,Ganga Shah,Master,Female,29,1959-05-30,9896879637,349111985803,Shop Keeper,"345, Ben Path, Danapur-691776",22,Mysuru,Absconding,Yes,None,Low,Knife
+809,407,Jagrati Vohra,Silent,Female,63,1999-08-15,9895049065,221131751726,Doctor,"H.No. 348, Wable Nagar, Jammu 437882",25,Shivamogga,Absconding,No,None,Low,Knife
+810,408,Arin Kala,Black,Male,48,1967-12-12,9964489272,856000460990,Student,"H.No. 157, Batta Nagar, Buxar 449207",22,Mysuru,Arrested,Yes,None,Medium,Hands
+811,409,Fitan Rau,Lucky,Male,37,1995-08-21,9968191588,945098621972,Software Engineer,"48/997, Vig Zila, Ulhasnagar-969325",19,Kolar,Arrested,No,Cyber Group,High,Hands
+812,410,Nandini Bail,Ranga,Female,30,1996-06-27,9874656495,250348871870,Student,"312, Menon Ganj, Chinsurah 980690",30,Vijayapura,Absconding,No,None,High,Knife
+813,410,Faras Rao,Don,Male,51,1989-06-28,9918001582,146769454246,Electrician,"H.No. 723, Kari Road, Anantapur-382804",30,Vijayapura,Surrendered,No,None,Low,Knife
+814,411,Pooja Reddy,Rocky,Female,25,2002-08-01,9985221380,292054634231,Government Employee,"99/650, Din Circle, Gudivada 826418",9,Chikkamagaluru,Absconding,Yes,Cyber Group,Low,Stone
+815,411,Saanvi Padmanabhan,Shadow,Female,49,1977-02-14,9968945725,946595901973,Lawyer,"H.No. 876, Dhingra Zila, Dehri 951434",9,Chikkamagaluru,Absconding,No,None,Medium,Stick
+816,412,Falan Khosla,Black,Male,29,1986-09-13,9906014733,284608628085,Electrician,"00/273, Ahuja Nagar, Ghaziabad 610168",3,Belagavi,Arrested,No,None,Medium,Stone
+817,412,Baljiwan Bumb,Tiger,Male,18,1990-12-23,9969450297,450417186111,Unemployed,"H.No. 168, Mallick Nagar, Durg 507628",3,Belagavi,Arrested,No,None,High,Hands
+818,413,Timothy Sabharwal,Shadow,Male,40,1988-10-14,9915200754,828112689337,Student,"440, Sastry Chowk, Khora  620726",1,Bagalkote,Arrested,No,None,High,Hands
+819,413,Eiravati Devan,Rowdy,Female,36,1973-10-26,9876934954,215803697336,Doctor,"76/029, Bhavsar, Lucknow 884133",1,Bagalkote,Absconding,No,Cyber Group,High,Hands
+820,413,Vasana Kata,Cobra,Female,48,1960-04-13,9914476516,692374969625,Journalist,"H.No. 23, Rattan Path, Bhind-703211",1,Bagalkote,Arrested,Yes,None,Medium,Iron Rod
+821,413,Aachal Raghavan,Silent,Female,33,1961-07-11,9987508599,753752578646,Labourer,"52/77, Pai Circle, Bhilai-371844",1,Bagalkote,Surrendered,Yes,Organized Crime,Low,Hands
+822,414,Aryan Ganguly,Don,Male,64,2001-05-18,9873424240,314945280365,Lawyer,"648, Chandra Nagar, Bally 037341",9,Chikkamagaluru,Arrested,No,None,High,Hands
+823,414,Vrinda Warrior,Rowdy,Female,37,1961-04-18,9907493802,179130007373,Security Guard,"78/221, Edwin Nagar, Pallavaram-134862",9,Chikkamagaluru,Arrested,No,None,Low,Hands
+824,414,Yatan Sarma,Black,Male,42,1967-12-14,9888531142,721762120691,Teacher,"31/82, Nagar Circle, Bhopal-397079",9,Chikkamagaluru,Arrested,Yes,None,Low,None
+825,414,Saksham Dani,Tiger,Male,46,1979-08-06,9880211134,579321464902,Teacher,"36, Din Circle, Bharatpur 682122",9,Chikkamagaluru,Absconding,No,None,Low,None
+826,415,Owen Narang,Boss,Male,37,1991-04-10,9917801460,562644606153,Engineer,"50/587, Lanka Zila, Jehanabad 182192",22,Mysuru,Arrested,No,Local Gang,Medium,Firearm
+827,415,Rushil Shan,Boss,Male,50,1995-07-28,9963937568,227791296495,Student,"699, Mani Circle, Kozhikode 050938",22,Mysuru,Arrested,Yes,None,Low,Stick
+828,415,Jeremiah Tripathi,Rowdy,Male,57,2006-12-02,9899366104,497336670055,Cook,"59/88, Chad Zila, Sri Ganganagar-887071",22,Mysuru,Arrested,No,None,Low,Hands
+829,415,Gaurav Keer,Silent,Male,27,2003-01-02,9882636643,862216131836,Lawyer,"73, Grover Circle, Tadepalligudem-461917",22,Mysuru,Arrested,Yes,Cyber Group,Low,Stick
+830,416,Yatin Rajagopalan,Don,Male,56,1984-04-13,9891092872,756870145683,Sales Executive,"22/589, Tak Ganj, Katihar-806235",17,Kalaburagi,Arrested,Yes,Local Gang,Low,None
+831,417,Krish Balan,Lucky,Male,69,1990-09-23,9964309891,076033731472,Government Employee,"95, Barad Chowk, Amravati 482554",28,Uttara Kannada,Absconding,No,Drug Network,Low,Hands
+832,417,Gavin Viswanathan,Anna,Male,69,1976-05-24,9884863769,242418578041,Private Employee,"594, Koshy Street, Katihar-633891",28,Uttara Kannada,Arrested,No,None,Low,None
+833,418,Samaksh Gala,Cobra,Male,27,1969-05-17,9986877871,977652621114,Engineer,"57/25, Ganesh Marg, Sambhal 358951",21,Mandya,Surrendered,No,Local Gang,Low,Knife
+834,418,Yashawini Cherian,King,Female,53,1985-03-26,9986866234,581156002612,Journalist,"H.No. 07, Lall Circle, Karaikudi-095744",21,Mandya,Surrendered,No,None,Low,None
+835,419,Aarush Hari,Rowdy,Male,62,1971-10-22,9879620947,434218952198,Unemployed,"H.No. 797, Batta Street, Nagaon 934015",22,Mysuru,Absconding,Yes,Cyber Group,Medium,Sharp Weapon
+836,420,Shravya Mohanty,Anna,Female,50,1960-03-25,9891878292,863959664702,Cook,"H.No. 553, Kalita Zila, Ambarnath 678136",17,Kalaburagi,Absconding,No,Cyber Group,High,Iron Rod
+837,421,Nathan Bath,Shadow,Male,19,1956-05-28,9919927081,670520680133,Sales Executive,"14/105, Shan Street, Tadepalligudem 987809",19,Kolar,Surrendered,No,Cyber Group,Medium,Hands
+838,422,William Ahuja,Shadow,Male,31,1969-12-15,9917577260,023350235626,Student,"88/56, Devan Street, Proddatur-605986",3,Belagavi,Arrested,No,None,Medium,Hands
+839,422,Timothy Mammen,Boss,Male,43,1971-05-21,9919344850,961491855741,Shop Keeper,"58, Mammen Path, Giridih-559428",3,Belagavi,Arrested,Yes,Drug Network,Medium,Stick
+840,423,Max Dani,Black,Male,23,2006-11-04,9915833756,108783921355,Business,"H.No. 200, Dugal Nagar, Serampore-931321",5,Bengaluru Urban,Absconding,No,None,High,Hands
+841,424,Nathan Biswas,Tiger,Male,36,1966-08-07,9883609730,652456287073,Business,"08, Sandal Ganj, Salem 448896",31,Yadgir,Arrested,No,None,Medium,Stick
+842,424,Xalak Dhawan,Shadow,Female,38,1982-01-13,9876871159,490589099170,Engineer,"74, Doctor Marg, Bikaner-825431",31,Yadgir,Arrested,No,Organized Crime,High,Sharp Weapon
+843,425,Harini Cherian,Ranga,Female,47,1994-08-15,9969185117,691704008721,Engineer,"392, Mody Nagar, Allahabad-018364",11,Dakshina Kannada,Arrested,Yes,None,Medium,Hands
+844,425,Gauri Jani,Don,Female,48,1993-08-02,9877879965,437474426738,Lawyer,"H.No. 827, Venkataraman Marg, Sirsa-257754",11,Dakshina Kannada,Arrested,Yes,Local Gang,Low,Knife
+845,425,Kiaan Sule,Ranga,Male,61,1962-09-30,9906376918,572600642014,Farmer,"H.No. 29, Vaidya Zila, Eluru-160827",11,Dakshina Kannada,Arrested,No,None,Medium,None
+846,425,Wahab Gill,Boss,Male,43,1958-11-29,9968105135,224345822524,Doctor,"39, Grewal, Anantapur-229993",11,Dakshina Kannada,Arrested,No,None,Low,Hands
+847,426,Harinakshi Chaudhuri,Lucky,Female,33,1994-05-25,9965468621,809416415352,Farmer,"43/882, Ganesan Ganj, Bharatpur 983584",15,Hassan,Arrested,No,None,Low,Hands
+848,427,Sathvik Das,Silent,Male,62,1981-06-24,9966156063,000728419206,Labourer,"264, Bahri Ganj, Bhilwara-979127",22,Mysuru,Arrested,Yes,Organized Crime,High,Sharp Weapon
+849,428,Aarav Grover,Boss,Male,69,1985-10-27,9870075552,557838916939,Cook,"053, Sidhu, Gorakhpur-752988",5,Bengaluru Urban,Surrendered,No,None,Medium,Hands
+850,428,Dhruv Dixit,Silent,Male,21,1957-01-16,9897640735,658116539734,Business,"H.No. 60, Guha Circle, Agra 487978",5,Bengaluru Urban,Absconding,No,Organized Crime,High,Sharp Weapon
+851,429,Owen Kade,Black,Male,23,1992-04-20,9879696706,424590513664,Engineer,"386, Baria Nagar, Pune 436199",11,Dakshina Kannada,Arrested,No,Local Gang,Low,Knife
+852,430,Dayamai Sharma,Tiger,Female,48,1959-01-28,9968548158,294563068719,Unemployed,"91/029, Pall Street, Tiruchirappalli-374830",2,Ballari,Arrested,No,None,High,Stick
+853,430,Aarnav Sagar,Shadow,Male,54,2008-02-22,9966439931,968564523513,Lawyer,"97/191, Rao Street, Saharanpur 132176",2,Ballari,Arrested,No,None,Medium,Firearm
+854,431,Ekaraj Bera,Rowdy,Male,53,1961-08-29,9981595399,927193455919,Electrician,"H.No. 661, Golla Street, Jamshedpur 725873",3,Belagavi,Arrested,No,None,Low,Sharp Weapon
+855,431,Jalsa Bansal,Boss,Female,51,1971-02-13,9900830712,719583402011,Labourer,"53, Arya Circle, Sirsa-812421",3,Belagavi,Surrendered,Yes,None,Medium,Firearm
+856,432,Lucky Bajaj,Cobra,Male,49,1997-06-02,9891706611,216860107419,Security Guard,"H.No. 09, Desai Path, Kavali-620935",1,Bagalkote,Arrested,Yes,Local Gang,Low,Stick
+857,432,Sachi Bhatti,Lucky,Female,41,1998-07-06,9884769638,687399347403,Doctor,"99/529, Badal Chowk, Berhampur 124365",1,Bagalkote,Arrested,No,None,Low,Hands
+858,433,Rajeshri Ram,Rowdy,Female,64,1971-10-29,9872689649,568575869696,Private Employee,"H.No. 412, Dhaliwal Nagar, Meerut-159273",31,Yadgir,Arrested,No,None,Low,Stick
+859,434,Liam Bhasin,Rocky,Male,27,1964-05-16,9878845056,276762822945,Farmer,"16/690, Kari Marg, Cuttack 815542",17,Kalaburagi,Arrested,No,Local Gang,Low,Knife
+860,434,Janya Mangal,Cobra,Female,64,1957-04-09,9875541801,196104279852,Student,"H.No. 956, Seth Chowk, Bhusawal 915795",17,Kalaburagi,Absconding,No,None,Medium,None
+861,434,Lucky Sandal,Don,Male,44,2000-04-06,9883910160,901533814266,Driver,"12, Shenoy Road, Delhi-080181",17,Kalaburagi,Absconding,No,Organized Crime,Low,Hands
+862,434,Hemang Bala,Ranga,Male,25,1998-04-13,9882309138,814698365455,Farmer,"H.No. 764, Suresh Zila, Bhusawal-808157",17,Kalaburagi,Arrested,No,None,Medium,None
+863,435,Ethan Balasubramanian,Tiger,Male,55,2001-08-01,9883069337,240711841439,Teacher,"07/138, Rege Nagar, Kota 073510",11,Dakshina Kannada,Absconding,No,None,Low,Sharp Weapon
+864,436,Radha Wali,Black,Female,34,2006-02-11,9871455574,159426408959,Cook,"621, Bakshi Ganj, Buxar-258857",5,Bengaluru Urban,Surrendered,No,None,Low,Firearm
+865,436,Tanish Kulkarni,Rocky,Male,70,1981-11-08,9889742899,278559339660,Sales Executive,"05/33, Rau, Gandhidham-666215",5,Bengaluru Urban,Arrested,No,None,Medium,Iron Rod
+866,437,Jai Devi,Master,Male,68,1992-08-18,9962213331,613576108224,Teacher,"H.No. 046, Sandal Marg, Bijapur-901107",17,Kalaburagi,Surrendered,No,None,Medium,Knife
+867,437,Vinaya Dash,Silent,Female,48,2003-12-30,9876101599,637304858167,Business,"49/388, Madan Zila, Satna 152049",17,Kalaburagi,Arrested,No,None,Medium,Hands
+868,438,Neha Taneja,Anna,Female,54,2004-10-22,9877464473,564428780802,Unemployed,"31/379, Dara Chowk, Eluru-166123",28,Uttara Kannada,Surrendered,Yes,Local Gang,Low,Knife
+869,438,Luke Bawa,Rocky,Male,53,1981-04-06,9905029681,337060077264,Sales Executive,"256, Kade Street, Ballia 970142",28,Uttara Kannada,Arrested,Yes,None,Medium,Hands
+870,439,Ekaraj Bal,Silent,Male,20,1966-12-01,9878864083,220510261717,Shop Keeper,"21/16, Dutt Nagar, Rampur 813599",3,Belagavi,Absconding,Yes,None,Medium,Sharp Weapon
+871,439,Ethan Choudhury,Boss,Male,44,1959-12-25,9980566679,764576410306,Doctor,"88/948, Bobal Nagar, Bhilwara-822175",3,Belagavi,Surrendered,No,None,Low,None
+872,440,Urvi Tripathi,Rocky,Female,68,1975-05-15,9877683145,017767323613,Journalist,"H.No. 048, Sahota Nagar, Imphal 123691",13,Dharwad,Arrested,No,None,Low,Knife
+873,441,Tamanna Chand,Rowdy,Female,64,1996-01-31,9968665782,317737593441,Mechanic,"79/42, Sampath, Madhyamgram 970409",7,Chamarajanagar,Arrested,No,Drug Network,Low,Iron Rod
+874,441,Ishwar Dalal,Rocky,Male,61,1969-04-07,9969723023,342226047616,Shop Keeper,"H.No. 560, Kothari Chowk, Morbi 883565",7,Chamarajanagar,Arrested,Yes,None,Medium,Knife
+875,442,Victor Rao,Silent,Male,44,1965-03-10,9894833935,403590226927,Cook,"49/668, Lanka Ganj, Indore 784217",26,Tumakuru,Absconding,No,None,High,Hands
+876,442,Faraj Nigam,Silent,Male,60,1960-12-21,9961935202,391051521101,Private Employee,"H.No. 93, Maharaj Marg, Mumbai-486883",26,Tumakuru,Surrendered,No,None,High,Stick
+877,443,Urmi Devan,Boss,Female,51,2007-10-06,9917852585,463914154345,Shop Keeper,"879, Bir, Lucknow-141319",4,Bengaluru Rural,Arrested,No,Cyber Group,High,Knife
+878,444,Praneel Gade,Don,Male,49,2008-06-25,9886697429,205933877156,Unemployed,"H.No. 337, Acharya Marg, Gaya-045881",23,Raichur,Arrested,No,None,High,Knife
+879,445,Ojas Bains,Rowdy,Male,43,2003-10-15,9919107600,937612919824,Cook,"H.No. 72, Dash Road, Haldia 034409",12,Davanagere,Arrested,No,Organized Crime,Low,Knife
+880,445,Sai Bhatnagar,Tiger,Male,33,1980-06-20,9906673753,498695818926,Driver,"24/98, Barman, Rewa-821417",12,Davanagere,Absconding,No,None,High,Sharp Weapon
+881,445,Samuel Varughese,Bullet,Male,38,2000-06-28,9918079924,419897406352,Private Employee,"H.No. 92, Puri Marg, Bongaigaon 989396",12,Davanagere,Arrested,Yes,None,Low,Stone
+882,445,Nimrat Toor,Silent,Female,31,1975-10-04,9980288557,766463751275,Software Engineer,"H.No. 59, Murthy Road, Bhubaneswar 929207",12,Davanagere,Surrendered,No,None,Medium,Hands
+883,446,Krishna Raj,Silent,Female,59,2002-09-07,9989450294,944142209366,Business,"H.No. 171, Bhatia Marg, Kavali 365362",23,Raichur,Arrested,No,None,Medium,Hands
+884,446,Kalpit Narang,Cobra,Male,44,1975-04-18,9969123905,632298266128,Driver,"00, Mitra Nagar, Bihar Sharif 204664",23,Raichur,Absconding,No,None,Medium,Firearm
+885,446,Tanveer Tank,Ranga,Male,60,1977-04-24,9965694265,141578438189,Driver,"H.No. 20, Murty Road, Bharatpur 758097",23,Raichur,Arrested,No,None,High,None
+886,446,Nathaniel Kant,Bullet,Male,59,1965-09-30,9883327516,147469575250,Student,"354, Raj Marg, Udaipur 540165",23,Raichur,Arrested,Yes,Local Gang,Low,Sharp Weapon
+887,447,Ishwar Bera,Black,Male,68,1956-01-16,9983261041,721865222397,Government Employee,"122, Golla Road, Haldia-746259",23,Raichur,Absconding,No,None,Medium,Stone
+888,447,Saumya Bala,Lucky,Female,29,1961-01-18,9892536130,238539869896,Cook,"11/584, Varughese Circle, Allahabad-801798",23,Raichur,Arrested,No,None,Medium,Hands
+889,448,Warda Talwar,Ranga,Female,36,2008-02-12,9892684321,520552592227,Cook,"H.No. 299, Sawhney Path, Darbhanga-264261",6,Bidar,Arrested,No,None,Medium,None
+890,448,Dayamai Gala,Boss,Female,47,1958-05-23,9874178088,502400772979,Private Employee,"75/365, Raju, Surendranagar Dudhrej 254824",6,Bidar,Arrested,No,None,Low,Firearm
+891,448,David Kaul,Cobra,Male,52,1982-03-29,9965963628,626938953892,Business,"H.No. 00, Kumar Marg, Arrah 752311",6,Bidar,Absconding,No,None,Medium,Stone
+892,448,Indali Dube,Rowdy,Female,39,2005-02-03,9890872150,851343010885,Lawyer,"97/91, Sarma Chowk, Tiruppur-427203",6,Bidar,Arrested,No,Local Gang,High,Stone
+893,449,Frado Bora,Boss,Male,58,2003-02-20,9907265745,033308007456,Unemployed,"80/196, Barman Ganj, Ozhukarai 069358",2,Ballari,Absconding,No,Local Gang,Medium,Iron Rod
+894,450,Lila Karnik,Don,Female,27,1973-02-06,9989433483,401426254737,Journalist,"H.No. 018, Randhawa Zila, Bhalswa Jahangir Pur-816524",1,Bagalkote,Arrested,Yes,None,Low,Hands
+895,451,Lakshmi Parsa,King,Female,23,1969-06-04,9907708883,848141235659,Government Employee,"38/51, Kalla Chowk, Suryapet-053912",5,Bengaluru Urban,Absconding,No,None,Medium,Sharp Weapon
+896,451,Yashasvi Vala,Rowdy,Female,61,1990-08-05,9896987131,778897445221,Lawyer,"88/29, Mohan Nagar, Ongole-714724",5,Bengaluru Urban,Arrested,No,None,Low,Knife
+897,452,Jackson Bansal,Cobra,Male,22,1998-07-02,9897762600,752043717735,Software Engineer,"423, Kara Circle, Ujjain-391218",5,Bengaluru Urban,Absconding,No,None,Low,Firearm
+898,452,Alexander Ramanathan,Master,Male,44,2004-04-25,9909696092,097078573406,Sales Executive,"880, Kala, Ulhasnagar-010232",5,Bengaluru Urban,Arrested,No,None,Low,Stick
+899,453,Abhiram Bhatnagar,Cobra,Male,61,1992-03-19,9895749407,440665624536,Mechanic,"61, Balan Nagar, Kharagpur-081435",13,Dharwad,Arrested,No,None,Medium,Knife
+900,453,Charita Mani,Lucky,Female,43,1958-10-29,9899506077,601749838664,Labourer,"H.No. 31, Uppal, Karawal Nagar-682354",13,Dharwad,Arrested,Yes,None,Low,Firearm
+901,454,Nisha Chaudhari,Lucky,Female,20,1957-05-28,9894425827,514880321976,Driver,"62, Pingle Nagar, Ozhukarai-715006",18,Kodagu,Absconding,No,None,Low,Hands
+902,455,Saumya Sami,King,Female,44,1969-10-18,9899840023,511519975026,Private Employee,"65/411, Manda Ganj, Amroha 169949",1,Bagalkote,Arrested,No,None,Medium,Knife
+903,455,Anvi Virk,Rowdy,Female,57,1988-02-29,9986857699,953358833622,Farmer,"68, Menon Ganj, Burhanpur 269708",1,Bagalkote,Arrested,Yes,Drug Network,Low,Hands
+904,455,Tarak Venkatesh,Rocky,Male,30,2003-02-19,9910232791,916348988710,Labourer,"79/15, Prabhakar Nagar, Bokaro 719760",1,Bagalkote,Surrendered,Yes,Drug Network,Low,Iron Rod
+905,455,Dev Bains,Ranga,Male,30,2005-07-20,9880831002,182456009735,Lawyer,"57/898, Rai Street, Barasat-809521",1,Bagalkote,Arrested,No,Organized Crime,Low,Stick
+906,456,Radha Nayak,Ranga,Female,37,1982-08-12,9877715198,530306714163,Unemployed,"74, Devi Zila, Sagar 921188",24,Ramanagara,Absconding,No,Cyber Group,High,Knife
+907,456,Logan Chanda,Bullet,Male,28,1987-10-23,9962815451,664946367901,Security Guard,"42, Dhaliwal Street, Thanjavur-704542",24,Ramanagara,Absconding,No,Local Gang,Low,Hands
+908,457,Oscar Memon,King,Male,26,1975-04-26,9967696475,471096923418,Farmer,"82, Dhaliwal Nagar, Ambarnath 090016",27,Udupi,Arrested,No,None,Low,Hands
+909,457,Pavani Rout,Black,Female,61,1970-02-19,9918809993,805191078829,Driver,"324, Goel Chowk, Karaikudi 400178",27,Udupi,Absconding,No,Local Gang,Low,Firearm
+910,457,Gaurika Lala,Don,Female,45,1993-07-24,9909209384,154557349962,Security Guard,"616, Prakash Circle, Ongole-058011",27,Udupi,Surrendered,No,None,High,Stick
+911,457,Aadi Gokhale,Cobra,Male,23,2000-04-12,9877850282,790505217295,Driver,"H.No. 26, Bassi Zila, Ambattur 092300",27,Udupi,Arrested,No,Local Gang,Low,Knife
+912,458,Balendra Sani,King,Male,34,1987-01-08,9908792455,894205717482,Private Employee,"41, Muni Circle, Durg 298769",18,Kodagu,Arrested,No,Local Gang,Low,Hands
+913,459,Triveni Padmanabhan,King,Female,62,1962-07-11,9961836668,197971222453,Engineer,"16, Varma Zila, Bhalswa Jahangir Pur 481310",5,Bengaluru Urban,Absconding,No,None,Low,Sharp Weapon
+914,459,Ojas Bath,Master,Male,57,1963-09-15,9902829758,412604867515,Driver,"21/743, Sarma Path, Loni-526806",5,Bengaluru Urban,Arrested,No,None,High,Stick
+915,460,Urishilla Barad,Black,Female,51,1995-01-22,9906914786,764324703631,Farmer,"83/44, Thakur Circle, Motihari-253646",5,Bengaluru Urban,Arrested,No,Local Gang,High,Iron Rod
+916,460,Arjun Narayanan,Black,Male,40,1973-04-04,9965183107,346121257361,Farmer,"H.No. 06, Sen Path, Nagercoil-562392",5,Bengaluru Urban,Arrested,No,Local Gang,Low,Hands
+917,461,Anay Zachariah,Lucky,Male,69,2005-03-19,9968927130,832738394932,Shop Keeper,"H.No. 740, Chaudry, Salem 178619",27,Udupi,Arrested,Yes,None,Medium,Knife
+918,462,Ekta Narasimhan,Cobra,Female,35,1998-03-31,9968474032,982516783466,Government Employee,"H.No. 220, Prabhakar Marg, Satna-120122",5,Bengaluru Urban,Absconding,No,None,High,Knife
+919,462,Nirja Parikh,King,Female,64,2001-10-08,9987822043,319342636270,Security Guard,"601, Choudhry Path, Kakinada 594795",5,Bengaluru Urban,Absconding,No,Organized Crime,Low,Sharp Weapon
+920,463,Theodore Mandal,Master,Male,56,1957-11-17,9910431620,373642556273,Farmer,"32, Bawa Chowk, Gudivada-031006",30,Vijayapura,Arrested,No,None,Low,Stick
+921,464,Janaki Modi,Anna,Female,19,1996-07-08,9893727282,756188110578,Software Engineer,"91/045, Balay Street, Haldia 894118",5,Bengaluru Urban,Surrendered,No,None,Low,Hands
+922,464,Charvi Kant,King,Female,55,2008-01-20,9904961964,876268664194,Engineer,"55/35, Oak, Ranchi 610067",5,Bengaluru Urban,Arrested,No,None,High,Iron Rod
+923,465,Adya Rao,King,Female,24,1985-10-30,9905832618,593077784583,Doctor,"67/74, Khurana Nagar, Orai 233944",17,Kalaburagi,Arrested,Yes,Local Gang,High,Knife
+924,465,Isaiah Bail,Silent,Male,67,1955-09-14,9884276930,014596074578,Farmer,"25, Anand Path, Nanded-017365",17,Kalaburagi,Arrested,Yes,Local Gang,Medium,Hands
+925,465,Dhruv Raman,King,Male,49,1965-04-16,9893704181,036601794720,Labourer,"42/90, Doctor Street, Korba 511009",17,Kalaburagi,Arrested,No,None,Medium,None
+926,465,Shivansh Batra,Tiger,Male,25,1974-06-08,9967576794,429742877500,Government Employee,"43/02, Chakrabarti Zila, Singrauli 329045",17,Kalaburagi,Arrested,Yes,None,Low,Iron Rod
+927,466,Oliver Seshadri,Bullet,Male,66,1972-09-09,9886016934,364893774789,Student,"996, Ganesh Road, Ranchi-362027",11,Dakshina Kannada,Arrested,No,Organized Crime,High,Hands
+928,467,Peter Verma,Lucky,Male,47,1965-06-11,9967874383,018194845270,Mechanic,"09, Agarwal Street, Raipur 523802",22,Mysuru,Absconding,No,Cyber Group,Low,Stick
+929,468,Tanveer Ganguly,Ranga,Male,30,1960-10-20,9988061880,146598883739,Private Employee,"H.No. 81, Suresh Circle, Ambarnath-611863",11,Dakshina Kannada,Arrested,No,None,Low,Firearm
+930,468,Osha Bumb,Silent,Female,36,1994-04-07,9871075893,291961286154,Engineer,"72/168, Basu Circle, Sonipat 789318",11,Dakshina Kannada,Arrested,No,Local Gang,Low,Knife
+931,469,Faras Trivedi,Shadow,Male,34,2003-09-18,9906192513,981459004794,Electrician,"45/40, Varkey Zila, Gulbarga-200283",28,Uttara Kannada,Arrested,Yes,None,Medium,None
+932,470,Devansh Karnik,Don,Male,67,1962-09-22,9903734660,494058302582,Labourer,"H.No. 14, Sur Road, Rajpur Sonarpur-811659",27,Udupi,Absconding,No,None,Low,Stick
+933,470,Aashi Date,Ranga,Female,57,1994-07-20,9904164397,607270574023,Driver,"H.No. 304, Kanda Street, Bikaner 752135",27,Udupi,Absconding,No,None,Low,Hands
+934,471,Anvi De,Black,Female,53,1982-03-27,9910355402,132563189401,Doctor,"H.No. 646, Agate Ganj, Hapur-777569",28,Uttara Kannada,Surrendered,No,Local Gang,Medium,Knife
+935,471,Isaac Deo,Cobra,Male,27,1996-04-03,9988619578,186032884325,Farmer,"16/17, Radhakrishnan Road, Kozhikode 104384",28,Uttara Kannada,Arrested,No,None,Low,Knife
+936,471,Rishi Ramanathan,Lucky,Male,27,1964-02-26,9912035675,028844486135,Labourer,"H.No. 670, Bhalla Circle, Machilipatnam 667063",28,Uttara Kannada,Arrested,Yes,None,High,Knife
+937,471,Faraj Chad,Ranga,Male,39,1985-10-13,9879287652,451574468023,Business,"H.No. 04, Mangat, Dewas-766349",28,Uttara Kannada,Surrendered,No,None,Medium,Stone
+938,472,Isaiah Saha,Bullet,Male,58,1973-10-11,9984221548,737499373250,Driver,"732, Rajan Street, Raebareli 142436",27,Udupi,Surrendered,No,None,Low,Hands
+939,473,Pavani Nagi,Bullet,Female,42,1969-09-07,9878810588,358841149434,Journalist,"88/087, Chaudhari, Siliguri-419964",5,Bengaluru Urban,Arrested,No,None,Medium,Firearm
+940,474,Harish Nigam,Ranga,Male,28,1998-03-22,9906252902,059387047718,Sales Executive,"25, Patla Nagar, Kamarhati-430311",1,Bagalkote,Arrested,No,None,Low,Iron Rod
+941,474,Zarna Tata,Shadow,Female,20,1977-01-21,9917444547,258124177460,Teacher,"H.No. 76, Luthra, Bathinda 694535",1,Bagalkote,Surrendered,No,None,Low,Knife
+942,475,Tejas Prabhakar,Bullet,Male,44,1985-06-19,9919612267,016923788893,Software Engineer,"98, Bhatt Marg, Dhule 212545",26,Tumakuru,Absconding,No,None,Medium,Knife
+943,475,Aarna Natarajan,Master,Female,46,2004-08-06,9918313134,803928524921,Government Employee,"H.No. 26, Dhar, Serampore 647213",26,Tumakuru,Absconding,No,None,Low,Hands
+944,476,Vasana Majumdar,Tiger,Female,27,1962-10-20,9918394993,848956436079,Cook,"H.No. 26, Mangal Zila, Bilaspur 326145",25,Shivamogga,Surrendered,Yes,None,High,None
+945,476,Jalsa Bhalla,Rowdy,Female,53,1979-07-22,9909997654,549527088571,Student,"73/100, Dara Circle, Bettiah-221158",25,Shivamogga,Surrendered,Yes,None,Low,Hands
+946,477,Chakradhar Mand,Bullet,Male,30,1972-06-05,9981500371,430911770833,Driver,"42/687, Loke Road, Nashik-732086",5,Bengaluru Urban,Arrested,Yes,None,High,Hands
+947,478,Ethan Kapadia,Don,Male,35,2003-07-09,9904837734,642827057259,Business,"966, Ray Path, Jammu-014005",23,Raichur,Arrested,Yes,Drug Network,Low,Firearm
+948,478,Theodore Yadav,Shadow,Male,43,1958-11-21,9917000245,240755060375,Government Employee,"80/002, Gokhale Chowk, Amritsar 257316",23,Raichur,Absconding,No,None,Medium,Hands
+949,479,Matthew Karan,Ranga,Male,54,2006-11-04,9880817327,940261431939,Cook,"81, Gala Chowk, Davanagere 369552",27,Udupi,Surrendered,No,None,High,Sharp Weapon
+950,479,Hema Bala,Don,Female,23,1987-05-29,9896994846,173154243309,Engineer,"525, Pandey, Noida-227393",27,Udupi,Arrested,No,Drug Network,High,Hands
+951,479,Aachal Mani,Silent,Female,33,1974-10-29,9989474821,363385193434,Teacher,"H.No. 32, Sampath Ganj, Chandigarh-076108",27,Udupi,Arrested,No,None,Low,Hands
+952,479,Arin Vaidya,Silent,Male,66,1965-06-28,9982966148,967500644184,Farmer,"23/60, Atwal Zila, Amravati-615838",27,Udupi,Absconding,No,None,Medium,Knife
+953,480,Chaitanya Tailor,Rocky,Male,44,1990-11-13,9985077289,961291483929,Doctor,"46/73, Savant Path, Mira-Bhayandar-332228",27,Udupi,Surrendered,No,None,Low,Knife
+954,481,Chatresh Master,Rocky,Male,57,1969-01-02,9982969281,568963446770,Teacher,"92/22, Ravel Path, Burhanpur-953506",9,Chikkamagaluru,Arrested,Yes,None,Medium,Stone
+955,481,Wakeeta Konda,Rocky,Female,47,1959-02-02,9967407155,764848634487,Electrician,"H.No. 67, Cheema Road, Chennai 538418",9,Chikkamagaluru,Surrendered,Yes,None,Medium,Hands
+956,481,Falguni Arya,Silent,Female,57,2002-08-25,9905777438,921964032751,Business,"26, Trivedi Nagar, Silchar 975615",9,Chikkamagaluru,Arrested,No,None,Medium,Hands
+957,481,Wazir Bath,Don,Male,32,1974-09-19,9880422860,941124265181,Mechanic,"151, Loyal Marg, Solapur 564091",9,Chikkamagaluru,Arrested,Yes,None,Low,None
+958,482,Jagvi Nagi,Tiger,Female,24,1979-06-15,9980733548,929018869305,Farmer,"070, Badami Street, Gulbarga-201971",14,Gadag,Arrested,No,None,Medium,Knife
+959,482,Chanchal Doctor,Rocky,Female,67,1971-11-08,9910029930,726627074347,Unemployed,"69/678, Setty, Vadodara-312677",14,Gadag,Arrested,No,None,Low,None
+960,483,Balveer Goyal,Rocky,Male,35,1962-07-18,9902847186,868721804001,Cook,"59, Warrior Circle, Tinsukia-533943",26,Tumakuru,Absconding,No,None,Medium,Hands
+961,483,Chandani Raja,Boss,Female,47,1972-12-25,9873664957,510277875455,Electrician,"95/23, Dhillon Zila, Kozhikode-915057",26,Tumakuru,Arrested,No,Drug Network,Low,Iron Rod
+962,484,Madhavi Mandal,King,Female,33,1985-05-25,9915457708,345966397514,Sales Executive,"00, Dey Nagar, Kishanganj-644867",22,Mysuru,Arrested,Yes,None,High,Knife
+963,484,Manthan Sem,Rocky,Male,61,1986-12-28,9969211240,577050448759,Journalist,"36, Sandhu Path, Bardhaman 006355",22,Mysuru,Arrested,Yes,None,Low,None
+964,484,Wahab Issac,Lucky,Male,34,1957-07-20,9904593543,834143067823,Mechanic,"69/27, Brar Chowk, Buxar-296353",22,Mysuru,Arrested,No,None,Low,None
+965,484,Qasim Shukla,Shadow,Male,64,1993-08-31,9871594727,742604517812,Government Employee,"H.No. 12, Dyal Circle, Haridwar-643159",22,Mysuru,Arrested,No,None,Low,Knife
+966,485,Zaitra Nayak,Don,Female,39,1987-12-24,9890035097,655284454302,Student,"63, Narayanan Road, Jalna 441491",17,Kalaburagi,Absconding,No,None,Medium,Iron Rod
+967,485,Jason Kibe,King,Male,55,1999-10-01,9872366206,719563271663,Labourer,"74/39, Rout Road, Pune 230958",17,Kalaburagi,Arrested,No,None,Medium,Knife
+968,486,Devansh Sood,King,Male,18,1993-11-27,9881029034,891365781567,Sales Executive,"H.No. 321, Sehgal Nagar, Ghaziabad-170754",2,Ballari,Arrested,No,None,Low,Knife
+969,487,Gopal Mangat,Cobra,Male,29,1988-12-17,9885457465,310133588311,Software Engineer,"H.No. 79, Dass Street, Sambalpur-044964",29,Vijayanagara,Absconding,No,None,High,Knife
+970,487,Azad Divan,Boss,Male,33,1993-11-26,9984430988,901668976250,Electrician,"H.No. 251, Contractor Street, Surendranagar Dudhrej-658963",29,Vijayanagara,Arrested,Yes,None,Medium,Stone
+971,487,Om Sinha,Boss,Male,70,2006-08-23,9918678365,874572920075,Private Employee,"93/14, Misra Path, Rampur-663113",29,Vijayanagara,Surrendered,No,None,Low,Hands
+972,487,Arjun Jayaraman,Don,Male,62,1971-04-12,9962318634,545209316550,Engineer,"22, Kothari Nagar, Tirupati-424631",29,Vijayanagara,Absconding,Yes,Cyber Group,Low,Firearm
+973,488,Matthew Kata,Black,Male,66,1990-09-17,9884642070,294266946267,Lawyer,"00/85, Mand Street, Ballia-217741",25,Shivamogga,Surrendered,No,None,Medium,Iron Rod
+974,488,Karan Guha,Tiger,Male,18,2008-03-20,9983248397,539308096627,Journalist,"H.No. 02, Yadav Ganj, Nashik 289466",25,Shivamogga,Arrested,No,None,Low,Stick
+975,489,Hemangini Sen,Shadow,Female,51,1995-05-24,9904357685,554828008700,Lawyer,"282, Kaur, Bhavnagar-256913",23,Raichur,Absconding,No,None,Medium,Iron Rod
+976,490,Abdul Karpe,Black,Male,69,1956-09-20,9888941901,740061020938,Security Guard,"77, Das Zila, Sirsa-076279",22,Mysuru,Arrested,No,None,Low,Iron Rod
+977,491,Nisha Krish,Silent,Female,62,2003-03-09,9893151702,220906753437,Journalist,"H.No. 53, Brar Nagar, Ahmednagar 723034",5,Bengaluru Urban,Absconding,Yes,Organized Crime,Low,Stick
+978,491,Arin Datta,Shadow,Male,54,1984-03-09,9983492479,175358926863,Security Guard,"01/72, Deo Street, Faridabad-076487",5,Bengaluru Urban,Arrested,No,Cyber Group,Low,Knife
+979,491,Wazir Tandon,Don,Male,68,1972-07-29,9878464003,642361733385,Security Guard,"H.No. 992, Bedi Road, Karimnagar 872725",5,Bengaluru Urban,Arrested,No,None,Low,Iron Rod
+980,491,Hemangini Dugal,Rowdy,Female,18,1972-05-04,9879663482,721697937931,Farmer,"68, Kumar Road, Shahjahanpur 337912",5,Bengaluru Urban,Arrested,No,Cyber Group,Low,Knife
+981,492,Dhruv Chad,Anna,Male,21,1960-02-10,9960986703,005122765102,Lawyer,"78/03, Sagar Path, Srinagar 074039",16,Haveri,Arrested,No,Local Gang,Medium,Knife
+982,492,Qushi Chawla,Lucky,Female,54,1986-09-16,9910699884,190221694664,Driver,"951, Chaudry Chowk, Akola 764338",16,Haveri,Surrendered,No,None,Low,Hands
+983,493,Gavin Gade,Ranga,Male,26,1956-09-10,9874759813,667814764253,Business,"162, Nagi Marg, Gudivada 330833",2,Ballari,Arrested,No,None,Low,Sharp Weapon
+984,493,Manan Mittal,Rowdy,Male,32,1979-01-10,9985052137,586441364285,Doctor,"87/89, Narayanan, Gopalpur 020596",2,Ballari,Surrendered,No,Cyber Group,Low,Firearm
+985,494,Bimala Munshi,Shadow,Female,37,1965-08-06,9965729677,419139240705,Farmer,"H.No. 92, Sane Marg, Kozhikode-634277",5,Bengaluru Urban,Arrested,Yes,None,Medium,Hands
+986,494,Odika Garde,King,Female,62,1964-01-14,9887590956,079941173721,Cook,"H.No. 616, Chacko Path, Mahbubnagar 059229",5,Bengaluru Urban,Arrested,Yes,None,Low,Knife
+987,495,Devika Bora,Lucky,Female,47,1972-08-26,9982495634,570982460423,Journalist,"H.No. 295, Ratti Path, Junagadh-726294",23,Raichur,Arrested,No,None,Low,Hands
+988,495,Anvi Sankar,Lucky,Female,24,1975-07-16,9871928200,032751969552,Unemployed,"80/85, Hayer Zila, Aligarh 800498",23,Raichur,Arrested,No,Cyber Group,Medium,Knife
+989,496,Farhan Bhatt,Silent,Male,23,1998-12-17,9886243951,010402526474,Private Employee,"121, Minhas Path, Serampore 686876",1,Bagalkote,Surrendered,No,None,Low,Hands
+990,496,Aarna Chawla,Silent,Female,39,1996-01-11,9876098013,521416049120,Mechanic,"H.No. 88, Ramachandran Nagar, Farrukhabad 006298",1,Bagalkote,Arrested,No,None,Low,Hands
+991,497,Vaishnavi Vohra,Don,Female,30,1981-01-07,9903214585,814318768460,Labourer,"66/464, Saran Zila, Bellary 219262",1,Bagalkote,Arrested,No,None,High,Iron Rod
+992,497,Baljiwan Hans,Rocky,Male,45,1965-04-04,9902405275,070419810103,Shop Keeper,"H.No. 429, Wali Road, Gorakhpur 789117",1,Bagalkote,Absconding,No,None,Medium,None
+993,497,Faraj Ray,Silent,Male,64,1986-09-23,9967187366,175055966297,Software Engineer,"28/318, Bhandari Nagar, Bhiwani 602000",1,Bagalkote,Arrested,No,None,Low,None
+994,497,Indira Edwin,Rocky,Female,20,1984-02-20,9981131354,145542925909,Engineer,"105, Narain Nagar, Gopalpur-838058",1,Bagalkote,Arrested,No,None,Medium,Stone
+995,498,Sathvik Garg,Shadow,Male,52,1990-07-15,9900888168,379763807343,Security Guard,"68, Gade Marg, Junagadh 328389",2,Ballari,Surrendered,No,None,Medium,Knife
+996,498,Harsh Kala,Lucky,Male,19,1998-09-24,9963341838,190583549713,Cook,"51/86, Rao Street, Vasai-Virar-684101",2,Ballari,Arrested,No,None,Medium,Stone
+997,499,Garima Tiwari,Ranga,Female,21,1997-06-26,9879146066,857094311286,Private Employee,"92/188, Palla Ganj, Surendranagar Dudhrej-875067",24,Ramanagara,Surrendered,No,None,Low,Sharp Weapon
+998,499,Sanya Chandran,Shadow,Female,21,1990-01-15,9988254553,857956365779,Student,"20/88, Lata Zila, Aurangabad-797617",24,Ramanagara,Arrested,No,Cyber Group,Low,Hands
+999,500,Qushi Saini,Tiger,Female,33,1986-04-10,9905698962,249683194587,Journalist,"H.No. 72, Dora Nagar, Gandhinagar-686295",4,Bengaluru Rural,Absconding,No,None,Low,Firearm
+1000,500,Ekantika Naik,Shadow,Female,54,1979-04-25,9876082365,959687467938,Sales Executive,"H.No. 53, Mahajan, Bangalore 429907",4,Bengaluru Rural,Arrested,No,None,Medium,Hands

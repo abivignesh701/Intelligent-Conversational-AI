@@ -1,0 +1,182 @@
+UnitID,UnitCode,UnitName,DistrictID,DistrictName,UnitType,Latitude,Longitude,Active
+1,UNIT0001,Bagalkote Town Police Station,1,Bagalkote,Urban,16.012051,74.155015,1
+2,UNIT0002,Bagalkote East Police Station,1,Bagalkote,Urban,15.989771,74.09661,1
+3,UNIT0003,Bagalkote West Police Station,1,Bagalkote,Urban,15.939207,74.135551,1
+4,UNIT0004,Bagalkote North Police Station,1,Bagalkote,Urban,15.973628,74.12717,1
+5,UNIT0005,Bagalkote South Police Station,1,Bagalkote,Urban,16.009274,74.089568,1
+6,UNIT0006,Ballari Town Police Station,2,Ballari,Urban,16.662124,77.123601,1
+7,UNIT0007,Ballari East Police Station,2,Ballari,Urban,16.654636,77.080117,1
+8,UNIT0008,Ballari West Police Station,2,Ballari,Urban,16.643135,77.099483,1
+9,UNIT0009,Ballari North Police Station,2,Ballari,Urban,16.668909,77.141437,1
+10,UNIT0010,Ballari South Police Station,2,Ballari,Urban,16.641682,77.128312,1
+11,UNIT0011,Ballari Central Police Station,2,Ballari,Urban,16.638355,77.148433,1
+12,UNIT0012,Ballari Market Police Station,2,Ballari,Urban,16.680383,77.116826,1
+13,UNIT0013,Camp Police Station,3,Belagavi,Urban,11.718865,74.416159,1
+14,UNIT0014,Tilakwadi Police Station,3,Belagavi,Urban,11.708341,74.468613,1
+15,UNIT0015,Market Police Station,3,Belagavi,Urban,11.714813,74.432166,1
+16,UNIT0016,Shahapur Police Station,3,Belagavi,Urban,11.761529,74.443611,1
+17,UNIT0017,Malmaruti Police Station,3,Belagavi,Urban,11.725886,74.424058,1
+18,UNIT0018,Vadgaon Police Station,3,Belagavi,Urban,11.697486,74.41994,1
+19,UNIT0019,APMC Police Station,3,Belagavi,Urban,11.742994,74.441031,1
+20,UNIT0020,Fort Police Station,3,Belagavi,Urban,11.743278,74.407283,1
+21,UNIT0021,Udyambag Police Station,3,Belagavi,Urban,11.726417,74.465212,1
+22,UNIT0022,Angol Police Station,3,Belagavi,Urban,11.717528,74.446858,1
+23,UNIT0023,Bengaluru Rural Town Police Station,4,Bengaluru Rural,Rural,15.398429,77.331542,1
+24,UNIT0024,Bengaluru Rural East Police Station,4,Bengaluru Rural,Rural,15.437425,77.272834,1
+25,UNIT0025,Bengaluru Rural West Police Station,4,Bengaluru Rural,Rural,15.401385,77.297757,1
+26,UNIT0026,Bengaluru Rural North Police Station,4,Bengaluru Rural,Rural,15.432895,77.261147,1
+27,UNIT0027,Ashok Nagar Police Station,5,Bengaluru Urban,Urban,15.664241,77.756414,1
+28,UNIT0028,Cubbon Park Police Station,5,Bengaluru Urban,Urban,15.621776,77.692777,1
+29,UNIT0029,Whitefield Police Station,5,Bengaluru Urban,Urban,15.651431,77.72325,1
+30,UNIT0030,Hebbal Police Station,5,Bengaluru Urban,Urban,15.642188,77.72409,1
+31,UNIT0031,Jayanagar Police Station,5,Bengaluru Urban,Urban,15.606734,77.750158,1
+32,UNIT0032,Basavanagudi Police Station,5,Bengaluru Urban,Urban,15.66328,77.702878,1
+33,UNIT0033,Electronic City Police Station,5,Bengaluru Urban,Urban,15.628961,77.714067,1
+34,UNIT0034,Madiwala Police Station,5,Bengaluru Urban,Urban,15.658609,77.724039,1
+35,UNIT0035,Yelahanka Police Station,5,Bengaluru Urban,Urban,15.655206,77.752502,1
+36,UNIT0036,HAL Police Station,5,Bengaluru Urban,Urban,15.60696,77.74658,1
+37,UNIT0037,Indiranagar Police Station,5,Bengaluru Urban,Urban,15.618055,77.75812,1
+38,UNIT0038,Rajajinagar Police Station,5,Bengaluru Urban,Urban,15.625479,77.749024,1
+39,UNIT0039,Peenya Police Station,5,Bengaluru Urban,Urban,15.607487,77.707264,1
+40,UNIT0040,Banashankari Police Station,5,Bengaluru Urban,Urban,15.631815,77.763292,1
+41,UNIT0041,BTM Layout Police Station,5,Bengaluru Urban,Urban,15.624031,77.695268,1
+42,UNIT0042,Koramangala Police Station,5,Bengaluru Urban,Urban,15.627946,77.71099,1
+43,UNIT0043,Mahadevapura Police Station,5,Bengaluru Urban,Urban,15.629013,77.726854,1
+44,UNIT0044,Kengeri Police Station,5,Bengaluru Urban,Urban,15.621288,77.709122,1
+45,UNIT0045,KR Puram Police Station,5,Bengaluru Urban,Urban,15.599952,77.73918,1
+46,UNIT0046,Varthur Police Station,5,Bengaluru Urban,Urban,15.630604,77.702065,1
+47,UNIT0047,Hennur Police Station,5,Bengaluru Urban,Urban,15.646904,77.686872,1
+48,UNIT0048,Bellandur Police Station,5,Bengaluru Urban,Urban,15.644436,77.739798,1
+49,UNIT0049,Bidar Town Police Station,6,Bidar,Urban,16.411889,75.556038,1
+50,UNIT0050,Bidar East Police Station,6,Bidar,Urban,16.400071,75.590812,1
+51,UNIT0051,Bidar West Police Station,6,Bidar,Urban,16.425441,75.564778,1
+52,UNIT0052,Bidar North Police Station,6,Bidar,Urban,16.349938,75.565335,1
+53,UNIT0053,Bidar South Police Station,6,Bidar,Urban,16.39419,75.594728,1
+54,UNIT0054,Chamarajanagar Town Police Station,7,Chamarajanagar,Urban,12.245407,75.74289,1
+55,UNIT0055,Chamarajanagar East Police Station,7,Chamarajanagar,Urban,12.217548,75.74422,1
+56,UNIT0056,Chamarajanagar West Police Station,7,Chamarajanagar,Urban,12.233268,75.740464,1
+57,UNIT0057,Chamarajanagar North Police Station,7,Chamarajanagar,Urban,12.227855,75.720015,1
+58,UNIT0058,Chikkaballapur Town Police Station,8,Chikkaballapur,Urban,13.349205,74.237408,1
+59,UNIT0059,Chikkaballapur East Police Station,8,Chikkaballapur,Urban,13.338731,74.215288,1
+60,UNIT0060,Chikkaballapur West Police Station,8,Chikkaballapur,Urban,13.363633,74.228013,1
+61,UNIT0061,Chikkaballapur North Police Station,8,Chikkaballapur,Urban,13.379833,74.228619,1
+62,UNIT0062,Chikkamagaluru Town Police Station,9,Chikkamagaluru,Urban,12.042002,75.333953,1
+63,UNIT0063,Chikkamagaluru East Police Station,9,Chikkamagaluru,Urban,12.069098,75.369372,1
+64,UNIT0064,Chikkamagaluru West Police Station,9,Chikkamagaluru,Urban,12.081392,75.311492,1
+65,UNIT0065,Chikkamagaluru North Police Station,9,Chikkamagaluru,Urban,12.017075,75.359113,1
+66,UNIT0066,Chitradurga Town Police Station,10,Chitradurga,Urban,15.575139,77.280824,1
+67,UNIT0067,Chitradurga East Police Station,10,Chitradurga,Urban,15.561206,77.235748,1
+68,UNIT0068,Chitradurga West Police Station,10,Chitradurga,Urban,15.50934,77.25173,1
+69,UNIT0069,Chitradurga North Police Station,10,Chitradurga,Urban,15.571271,77.236524,1
+70,UNIT0070,Dakshina Kannada Town Police Station,11,Dakshina Kannada,Urban,18.412071,77.966736,1
+71,UNIT0071,Dakshina Kannada East Police Station,11,Dakshina Kannada,Urban,18.36023,77.958153,1
+72,UNIT0072,Dakshina Kannada West Police Station,11,Dakshina Kannada,Urban,18.38002,77.924449,1
+73,UNIT0073,Dakshina Kannada North Police Station,11,Dakshina Kannada,Urban,18.368197,77.936955,1
+74,UNIT0074,Dakshina Kannada South Police Station,11,Dakshina Kannada,Urban,18.401825,77.957864,1
+75,UNIT0075,Dakshina Kannada Central Police Station,11,Dakshina Kannada,Urban,18.37015,77.900779,1
+76,UNIT0076,Dakshina Kannada Market Police Station,11,Dakshina Kannada,Urban,18.426218,77.944039,1
+77,UNIT0077,Dakshina Kannada Rural Police Station,11,Dakshina Kannada,Rural,18.375817,77.967488,1
+78,UNIT0078,Davanagere Town Police Station,12,Davanagere,Urban,15.92124,75.67512,1
+79,UNIT0079,Davanagere East Police Station,12,Davanagere,Urban,15.930109,75.658654,1
+80,UNIT0080,Davanagere West Police Station,12,Davanagere,Urban,15.910543,75.702599,1
+81,UNIT0081,Davanagere North Police Station,12,Davanagere,Urban,15.981888,75.692437,1
+82,UNIT0082,Dharwad Town Police Station,13,Dharwad,Urban,13.341483,78.303949,1
+83,UNIT0083,Dharwad East Police Station,13,Dharwad,Urban,13.35649,78.315617,1
+84,UNIT0084,Dharwad West Police Station,13,Dharwad,Urban,13.37996,78.302556,1
+85,UNIT0085,Dharwad North Police Station,13,Dharwad,Urban,13.348853,78.336235,1
+86,UNIT0086,Dharwad South Police Station,13,Dharwad,Urban,13.344782,78.299386,1
+87,UNIT0087,Dharwad Central Police Station,13,Dharwad,Urban,13.367502,78.287587,1
+88,UNIT0088,Gadag Town Police Station,14,Gadag,Urban,12.703725,77.359968,1
+89,UNIT0089,Gadag East Police Station,14,Gadag,Urban,12.737386,77.337601,1
+90,UNIT0090,Gadag West Police Station,14,Gadag,Urban,12.736207,77.366641,1
+91,UNIT0091,Gadag North Police Station,14,Gadag,Urban,12.679929,77.359257,1
+92,UNIT0092,Hassan Town Police Station,15,Hassan,Urban,18.441527,76.963573,1
+93,UNIT0093,Hassan East Police Station,15,Hassan,Urban,18.390587,76.952512,1
+94,UNIT0094,Hassan West Police Station,15,Hassan,Urban,18.426401,76.976331,1
+95,UNIT0095,Hassan North Police Station,15,Hassan,Urban,18.409559,76.967908,1
+96,UNIT0096,Hassan South Police Station,15,Hassan,Urban,18.435228,76.932185,1
+97,UNIT0097,Haveri Town Police Station,16,Haveri,Urban,17.410892,77.579271,1
+98,UNIT0098,Haveri East Police Station,16,Haveri,Urban,17.414184,77.587274,1
+99,UNIT0099,Haveri West Police Station,16,Haveri,Urban,17.412698,77.596667,1
+100,UNIT0100,Haveri North Police Station,16,Haveri,Urban,17.410223,77.601872,1
+101,UNIT0101,Kalaburagi Town Police Station,17,Kalaburagi,Urban,14.319861,74.289183,1
+102,UNIT0102,Kalaburagi East Police Station,17,Kalaburagi,Urban,14.30342,74.310834,1
+103,UNIT0103,Kalaburagi West Police Station,17,Kalaburagi,Urban,14.326743,74.271679,1
+104,UNIT0104,Kalaburagi North Police Station,17,Kalaburagi,Urban,14.291763,74.324266,1
+105,UNIT0105,Kalaburagi South Police Station,17,Kalaburagi,Urban,14.282205,74.275041,1
+106,UNIT0106,Kalaburagi Central Police Station,17,Kalaburagi,Urban,14.311307,74.342187,1
+107,UNIT0107,Kalaburagi Market Police Station,17,Kalaburagi,Urban,14.310622,74.337547,1
+108,UNIT0108,Kodagu Town Police Station,18,Kodagu,Urban,13.014824,76.277022,1
+109,UNIT0109,Kodagu East Police Station,18,Kodagu,Urban,13.014361,76.295012,1
+110,UNIT0110,Kodagu West Police Station,18,Kodagu,Urban,13.012905,76.316189,1
+111,UNIT0111,Kodagu North Police Station,18,Kodagu,Urban,12.975483,76.265678,1
+112,UNIT0112,Kolar Town Police Station,19,Kolar,Urban,12.514443,77.39821,1
+113,UNIT0113,Kolar East Police Station,19,Kolar,Urban,12.514732,77.45576,1
+114,UNIT0114,Kolar West Police Station,19,Kolar,Urban,12.495349,77.465344,1
+115,UNIT0115,Kolar North Police Station,19,Kolar,Urban,12.514794,77.451316,1
+116,UNIT0116,Koppal Town Police Station,20,Koppal,Urban,14.488299,76.707506,1
+117,UNIT0117,Koppal East Police Station,20,Koppal,Urban,14.46015,76.687177,1
+118,UNIT0118,Koppal West Police Station,20,Koppal,Urban,14.49542,76.698077,1
+119,UNIT0119,Koppal North Police Station,20,Koppal,Urban,14.512824,76.691016,1
+120,UNIT0120,Mandya Town Police Station,21,Mandya,Urban,15.092477,74.453406,1
+121,UNIT0121,Mandya East Police Station,21,Mandya,Urban,15.035352,74.396889,1
+122,UNIT0122,Mandya West Police Station,21,Mandya,Urban,15.028686,74.448922,1
+123,UNIT0123,Mandya North Police Station,21,Mandya,Urban,15.071597,74.451403,1
+124,UNIT0124,Mandya South Police Station,21,Mandya,Urban,15.044393,74.38324,1
+125,UNIT0125,Vijayanagar Police Station,22,Mysuru,Urban,15.91803,77.676316,1
+126,UNIT0126,Nazarbad Police Station,22,Mysuru,Urban,15.876297,77.636229,1
+127,UNIT0127,Devaraja Police Station,22,Mysuru,Urban,15.863304,77.679266,1
+128,UNIT0128,Alanahalli Police Station,22,Mysuru,Urban,15.876471,77.642975,1
+129,UNIT0129,Lashkar Police Station,22,Mysuru,Urban,15.859897,77.674546,1
+130,UNIT0130,Saraswathipuram Police Station,22,Mysuru,Urban,15.862975,77.639857,1
+131,UNIT0131,Metagalli Police Station,22,Mysuru,Urban,15.905761,77.663016,1
+132,UNIT0132,Hebbal Police Station,22,Mysuru,Urban,15.9278,77.637095,1
+133,UNIT0133,Jayalakshmipuram Police Station,22,Mysuru,Urban,15.911504,77.615927,1
+134,UNIT0134,Krishnaraja Police Station,22,Mysuru,Urban,15.885313,77.611487,1
+135,UNIT0135,Mandi Police Station,22,Mysuru,Urban,15.89127,77.636214,1
+136,UNIT0136,Udayagiri Police Station,22,Mysuru,Urban,15.928244,77.606182,1
+137,UNIT0137,Raichur Town Police Station,23,Raichur,Urban,14.160977,78.577629,1
+138,UNIT0138,Raichur East Police Station,23,Raichur,Urban,14.207379,78.610594,1
+139,UNIT0139,Raichur West Police Station,23,Raichur,Urban,14.139283,78.597012,1
+140,UNIT0140,Raichur North Police Station,23,Raichur,Urban,14.174892,78.620385,1
+141,UNIT0141,Raichur South Police Station,23,Raichur,Urban,14.160029,78.574009,1
+142,UNIT0142,Ramanagara Town Police Station,24,Ramanagara,Urban,17.500643,74.022586,1
+143,UNIT0143,Ramanagara East Police Station,24,Ramanagara,Urban,17.553301,74.04919,1
+144,UNIT0144,Ramanagara West Police Station,24,Ramanagara,Urban,17.538479,74.064149,1
+145,UNIT0145,Ramanagara North Police Station,24,Ramanagara,Urban,17.53323,74.014522,1
+146,UNIT0146,Shivamogga Town Police Station,25,Shivamogga,Urban,16.779089,77.51504,1
+147,UNIT0147,Shivamogga East Police Station,25,Shivamogga,Urban,16.726219,77.54072,1
+148,UNIT0148,Shivamogga West Police Station,25,Shivamogga,Urban,16.721634,77.556767,1
+149,UNIT0149,Shivamogga North Police Station,25,Shivamogga,Urban,16.732718,77.51283,1
+150,UNIT0150,Shivamogga South Police Station,25,Shivamogga,Urban,16.785721,77.521839,1
+151,UNIT0151,Shivamogga Central Police Station,25,Shivamogga,Urban,16.727949,77.567596,1
+152,UNIT0152,Tumakuru Town Police Station,26,Tumakuru,Urban,12.567331,74.0436,1
+153,UNIT0153,Tumakuru East Police Station,26,Tumakuru,Urban,12.578679,73.985327,1
+154,UNIT0154,Tumakuru West Police Station,26,Tumakuru,Urban,12.587156,73.988888,1
+155,UNIT0155,Tumakuru North Police Station,26,Tumakuru,Urban,12.619989,73.97699,1
+156,UNIT0156,Tumakuru South Police Station,26,Tumakuru,Urban,12.568293,74.038127,1
+157,UNIT0157,Tumakuru Central Police Station,26,Tumakuru,Urban,12.586139,74.00083,1
+158,UNIT0158,Tumakuru Market Police Station,26,Tumakuru,Urban,12.581044,73.97912,1
+159,UNIT0159,Tumakuru Rural Police Station,26,Tumakuru,Rural,12.626441,74.017015,1
+160,UNIT0160,Udupi Town Police Station,27,Udupi,Urban,15.073425,74.48759,1
+161,UNIT0161,Udupi East Police Station,27,Udupi,Urban,15.076013,74.490549,1
+162,UNIT0162,Udupi West Police Station,27,Udupi,Urban,15.022496,74.489797,1
+163,UNIT0163,Udupi North Police Station,27,Udupi,Urban,15.089405,74.452959,1
+164,UNIT0164,Udupi South Police Station,27,Udupi,Urban,15.07643,74.518848,1
+165,UNIT0165,Uttara Kannada Town Police Station,28,Uttara Kannada,Urban,15.055356,74.911634,1
+166,UNIT0166,Uttara Kannada East Police Station,28,Uttara Kannada,Urban,15.090762,74.879857,1
+167,UNIT0167,Uttara Kannada West Police Station,28,Uttara Kannada,Urban,15.051959,74.90712,1
+168,UNIT0168,Uttara Kannada North Police Station,28,Uttara Kannada,Urban,15.068528,74.914213,1
+169,UNIT0169,Vijayanagara Town Police Station,29,Vijayanagara,Urban,18.207274,78.209076,1
+170,UNIT0170,Vijayanagara East Police Station,29,Vijayanagara,Urban,18.140961,78.251861,1
+171,UNIT0171,Vijayanagara West Police Station,29,Vijayanagara,Urban,18.139753,78.225198,1
+172,UNIT0172,Vijayanagara North Police Station,29,Vijayanagara,Urban,18.185144,78.247066,1
+173,UNIT0173,Vijayapura Town Police Station,30,Vijayapura,Urban,11.622352,78.313424,1
+174,UNIT0174,Vijayapura East Police Station,30,Vijayapura,Urban,11.638782,78.270151,1
+175,UNIT0175,Vijayapura West Police Station,30,Vijayapura,Urban,11.644771,78.241788,1
+176,UNIT0176,Vijayapura North Police Station,30,Vijayapura,Urban,11.652479,78.302077,1
+177,UNIT0177,Vijayapura South Police Station,30,Vijayapura,Urban,11.64841,78.295371,1
+178,UNIT0178,Yadgir Town Police Station,31,Yadgir,Urban,17.663734,78.333169,1
+179,UNIT0179,Yadgir East Police Station,31,Yadgir,Urban,17.642191,78.334246,1
+180,UNIT0180,Yadgir West Police Station,31,Yadgir,Urban,17.633182,78.352247,1
+181,UNIT0181,Yadgir North Police Station,31,Yadgir,Urban,17.639346,78.323574,1

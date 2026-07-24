@@ -1,0 +1,251 @@
+ChargesheetID,CaseMasterID,CourtID,PolicePersonID,ChargesheetDate,ChargesheetStatus,FinalReportType,WitnessCount,EvidenceCount,Remarks
+1,362,48,488,2025-11-30,Filed,Charge Sheet,5,9,Further investigation required
+2,74,20,315,2026-04-25,Filed,Charge Sheet,2,7,Forensic report attached
+3,375,9,120,2024-12-10,Filed,Charge Sheet,5,27,Charge sheet accepted
+4,156,19,323,2025-06-18,Filed,Charge Sheet,15,5,Witness statements completed
+5,105,12,126,2026-03-15,Filed,Charge Sheet,14,15,Further investigation required
+6,395,18,307,2025-04-09,Filed,Charge Sheet,7,24,Awaiting FSL report
+7,378,20,52,2025-04-16,Pending,Charge Sheet,8,7,Awaiting FSL report
+8,125,24,218,2025-07-14,Filed,Charge Sheet,2,26,Forensic report attached
+9,69,37,468,2025-05-16,Returned by Court,Closure Report,15,8,Charge sheet accepted
+10,451,9,500,2026-04-21,Filed,Charge Sheet,4,16,Accused absconding
+11,10,34,123,2025-03-21,Filed,Charge Sheet,12,25,Further investigation required
+12,195,17,291,2026-06-17,Filed,Charge Sheet,9,17,Awaiting FSL report
+13,407,44,422,2026-01-18,Filed,Charge Sheet,14,29,Evidence sufficient
+14,85,19,495,2025-03-26,Pending,Charge Sheet,8,13,Further investigation required
+15,372,10,258,2026-04-03,Returned by Court,Charge Sheet,13,15,Forensic report attached
+16,389,21,189,2026-04-29,Filed,Closure Report,9,9,Awaiting FSL report
+17,496,1,31,2025-07-14,Filed,Charge Sheet,6,28,Charge sheet accepted
+18,31,46,11,2026-06-28,Filed,Charge Sheet,4,21,Supplementary charge sheet likely
+19,317,12,314,2025-12-05,Pending,Closure Report,4,25,Witness statements completed
+20,409,33,127,2025-08-06,Filed,Charge Sheet,11,19,Awaiting FSL report
+21,491,14,63,2025-06-17,Pending,Charge Sheet,13,8,Awaiting FSL report
+22,492,28,272,2025-09-27,Filed,Charge Sheet,9,5,Awaiting FSL report
+23,281,32,411,2025-05-24,Pending,Charge Sheet,3,32,Awaiting FSL report
+24,357,25,78,2025-07-08,Filed,Charge Sheet,14,10,Evidence sufficient
+25,77,18,360,2025-10-09,Filed,Charge Sheet,7,33,Awaiting FSL report
+26,462,11,404,2025-05-06,Filed,Closure Report,3,7,Supplementary charge sheet likely
+27,498,2,429,2025-08-11,Returned by Court,Charge Sheet,4,9,Supplementary charge sheet likely
+28,212,41,30,2025-12-03,Filed,Charge Sheet,11,18,Forensic report attached
+29,102,51,322,2026-05-13,Pending,Charge Sheet,13,14,Charge sheet accepted
+30,335,31,286,2026-08-06,Filed,Charge Sheet,3,12,Forensic report attached
+31,476,43,490,2025-11-02,Filed,Charge Sheet,5,23,Forensic report attached
+32,337,35,79,2026-04-04,Filed,Charge Sheet,5,7,Evidence sufficient
+33,441,16,210,2026-10-27,Filed,Charge Sheet,12,20,Forensic report attached
+34,174,24,324,2026-08-12,Filed,Closure Report,11,23,Supplementary charge sheet likely
+35,3,36,380,2025-04-02,Pending,Charge Sheet,5,8,Further investigation required
+36,334,44,44,2026-08-31,Filed,Charge Sheet,15,28,Evidence sufficient
+37,410,51,322,2026-04-29,Filed,Charge Sheet,14,32,Further investigation required
+38,71,9,309,2026-09-03,Filed,Charge Sheet,4,18,Witness statements completed
+39,210,3,47,2025-05-11,Filed,Closure Report,3,19,Further investigation required
+40,64,11,332,2026-05-03,Filed,Charge Sheet,2,7,Forensic report attached
+41,385,11,63,2025-05-04,Filed,Charge Sheet,15,17,Evidence sufficient
+42,94,21,115,2024-11-18,Filed,Closure Report,6,34,Supplementary charge sheet likely
+43,486,3,244,2025-09-01,Filed,Closure Report,14,22,Supplementary charge sheet likely
+44,186,41,253,2026-06-13,Filed,Charge Sheet,2,23,Evidence sufficient
+45,34,42,255,2025-08-10,Filed,Charge Sheet,10,34,Witness statements completed
+46,78,38,348,2025-03-15,Returned by Court,Charge Sheet,4,7,Further investigation required
+47,1,22,454,2024-11-08,Filed,Closure Report,11,12,Evidence sufficient
+48,12,33,439,2024-09-30,Filed,Charge Sheet,10,15,Awaiting FSL report
+49,416,29,372,2025-04-08,Filed,Charge Sheet,6,17,Witness statements completed
+50,23,36,151,2025-02-26,Filed,Closure Report,3,5,Supplementary charge sheet likely
+51,73,45,331,2025-08-28,Returned by Court,Charge Sheet,5,21,Awaiting FSL report
+52,183,15,161,2024-12-04,Returned by Court,Closure Report,5,16,Awaiting FSL report
+53,132,25,287,2026-06-26,Filed,Charge Sheet,6,24,Evidence sufficient
+54,411,18,360,2026-07-05,Filed,Charge Sheet,4,13,Further investigation required
+55,194,24,410,2025-08-03,Pending,Charge Sheet,6,24,Forensic report attached
+56,56,49,484,2025-03-20,Filed,Charge Sheet,6,21,Supplementary charge sheet likely
+57,149,47,451,2025-06-07,Returned by Court,Charge Sheet,3,25,Charge sheet accepted
+58,19,14,453,2024-11-05,Filed,Charge Sheet,4,25,Awaiting FSL report
+59,205,21,189,2025-03-05,Pending,Charge Sheet,8,22,Evidence sufficient
+60,79,14,221,2025-03-16,Filed,Closure Report,4,22,Evidence sufficient
+61,495,41,117,2026-03-28,Filed,Charge Sheet,4,6,Awaiting FSL report
+62,263,44,312,2025-03-17,Pending,Charge Sheet,15,6,Accused absconding
+63,324,50,438,2024-11-01,Filed,Charge Sheet,7,29,Charge sheet accepted
+64,484,37,494,2026-06-07,Returned by Court,Charge Sheet,4,30,Witness statements completed
+65,80,44,461,2026-01-14,Filed,Charge Sheet,7,30,Charge sheet accepted
+66,40,16,210,2026-03-16,Filed,Charge Sheet,3,17,Evidence sufficient
+67,452,13,234,2025-11-27,Filed,Charge Sheet,9,16,Awaiting FSL report
+68,47,32,414,2025-05-07,Filed,Charge Sheet,8,15,Awaiting FSL report
+69,239,29,372,2025-11-28,Returned by Court,Charge Sheet,12,21,Charge sheet accepted
+70,392,16,210,2025-08-11,Filed,Charge Sheet,6,10,Awaiting FSL report
+71,353,46,60,2024-11-22,Filed,Charge Sheet,13,30,Accused absconding
+72,342,25,245,2024-12-28,Filed,Charge Sheet,8,33,Forensic report attached
+73,278,1,441,2025-05-10,Filed,Charge Sheet,10,34,Forensic report attached
+74,291,5,57,2026-06-01,Filed,Closure Report,7,24,Accused absconding
+75,318,50,232,2025-01-11,Pending,Charge Sheet,6,26,Charge sheet accepted
+76,305,21,481,2025-02-13,Filed,Charge Sheet,4,11,Charge sheet accepted
+77,269,33,303,2024-12-03,Filed,Closure Report,11,23,Awaiting FSL report
+78,70,46,331,2025-05-04,Filed,Charge Sheet,6,11,Charge sheet accepted
+79,456,42,204,2026-07-23,Filed,Charge Sheet,9,19,Forensic report attached
+80,466,21,400,2025-06-15,Filed,Closure Report,14,28,Witness statements completed
+81,155,36,124,2025-02-21,Filed,Charge Sheet,11,15,Further investigation required
+82,83,33,32,2026-07-30,Filed,Charge Sheet,5,9,Evidence sufficient
+83,478,41,487,2026-05-12,Filed,Charge Sheet,15,29,Further investigation required
+84,173,39,494,2026-07-05,Filed,Charge Sheet,5,27,Charge sheet accepted
+85,322,42,129,2026-08-02,Filed,Charge Sheet,13,5,Further investigation required
+86,91,51,489,2026-03-05,Filed,Charge Sheet,13,21,Supplementary charge sheet likely
+87,181,32,250,2026-01-01,Filed,Closure Report,3,19,Witness statements completed
+88,415,39,158,2025-01-05,Filed,Closure Report,11,15,Supplementary charge sheet likely
+89,313,32,411,2025-03-13,Filed,Closure Report,9,33,Witness statements completed
+90,279,16,209,2026-03-02,Filed,Charge Sheet,15,25,Awaiting FSL report
+91,382,15,257,2025-08-13,Filed,Charge Sheet,9,7,Awaiting FSL report
+92,473,10,153,2025-03-19,Filed,Charge Sheet,10,7,Witness statements completed
+93,363,40,165,2025-10-02,Filed,Charge Sheet,13,11,Further investigation required
+94,325,32,414,2026-05-21,Filed,Charge Sheet,8,6,Forensic report attached
+95,432,1,82,2025-04-13,Filed,Charge Sheet,13,5,Charge sheet accepted
+96,348,42,344,2026-03-29,Filed,Charge Sheet,14,17,Charge sheet accepted
+97,87,18,137,2026-01-08,Pending,Charge Sheet,11,33,Forensic report attached
+98,76,51,130,2026-10-14,Filed,Charge Sheet,2,17,Accused absconding
+99,439,5,56,2026-07-04,Pending,Charge Sheet,4,24,Evidence sufficient
+100,16,8,297,2025-05-08,Filed,Charge Sheet,3,25,Charge sheet accepted
+101,250,34,69,2025-05-11,Pending,Charge Sheet,6,17,Accused absconding
+102,434,30,296,2025-10-24,Filed,Charge Sheet,8,13,Charge sheet accepted
+103,20,51,322,2026-05-28,Pending,Charge Sheet,13,22,Evidence sufficient
+104,323,51,130,2026-08-16,Filed,Charge Sheet,12,6,Evidence sufficient
+105,333,32,169,2025-01-10,Filed,Charge Sheet,4,12,Witness statements completed
+106,57,24,218,2026-05-31,Filed,Charge Sheet,5,19,Awaiting FSL report
+107,302,26,142,2026-07-19,Filed,Charge Sheet,13,27,Further investigation required
+108,230,41,117,2024-11-29,Returned by Court,Charge Sheet,2,34,Awaiting FSL report
+109,332,42,255,2026-08-07,Filed,Closure Report,8,35,Forensic report attached
+110,133,29,286,2026-07-24,Filed,Charge Sheet,5,8,Awaiting FSL report
+111,138,19,354,2026-03-27,Pending,Charge Sheet,2,16,Charge sheet accepted
+112,424,52,183,2025-11-15,Filed,Charge Sheet,2,32,Charge sheet accepted
+113,336,6,401,2025-06-04,Filed,Closure Report,12,33,Supplementary charge sheet likely
+114,26,43,396,2024-12-06,Filed,Charge Sheet,12,13,Supplementary charge sheet likely
+115,465,29,285,2025-03-29,Filed,Charge Sheet,6,15,Forensic report attached
+116,282,18,382,2025-12-14,Filed,Charge Sheet,14,19,Charge sheet accepted
+117,248,45,383,2026-03-15,Filed,Closure Report,4,20,Forensic report attached
+118,238,5,338,2026-01-22,Pending,Charge Sheet,11,27,Awaiting FSL report
+119,118,39,468,2026-03-26,Filed,Closure Report,3,12,Charge sheet accepted
+120,43,23,325,2025-07-22,Filed,Charge Sheet,9,25,Supplementary charge sheet likely
+121,221,32,250,2026-02-04,Pending,Charge Sheet,5,17,Forensic report attached
+122,177,39,469,2025-09-14,Filed,Charge Sheet,10,21,Accused absconding
+123,321,43,25,2026-11-12,Returned by Court,Charge Sheet,7,27,Supplementary charge sheet likely
+124,154,25,287,2025-01-25,Filed,Charge Sheet,13,11,Accused absconding
+125,232,25,22,2025-11-24,Pending,Closure Report,13,10,Forensic report attached
+126,228,30,286,2025-02-07,Pending,Charge Sheet,11,29,Awaiting FSL report
+127,418,36,124,2026-05-21,Pending,Charge Sheet,7,10,Awaiting FSL report
+128,204,46,379,2025-08-10,Pending,Charge Sheet,2,6,Awaiting FSL report
+129,127,50,91,2026-07-24,Filed,Charge Sheet,3,32,Evidence sufficient
+130,330,4,391,2026-08-22,Filed,Charge Sheet,7,10,Evidence sufficient
+131,32,38,192,2025-11-16,Returned by Court,Charge Sheet,15,7,Charge sheet accepted
+132,114,52,427,2026-10-14,Filed,Charge Sheet,2,9,Witness statements completed
+133,471,49,24,2026-02-08,Returned by Court,Charge Sheet,5,8,Charge sheet accepted
+134,272,13,88,2026-02-08,Pending,Charge Sheet,9,14,Charge sheet accepted
+135,141,45,235,2025-12-09,Filed,Charge Sheet,13,8,Forensic report attached
+136,58,31,285,2025-02-10,Filed,Charge Sheet,5,10,Further investigation required
+137,193,12,28,2026-07-28,Filed,Charge Sheet,11,20,Awaiting FSL report
+138,25,45,383,2025-04-29,Filed,Charge Sheet,13,32,Supplementary charge sheet likely
+139,18,42,304,2026-04-15,Filed,Closure Report,14,30,Forensic report attached
+140,266,13,81,2026-02-22,Filed,Charge Sheet,4,34,Awaiting FSL report
+141,67,46,397,2024-10-20,Filed,Charge Sheet,6,24,Awaiting FSL report
+142,209,38,146,2026-11-22,Filed,Charge Sheet,13,17,Awaiting FSL report
+143,480,47,21,2025-09-28,Filed,Charge Sheet,11,6,Charge sheet accepted
+144,95,33,238,2025-08-14,Filed,Charge Sheet,5,35,Evidence sufficient
+145,254,42,252,2026-10-18,Filed,Charge Sheet,4,20,Supplementary charge sheet likely
+146,267,48,488,2026-10-13,Filed,Charge Sheet,12,31,Supplementary charge sheet likely
+147,24,45,190,2026-08-05,Filed,Charge Sheet,7,26,Further investigation required
+148,223,41,253,2026-03-25,Filed,Charge Sheet,6,26,Charge sheet accepted
+149,262,34,123,2025-10-02,Filed,Charge Sheet,6,15,Further investigation required
+150,427,37,355,2024-12-07,Pending,Charge Sheet,2,26,Supplementary charge sheet likely
+151,6,38,316,2026-09-09,Filed,Charge Sheet,11,29,Supplementary charge sheet likely
+152,117,16,463,2026-03-19,Pending,Charge Sheet,10,9,Awaiting FSL report
+153,46,38,468,2025-02-23,Pending,Charge Sheet,2,25,Forensic report attached
+154,17,43,251,2025-11-30,Filed,Charge Sheet,8,7,Forensic report attached
+155,463,51,322,2025-05-09,Filed,Charge Sheet,15,9,Supplementary charge sheet likely
+156,358,28,197,2025-01-21,Filed,Charge Sheet,15,20,Supplementary charge sheet likely
+157,4,7,57,2026-04-07,Filed,Charge Sheet,5,34,Witness statements completed
+158,219,18,409,2025-04-10,Filed,Charge Sheet,8,15,Awaiting FSL report
+159,406,40,165,2024-10-22,Filed,Charge Sheet,11,23,Supplementary charge sheet likely
+160,61,8,337,2026-01-03,Filed,Charge Sheet,7,22,Charge sheet accepted
+161,111,41,225,2025-06-24,Returned by Court,Closure Report,13,12,Charge sheet accepted
+162,319,6,248,2026-08-21,Pending,Charge Sheet,7,28,Supplementary charge sheet likely
+163,429,20,133,2026-06-05,Filed,Charge Sheet,15,25,Witness statements completed
+164,30,28,272,2026-07-30,Returned by Court,Charge Sheet,11,15,Further investigation required
+165,438,49,24,2025-11-06,Filed,Closure Report,2,28,Witness statements completed
+166,472,48,451,2025-09-30,Pending,Closure Report,3,20,Awaiting FSL report
+167,27,17,35,2025-01-25,Filed,Charge Sheet,3,32,Accused absconding
+168,8,25,233,2025-11-05,Filed,Charge Sheet,13,33,Supplementary charge sheet likely
+169,454,32,250,2025-07-04,Filed,Charge Sheet,12,26,Awaiting FSL report
+170,109,26,219,2026-09-06,Pending,Charge Sheet,3,29,Further investigation required
+171,38,33,32,2026-08-26,Filed,Charge Sheet,2,6,Accused absconding
+172,158,14,49,2025-02-18,Filed,Charge Sheet,4,12,Charge sheet accepted
+173,490,39,479,2025-06-21,Filed,Charge Sheet,4,7,Charge sheet accepted
+174,119,19,118,2025-02-09,Filed,Charge Sheet,5,19,Awaiting FSL report
+175,115,1,176,2026-09-05,Filed,Charge Sheet,14,19,Awaiting FSL report
+176,176,10,58,2025-03-19,Filed,Charge Sheet,7,23,Awaiting FSL report
+177,374,23,343,2025-08-27,Filed,Charge Sheet,6,11,Charge sheet accepted
+178,182,38,271,2026-12-02,Filed,Charge Sheet,7,23,Awaiting FSL report
+179,145,3,47,2025-04-07,Filed,Charge Sheet,8,13,Evidence sufficient
+180,370,5,99,2026-02-05,Pending,Charge Sheet,2,34,Supplementary charge sheet likely
+181,391,49,196,2026-01-21,Pending,Charge Sheet,14,16,Forensic report attached
+182,196,7,273,2025-11-10,Filed,Charge Sheet,13,29,Witness statements completed
+183,405,15,212,2025-01-16,Returned by Court,Charge Sheet,6,30,Supplementary charge sheet likely
+184,276,52,231,2024-11-15,Filed,Charge Sheet,3,34,Awaiting FSL report
+185,455,1,162,2026-02-15,Pending,Charge Sheet,4,30,Accused absconding
+186,142,30,372,2025-07-14,Filed,Charge Sheet,4,13,Supplementary charge sheet likely
+187,366,30,372,2025-05-08,Pending,Charge Sheet,3,19,Further investigation required
+188,68,27,466,2025-05-12,Pending,Charge Sheet,12,28,Charge sheet accepted
+189,211,34,381,2026-07-30,Filed,Charge Sheet,2,13,Further investigation required
+190,169,42,281,2025-03-21,Filed,Charge Sheet,6,23,Charge sheet accepted
+191,494,9,234,2025-07-25,Filed,Charge Sheet,2,24,Accused absconding
+192,376,27,425,2026-02-08,Filed,Charge Sheet,9,34,Awaiting FSL report
+193,401,31,372,2025-05-07,Filed,Charge Sheet,2,14,Supplementary charge sheet likely
+194,273,37,446,2026-07-28,Filed,Closure Report,4,17,Supplementary charge sheet likely
+195,110,29,372,2026-08-17,Filed,Charge Sheet,10,18,Witness statements completed
+196,249,44,301,2025-07-10,Filed,Charge Sheet,11,18,Awaiting FSL report
+197,146,1,162,2025-09-22,Filed,Charge Sheet,9,35,Forensic report attached
+198,93,14,58,2025-09-22,Filed,Charge Sheet,10,33,Accused absconding
+199,153,23,410,2025-09-14,Filed,Charge Sheet,3,35,Supplementary charge sheet likely
+200,368,44,113,2024-09-16,Filed,Charge Sheet,11,5,Evidence sufficient
+201,468,21,237,2026-04-08,Filed,Charge Sheet,11,11,Further investigation required
+202,84,5,399,2025-10-25,Filed,Charge Sheet,15,12,Accused absconding
+203,246,15,257,2025-03-19,Pending,Charge Sheet,6,32,Witness statements completed
+204,166,37,147,2025-03-14,Filed,Charge Sheet,3,26,Evidence sufficient
+205,164,16,289,2026-06-05,Filed,Charge Sheet,5,23,Accused absconding
+206,200,23,194,2026-07-25,Filed,Charge Sheet,13,18,Further investigation required
+207,229,37,146,2026-07-31,Filed,Charge Sheet,10,23,Further investigation required
+208,75,28,224,2025-09-26,Filed,Closure Report,2,28,Awaiting FSL report
+209,479,48,451,2026-06-22,Filed,Charge Sheet,9,32,Charge sheet accepted
+210,359,1,433,2025-10-18,Filed,Charge Sheet,9,7,Further investigation required
+211,251,35,336,2026-05-08,Filed,Charge Sheet,6,24,Accused absconding
+212,120,41,472,2026-05-31,Returned by Court,Charge Sheet,9,21,Charge sheet accepted
+213,311,34,69,2025-02-14,Pending,Charge Sheet,12,25,Forensic report attached
+214,300,9,351,2026-09-22,Filed,Charge Sheet,7,31,Supplementary charge sheet likely
+215,256,26,349,2025-01-24,Filed,Charge Sheet,8,15,Awaiting FSL report
+216,355,5,57,2025-04-03,Returned by Court,Charge Sheet,9,7,Further investigation required
+217,400,10,3,2025-07-28,Filed,Charge Sheet,13,16,Witness statements completed
+218,226,28,224,2026-01-09,Filed,Closure Report,10,15,Further investigation required
+219,354,32,414,2026-11-04,Filed,Charge Sheet,14,18,Evidence sufficient
+220,235,3,391,2025-01-29,Filed,Charge Sheet,11,21,Forensic report attached
+221,383,45,327,2025-07-21,Filed,Charge Sheet,3,16,Accused absconding
+222,275,4,284,2024-12-12,Pending,Charge Sheet,14,18,Evidence sufficient
+223,37,34,381,2026-01-18,Filed,Charge Sheet,14,14,Accused absconding
+224,197,23,270,2024-12-25,Filed,Closure Report,11,26,Charge sheet accepted
+225,140,18,395,2025-08-17,Filed,Charge Sheet,2,7,Forensic report attached
+226,365,33,92,2026-01-15,Filed,Charge Sheet,7,14,Accused absconding
+227,245,38,158,2026-06-14,Filed,Closure Report,4,10,Evidence sufficient
+228,440,23,478,2026-01-05,Filed,Charge Sheet,9,24,Supplementary charge sheet likely
+229,287,38,98,2025-02-10,Filed,Charge Sheet,3,16,Charge sheet accepted
+230,60,2,27,2026-09-02,Filed,Charge Sheet,9,21,Awaiting FSL report
+231,112,37,158,2025-08-29,Filed,Closure Report,2,5,Forensic report attached
+232,90,25,78,2025-01-25,Returned by Court,Charge Sheet,14,13,Awaiting FSL report
+233,437,30,285,2026-07-17,Filed,Charge Sheet,8,10,Witness statements completed
+234,7,23,426,2025-01-29,Filed,Charge Sheet,10,31,Accused absconding
+235,361,16,210,2025-04-23,Filed,Charge Sheet,8,5,Supplementary charge sheet likely
+236,347,33,92,2025-03-30,Pending,Charge Sheet,11,17,Charge sheet accepted
+237,339,32,411,2025-06-12,Filed,Charge Sheet,7,10,Supplementary charge sheet likely
+238,159,2,131,2025-04-30,Filed,Charge Sheet,5,18,Charge sheet accepted
+239,151,42,304,2026-04-16,Filed,Closure Report,13,15,Forensic report attached
+240,178,10,430,2025-09-16,Pending,Charge Sheet,12,8,Forensic report attached
+241,394,6,1,2024-11-20,Filed,Closure Report,12,31,Witness statements completed
+242,185,38,98,2025-06-23,Filed,Charge Sheet,4,24,Witness statements completed
+243,450,1,441,2026-06-18,Filed,Charge Sheet,9,19,Supplementary charge sheet likely
+244,11,1,176,2026-01-12,Filed,Closure Report,7,32,Accused absconding
+245,381,50,232,2025-05-03,Filed,Charge Sheet,12,14,Awaiting FSL report
+246,104,18,307,2025-03-16,Filed,Charge Sheet,9,19,Evidence sufficient
+247,82,18,307,2025-10-31,Filed,Charge Sheet,12,32,Further investigation required
+248,39,16,289,2026-02-18,Filed,Charge Sheet,14,28,Evidence sufficient
+249,315,28,140,2026-09-13,Returned by Court,Charge Sheet,5,15,Supplementary charge sheet likely
+250,168,3,244,2025-06-01,Filed,Charge Sheet,3,30,Accused absconding

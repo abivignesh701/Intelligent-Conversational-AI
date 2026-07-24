@@ -1,0 +1,301 @@
+ArrestID,CaseMasterID,AccusedID,PolicePersonID,PoliceStationID,ArrestDate,ArrestType,ArrestLocation,BailStatus,ArrestMemoPrepared,MedicalExamination,SeizedItems
+1,265,522,456,150,2026-03-03 03:00:00,Arrest,Workplace,In Custody,Yes,Yes,No Seizure
+2,370,738,99,13,2025-08-26 18:00:00,Arrest,Residence,In Custody,Yes,Yes,No Seizure
+3,372,741,258,32,2026-02-03 22:00:00,Arrest,Village,Judicial Custody,No,No,Knife
+4,333,661,169,109,2025-01-14 05:00:00,Arrest,Hotel,In Custody,Yes,No,Mobile Phone
+5,202,412,418,145,2026-04-06 12:00:00,Arrest,Hotel,Judicial Custody,Yes,No,No Seizure
+6,344,679,242,115,2025-03-31 12:00:00,Arrest,Workplace,On Bail,No,Yes,Mobile Phone
+7,317,627,314,36,2025-10-18 21:00:00,Arrest,Workplace,On Bail,Yes,Yes,Documents
+8,260,514,327,157,2026-05-24 14:00:00,Arrest,Hotel,In Custody,No,Yes,Laptop
+9,434,860,296,107,2025-10-29 21:00:00,Arrest,City,Judicial Custody,Yes,Yes,Firearm
+10,64,137,332,36,2026-05-09 08:00:00,Preventive Custody,Village,In Custody,No,Yes,Cash
+11,410,812,322,177,2026-06-18 01:00:00,Surrender,Public Place,In Custody,Yes,No,Cash
+12,37,77,381,119,2026-01-03 15:00:00,Arrest,Market Area,In Custody,Yes,Yes,No Seizure
+13,323,637,130,174,2026-06-26 08:00:00,Surrender,Public Place,On Bail,No,No,Cash
+14,488,974,179,151,2025-09-07 16:00:00,Arrest,Residence,On Bail,Yes,Yes,Documents
+15,473,939,153,42,2025-03-05 02:00:00,Arrest,City,On Bail,No,Yes,Mobile Phone
+16,453,900,218,82,2025-04-23 17:00:00,Surrender,Hotel,In Custody,No,Yes,Firearm
+17,136,281,40,128,2024-09-11 23:00:00,Surrender,Workplace,On Bail,Yes,Yes,Laptop
+18,446,884,217,140,2026-04-09 20:00:00,Arrest,Highway Checkpost,In Custody,Yes,Yes,Gold Jewellery
+19,380,762,463,56,2026-02-24 00:00:00,Arrest,Hotel,On Bail,No,Yes,Knife
+20,153,320,410,85,2025-08-30 18:00:00,Preventive Custody,Bus Stand,Judicial Custody,Yes,Yes,Vehicle
+21,280,550,362,109,2026-03-16 15:00:00,Preventive Custody,Railway Station,In Custody,No,Yes,No Seizure
+22,84,175,399,18,2025-08-11 23:00:00,Arrest,Workplace,In Custody,No,No,No Seizure
+23,184,372,322,177,2025-07-05 03:00:00,Arrest,Bus Stand,In Custody,Yes,Yes,Knife
+24,269,528,303,115,2024-08-07 22:00:00,Arrest,Highway Checkpost,In Custody,Yes,No,Mobile Phone
+25,105,211,126,35,2026-01-01 07:00:00,Arrest,Market Area,In Custody,Yes,No,Cash
+26,114,236,427,181,2026-08-20 15:00:00,Surrender,Highway Checkpost,In Custody,No,No,Documents
+27,49,102,342,56,2025-06-03 14:00:00,Surrender,Residence,Judicial Custody,Yes,Yes,Documents
+28,495,987,117,137,2026-02-25 10:00:00,Surrender,Bus Stand,In Custody,Yes,No,Vehicle
+29,455,903,162,2,2025-12-18 05:00:00,Arrest,Highway Checkpost,On Bail,Yes,No,No Seizure
+30,478,948,487,141,2026-04-13 01:00:00,Arrest,Village,On Bail,Yes,Yes,Vehicle
+31,172,347,470,39,2025-08-19 15:00:00,Arrest,Public Place,On Bail,Yes,No,Knife
+32,65,140,10,123,2026-03-23 08:00:00,Preventive Custody,Market Area,In Custody,No,Yes,Cash
+33,315,622,140,98,2026-05-28 06:00:00,Preventive Custody,City,Judicial Custody,Yes,No,Knife
+34,253,500,98,131,2025-06-24 18:00:00,Arrest,Village,In Custody,Yes,Yes,Mobile Phone
+35,183,371,161,52,2024-12-17 02:00:00,Arrest,Highway Checkpost,Judicial Custody,Yes,Yes,Mobile Phone
+36,99,199,205,151,2026-05-27 21:00:00,Arrest,Village,In Custody,No,Yes,Gold Jewellery
+37,347,688,92,113,2025-03-11 08:00:00,Arrest,Workplace,Judicial Custody,Yes,Yes,Firearm
+38,298,585,312,146,2024-12-03 18:00:00,Preventive Custody,Bus Stand,Judicial Custody,No,Yes,Gold Jewellery
+39,455,902,162,2,2026-02-14 02:00:00,Surrender,Hotel,In Custody,No,No,No Seizure
+40,29,60,225,140,2025-10-02 21:00:00,Surrender,Workplace,On Bail,Yes,Yes,Laptop
+41,160,329,248,22,2024-09-26 03:00:00,Surrender,Railway Station,In Custody,Yes,No,Cash
+42,47,97,414,110,2025-05-06 20:00:00,Surrender,Village,Judicial Custody,Yes,Yes,Documents
+43,150,313,411,111,2026-10-24 08:00:00,Arrest,Hotel,On Bail,No,Yes,Firearm
+44,489,975,117,137,2025-12-10 22:00:00,Arrest,Residence,In Custody,Yes,Yes,Gold Jewellery
+45,143,300,67,63,2026-06-26 17:00:00,Arrest,Railway Station,In Custody,No,Yes,Gold Jewellery
+46,135,278,155,60,2025-08-03 21:00:00,Arrest,Bus Stand,In Custody,No,Yes,Cash
+47,465,925,285,106,2025-02-18 05:00:00,Preventive Custody,Railway Station,On Bail,Yes,Yes,Gold Jewellery
+48,306,602,210,54,2025-06-10 13:00:00,Surrender,Highway Checkpost,In Custody,Yes,No,Knife
+49,219,440,409,65,2025-06-11 15:00:00,Arrest,Market Area,In Custody,Yes,Yes,Knife
+50,422,838,288,13,2025-03-04 06:00:00,Arrest,Workplace,On Bail,No,No,No Seizure
+51,290,571,254,80,2024-09-15 21:00:00,Preventive Custody,Village,In Custody,Yes,Yes,Laptop
+52,445,880,138,79,2025-10-30 18:00:00,Preventive Custody,Workplace,In Custody,No,No,Gold Jewellery
+53,124,262,317,86,2024-09-17 19:00:00,Preventive Custody,Bus Stand,In Custody,Yes,No,Knife
+54,295,579,293,55,2025-11-23 13:00:00,Arrest,Village,Judicial Custody,Yes,No,Documents
+55,13,24,313,169,2024-12-21 21:00:00,Preventive Custody,City,In Custody,Yes,No,No Seizure
+56,16,31,297,23,2025-02-06 21:00:00,Arrest,Public Place,Judicial Custody,Yes,Yes,Documents
+57,312,618,267,169,2025-04-14 12:00:00,Arrest,Railway Station,Judicial Custody,No,No,No Seizure
+58,6,11,316,132,2026-08-11 00:00:00,Arrest,Highway Checkpost,Judicial Custody,No,No,Firearm
+59,110,222,372,101,2026-06-10 21:00:00,Arrest,Market Area,On Bail,Yes,Yes,Laptop
+60,413,821,176,3,2025-03-07 21:00:00,Arrest,Hotel,In Custody,Yes,No,Cash
+61,142,297,372,101,2025-05-13 06:00:00,Arrest,Residence,In Custody,No,Yes,Firearm
+62,26,55,396,146,2024-11-20 20:00:00,Arrest,Public Place,Judicial Custody,Yes,Yes,Knife
+63,276,543,231,179,2025-01-30 03:00:00,Surrender,Highway Checkpost,In Custody,No,Yes,No Seizure
+64,104,210,307,63,2025-03-03 03:00:00,Arrest,Market Area,Judicial Custody,No,No,No Seizure
+65,308,605,387,134,2026-04-12 17:00:00,Arrest,Railway Station,Judicial Custody,No,No,Laptop
+66,350,693,21,161,2026-10-04 07:00:00,Surrender,Workplace,On Bail,No,Yes,Laptop
+67,334,663,44,149,2026-06-08 02:00:00,Surrender,Highway Checkpost,In Custody,No,Yes,Vehicle
+68,437,867,285,106,2026-04-14 07:00:00,Arrest,Railway Station,Judicial Custody,Yes,No,Documents
+69,35,71,499,33,2025-10-06 17:00:00,Arrest,Residence,In Custody,No,No,Knife
+70,276,544,231,179,2025-01-25 18:00:00,Arrest,Residence,On Bail,No,No,Documents
+71,51,108,400,70,2025-02-27 23:00:00,Surrender,City,On Bail,No,Yes,Laptop
+72,249,494,301,149,2025-04-20 15:00:00,Arrest,Hotel,Judicial Custody,No,Yes,Firearm
+73,302,591,142,92,2026-07-12 04:00:00,Preventive Custody,Village,In Custody,No,Yes,Mobile Phone
+74,373,742,70,25,2026-02-08 13:00:00,Arrest,Market Area,In Custody,No,No,Gold Jewellery
+75,141,293,235,155,2025-09-19 14:00:00,Arrest,Public Place,In Custody,No,No,Mobile Phone
+76,139,290,290,16,2024-12-23 00:00:00,Surrender,Residence,On Bail,No,Yes,Mobile Phone
+77,331,653,58,48,2025-05-10 20:00:00,Arrest,Residence,On Bail,Yes,Yes,Vehicle
+78,20,40,322,177,2026-03-25 04:00:00,Arrest,Bus Stand,Judicial Custody,Yes,No,Laptop
+79,301,590,330,158,2025-11-26 11:00:00,Arrest,City,On Bail,Yes,Yes,Laptop
+80,148,308,414,108,2024-12-28 18:00:00,Arrest,Workplace,Judicial Custody,No,No,Cash
+81,344,680,242,115,2025-03-25 18:00:00,Arrest,Highway Checkpost,In Custody,No,Yes,Knife
+82,33,67,292,169,2026-08-07 17:00:00,Arrest,Hotel,In Custody,No,Yes,Documents
+83,133,276,286,102,2026-09-18 15:00:00,Arrest,Hotel,Judicial Custody,No,Yes,Documents
+84,34,68,255,143,2025-05-14 23:00:00,Arrest,Workplace,Judicial Custody,No,No,Documents
+85,153,319,410,85,2025-11-13 23:00:00,Arrest,Hotel,On Bail,Yes,No,Firearm
+86,280,549,362,109,2026-01-22 14:00:00,Arrest,Public Place,In Custody,No,No,Vehicle
+87,500,999,337,26,2025-12-15 06:00:00,Arrest,Workplace,In Custody,No,Yes,No Seizure
+88,360,715,218,82,2026-01-23 02:00:00,Arrest,Public Place,Judicial Custody,Yes,No,Firearm
+89,378,754,52,71,2025-05-02 00:00:00,Arrest,Highway Checkpost,Judicial Custody,Yes,No,Gold Jewellery
+90,160,328,248,22,2024-11-11 17:00:00,Arrest,Public Place,On Bail,No,No,Firearm
+91,187,383,188,4,2025-02-21 09:00:00,Arrest,Bus Stand,Judicial Custody,No,Yes,No Seizure
+92,226,452,224,100,2025-10-26 22:00:00,Arrest,Highway Checkpost,Judicial Custody,No,No,Mobile Phone
+93,266,523,81,47,2026-01-21 06:00:00,Arrest,Hotel,In Custody,Yes,Yes,Laptop
+94,108,219,238,112,2025-06-20 01:00:00,Arrest,Railway Station,Judicial Custody,No,Yes,Knife
+95,394,788,1,20,2024-10-05 09:00:00,Arrest,Market Area,In Custody,Yes,No,Firearm
+96,217,437,464,100,2026-01-06 02:00:00,Arrest,Bus Stand,Judicial Custody,Yes,Yes,Vehicle
+97,382,765,257,50,2025-06-14 18:00:00,Preventive Custody,Bus Stand,On Bail,Yes,No,Cash
+98,44,89,176,3,2024-12-26 16:00:00,Arrest,Market Area,In Custody,No,No,Knife
+99,31,64,11,159,2026-03-19 23:00:00,Arrest,Highway Checkpost,Judicial Custody,No,Yes,Vehicle
+100,415,827,158,126,2024-09-09 05:00:00,Arrest,Railway Station,In Custody,No,No,Laptop
+101,360,717,218,82,2026-01-03 07:00:00,Arrest,Workplace,Judicial Custody,No,Yes,Cash
+102,174,352,324,83,2026-06-23 08:00:00,Surrender,City,Judicial Custody,Yes,No,Mobile Phone
+103,471,937,24,168,2025-10-26 07:00:00,Arrest,Workplace,On Bail,Yes,Yes,Vehicle
+104,122,257,100,56,2026-05-16 09:00:00,Arrest,City,On Bail,No,Yes,Firearm
+105,322,636,129,142,2026-05-26 09:00:00,Arrest,Workplace,Judicial Custody,No,No,Mobile Phone
+106,328,645,216,85,2026-05-08 01:00:00,Surrender,Hotel,Judicial Custody,Yes,Yes,Cash
+107,282,555,382,64,2026-01-17 18:00:00,Arrest,Residence,On Bail,No,Yes,Vehicle
+108,483,960,379,156,2026-03-18 16:00:00,Arrest,Workplace,In Custody,No,No,Mobile Phone
+109,82,169,307,63,2025-11-16 11:00:00,Arrest,Hotel,Judicial Custody,Yes,No,Documents
+110,462,918,404,30,2025-05-03 15:00:00,Arrest,Public Place,On Bail,Yes,No,Mobile Phone
+111,269,529,303,115,2024-09-07 08:00:00,Arrest,Public Place,On Bail,Yes,No,Documents
+112,414,824,137,63,2024-12-20 06:00:00,Arrest,City,On Bail,No,Yes,Cash
+113,494,986,234,37,2025-04-25 17:00:00,Arrest,Workplace,Judicial Custody,No,Yes,Knife
+114,412,817,321,14,2026-02-08 19:00:00,Surrender,Railway Station,In Custody,Yes,No,Mobile Phone
+115,42,87,233,90,2025-01-31 03:00:00,Arrest,Bus Stand,Judicial Custody,Yes,No,Laptop
+116,216,433,248,22,2025-10-31 22:00:00,Arrest,Market Area,On Bail,Yes,No,No Seizure
+117,89,185,309,29,2024-09-13 12:00:00,Arrest,City,Judicial Custody,Yes,Yes,Laptop
+118,491,979,63,45,2025-04-05 13:00:00,Arrest,Village,In Custody,Yes,No,Laptop
+119,273,535,446,128,2026-09-14 18:00:00,Arrest,Market Area,On Bail,No,No,Gold Jewellery
+120,141,295,235,155,2025-10-04 17:00:00,Surrender,Public Place,Judicial Custody,No,Yes,Cash
+121,449,893,54,7,2025-11-03 12:00:00,Arrest,Public Place,In Custody,No,No,Documents
+122,212,426,30,139,2025-09-08 20:00:00,Preventive Custody,Market Area,On Bail,Yes,No,Mobile Phone
+123,360,714,218,82,2026-04-20 14:00:00,Arrest,Market Area,In Custody,Yes,No,Vehicle
+124,124,261,317,86,2024-08-02 15:00:00,Surrender,Workplace,In Custody,No,Yes,Gold Jewellery
+125,115,238,176,2,2026-07-29 21:00:00,Surrender,Public Place,On Bail,No,Yes,Mobile Phone
+126,284,560,146,129,2025-08-09 20:00:00,Arrest,Workplace,On Bail,Yes,No,Mobile Phone
+127,297,584,70,25,2024-11-04 20:00:00,Surrender,Bus Stand,Judicial Custody,No,Yes,Knife
+128,222,446,230,20,2025-09-28 01:00:00,Arrest,Hotel,Judicial Custody,Yes,No,Vehicle
+129,438,868,24,168,2025-07-08 05:00:00,Arrest,Public Place,Judicial Custody,Yes,No,Vehicle
+130,402,801,250,110,2025-07-28 14:00:00,Arrest,Market Area,In Custody,Yes,No,Laptop
+131,305,600,481,77,2025-01-17 17:00:00,Arrest,Market Area,On Bail,No,No,Laptop
+132,428,850,347,34,2026-03-14 09:00:00,Arrest,Public Place,On Bail,Yes,Yes,Documents
+133,126,266,250,109,2024-10-18 11:00:00,Arrest,Workplace,In Custody,No,No,Knife
+134,498,996,429,12,2025-09-05 21:00:00,Surrender,Residence,On Bail,No,No,Cash
+135,270,530,212,51,2026-05-20 11:00:00,Arrest,Highway Checkpost,Judicial Custody,Yes,Yes,Knife
+136,27,56,35,59,2024-11-09 14:00:00,Arrest,Hotel,Judicial Custody,Yes,No,Gold Jewellery
+137,57,121,218,82,2026-04-05 13:00:00,Arrest,Railway Station,On Bail,No,No,Vehicle
+138,108,216,238,112,2025-07-17 15:00:00,Preventive Custody,Workplace,Judicial Custody,No,Yes,Firearm
+139,14,26,99,13,2025-11-12 04:00:00,Surrender,Highway Checkpost,On Bail,No,No,Mobile Phone
+140,36,73,63,45,2026-06-22 12:00:00,Arrest,Village,In Custody,No,No,Documents
+141,23,45,151,123,2025-02-25 20:00:00,Preventive Custody,Bus Stand,Judicial Custody,No,Yes,No Seizure
+142,118,248,468,133,2025-11-15 19:00:00,Arrest,Bus Stand,Judicial Custody,No,No,Documents
+143,362,722,488,162,2025-10-17 04:00:00,Arrest,Residence,In Custody,No,Yes,Mobile Phone
+144,136,282,40,128,2024-10-11 17:00:00,Arrest,Market Area,In Custody,No,Yes,Documents
+145,450,894,441,1,2026-07-22 03:00:00,Surrender,City,Judicial Custody,No,Yes,Gold Jewellery
+146,460,915,408,27,2024-10-14 14:00:00,Arrest,Highway Checkpost,On Bail,Yes,No,No Seizure
+147,409,811,127,113,2025-07-14 20:00:00,Arrest,Public Place,In Custody,Yes,No,Mobile Phone
+148,117,245,463,56,2026-01-19 06:00:00,Arrest,City,On Bail,Yes,No,Cash
+149,414,823,137,63,2024-12-30 18:00:00,Arrest,Village,In Custody,Yes,Yes,Gold Jewellery
+150,155,322,124,120,2025-04-10 04:00:00,Surrender,City,In Custody,Yes,Yes,No Seizure
+151,327,644,3,28,2026-06-26 05:00:00,Arrest,Residence,In Custody,No,Yes,Gold Jewellery
+152,78,159,348,125,2025-02-01 05:00:00,Arrest,Railway Station,Judicial Custody,Yes,Yes,Firearm
+153,491,978,63,45,2025-02-23 11:00:00,Arrest,Bus Stand,Judicial Custody,Yes,Yes,No Seizure
+154,215,430,72,31,2026-08-17 14:00:00,Arrest,Residence,In Custody,No,No,Documents
+155,475,942,60,156,2026-08-01 03:00:00,Arrest,Market Area,In Custody,Yes,No,Vehicle
+156,232,463,22,89,2025-10-03 04:00:00,Arrest,City,Judicial Custody,No,No,No Seizure
+157,149,310,451,163,2025-04-11 14:00:00,Arrest,Public Place,In Custody,Yes,Yes,Documents
+158,351,698,318,39,2025-10-09 07:00:00,Arrest,Market Area,In Custody,Yes,No,Documents
+159,30,61,272,97,2026-04-05 21:00:00,Arrest,Railway Station,Judicial Custody,No,Yes,Mobile Phone
+160,446,885,217,140,2026-04-08 02:00:00,Arrest,Bus Stand,Judicial Custody,No,Yes,No Seizure
+161,303,596,251,147,2025-09-23 18:00:00,Preventive Custody,Village,In Custody,Yes,No,Gold Jewellery
+162,383,768,327,157,2025-09-01 21:00:00,Preventive Custody,Public Place,On Bail,Yes,No,Laptop
+163,329,650,288,13,2026-05-22 03:00:00,Arrest,Highway Checkpost,In Custody,No,Yes,Mobile Phone
+164,330,651,391,8,2026-04-12 17:00:00,Arrest,Workplace,Judicial Custody,No,Yes,Laptop
+165,437,866,285,106,2026-03-29 05:00:00,Arrest,Workplace,On Bail,No,Yes,Vehicle
+166,338,669,140,98,2025-10-09 04:00:00,Arrest,Public Place,In Custody,Yes,Yes,No Seizure
+167,143,299,67,63,2026-05-10 12:00:00,Arrest,Hotel,In Custody,No,No,Mobile Phone
+168,348,690,344,142,2026-02-18 01:00:00,Arrest,City,In Custody,Yes,No,Firearm
+169,151,315,304,145,2026-01-26 13:00:00,Arrest,Market Area,Judicial Custody,Yes,Yes,Gold Jewellery
+170,149,311,451,163,2025-04-29 03:00:00,Arrest,City,Judicial Custody,No,Yes,Cash
+171,177,362,469,130,2025-07-18 19:00:00,Arrest,Highway Checkpost,In Custody,Yes,Yes,Laptop
+172,240,480,255,143,2025-06-27 10:00:00,Arrest,Market Area,Judicial Custody,Yes,Yes,Documents
+173,52,111,196,167,2025-04-10 22:00:00,Arrest,Village,On Bail,No,Yes,Documents
+174,496,990,31,1,2025-08-28 23:00:00,Arrest,Residence,Judicial Custody,Yes,No,Documents
+175,244,487,65,75,2025-02-28 12:00:00,Surrender,Public Place,In Custody,No,Yes,Gold Jewellery
+176,179,364,57,18,2025-07-16 19:00:00,Arrest,Hotel,In Custody,Yes,Yes,Documents
+177,120,255,472,139,2026-04-09 12:00:00,Arrest,Public Place,On Bail,No,Yes,Gold Jewellery
+178,123,260,118,68,2025-11-16 05:00:00,Arrest,Bus Stand,Judicial Custody,Yes,No,Gold Jewellery
+179,403,803,450,103,2026-08-05 20:00:00,Surrender,Highway Checkpost,In Custody,No,Yes,Vehicle
+180,343,678,362,109,2025-02-24 04:00:00,Surrender,Bus Stand,In Custody,No,No,Firearm
+181,249,495,301,149,2025-05-22 18:00:00,Arrest,City,In Custody,No,Yes,Firearm
+182,339,671,411,111,2025-03-08 15:00:00,Arrest,Workplace,On Bail,Yes,No,No Seizure
+183,186,378,253,141,2026-04-14 09:00:00,Arrest,Residence,In Custody,No,Yes,Mobile Phone
+184,268,527,239,18,2026-01-23 19:00:00,Arrest,Market Area,Judicial Custody,Yes,No,Cash
+185,425,846,393,73,2025-02-25 19:00:00,Arrest,Railway Station,On Bail,No,Yes,Gold Jewellery
+186,64,138,332,36,2026-06-21 02:00:00,Arrest,Railway Station,In Custody,No,No,No Seizure
+187,175,356,104,179,2025-02-11 19:00:00,Arrest,Hotel,On Bail,No,No,Gold Jewellery
+188,181,366,250,109,2026-02-14 19:00:00,Arrest,Hotel,In Custody,Yes,No,Laptop
+189,475,943,60,156,2026-06-07 23:00:00,Surrender,City,On Bail,No,Yes,Vehicle
+190,376,750,425,92,2026-03-11 11:00:00,Arrest,Public Place,In Custody,Yes,No,No Seizure
+191,479,949,451,163,2026-03-15 20:00:00,Surrender,Railway Station,Judicial Custody,Yes,No,No Seizure
+192,416,830,372,101,2025-03-03 00:00:00,Arrest,Railway Station,On Bail,No,No,Cash
+193,332,657,255,143,2026-03-11 04:00:00,Arrest,Workplace,On Bail,Yes,Yes,Gold Jewellery
+194,99,200,205,151,2026-07-25 19:00:00,Arrest,Public Place,In Custody,Yes,Yes,Firearm
+195,106,214,162,5,2024-10-17 13:00:00,Arrest,Highway Checkpost,On Bail,No,No,Cash
+196,200,409,194,86,2026-08-28 07:00:00,Arrest,Market Area,On Bail,Yes,No,Firearm
+197,163,333,116,34,2026-07-05 09:00:00,Surrender,Village,Judicial Custody,Yes,Yes,Vehicle
+198,104,209,307,63,2025-05-22 08:00:00,Arrest,Market Area,On Bail,Yes,Yes,Laptop
+199,310,614,97,15,2026-05-12 05:00:00,Arrest,Village,In Custody,No,Yes,Cash
+200,37,79,381,119,2026-01-24 14:00:00,Surrender,Residence,Judicial Custody,No,No,Cash
+201,16,30,297,23,2025-02-16 02:00:00,Arrest,Residence,In Custody,Yes,No,Vehicle
+202,273,536,446,128,2026-06-16 01:00:00,Arrest,Market Area,Judicial Custody,Yes,No,Firearm
+203,350,696,21,161,2026-09-16 00:00:00,Preventive Custody,Residence,In Custody,Yes,No,Mobile Phone
+204,283,558,414,108,2025-05-08 09:00:00,Arrest,Bus Stand,In Custody,No,No,Mobile Phone
+205,421,837,127,113,2025-11-03 15:00:00,Arrest,Residence,Judicial Custody,Yes,Yes,Laptop
+206,303,597,251,147,2025-11-09 00:00:00,Arrest,Highway Checkpost,Judicial Custody,Yes,Yes,No Seizure
+207,81,166,213,74,2025-03-15 02:00:00,Preventive Custody,Village,Judicial Custody,Yes,No,Firearm
+208,462,919,404,30,2025-02-09 20:00:00,Arrest,Hotel,In Custody,Yes,No,Mobile Phone
+209,250,496,69,116,2025-04-21 07:00:00,Surrender,Bus Stand,On Bail,No,Yes,Knife
+210,414,825,137,63,2025-01-28 17:00:00,Arrest,Railway Station,On Bail,No,No,Vehicle
+211,33,66,292,169,2026-10-05 04:00:00,Arrest,Market Area,In Custody,Yes,Yes,Cash
+212,66,142,386,166,2025-04-27 01:00:00,Arrest,Workplace,Judicial Custody,No,No,Knife
+213,465,926,285,106,2025-02-04 20:00:00,Arrest,Hotel,On Bail,Yes,No,Laptop
+214,415,828,158,126,2024-08-25 11:00:00,Arrest,Public Place,Judicial Custody,No,No,Vehicle
+215,332,656,255,143,2026-04-15 22:00:00,Arrest,Village,In Custody,Yes,No,Mobile Phone
+216,162,332,51,125,2025-02-28 19:00:00,Preventive Custody,Railway Station,Judicial Custody,No,Yes,Mobile Phone
+217,336,665,401,19,2025-02-10 21:00:00,Arrest,Market Area,Judicial Custody,No,Yes,Firearm
+218,119,250,118,68,2024-12-24 14:00:00,Arrest,Hotel,Judicial Custody,No,No,Knife
+219,457,908,134,160,2025-08-12 21:00:00,Arrest,Hotel,Judicial Custody,Yes,Yes,Vehicle
+220,358,709,197,98,2025-01-25 19:00:00,Arrest,Market Area,In Custody,Yes,Yes,Gold Jewellery
+221,147,306,412,85,2026-02-15 12:00:00,Preventive Custody,Residence,Judicial Custody,No,No,Gold Jewellery
+222,368,735,113,146,2024-09-19 02:00:00,Arrest,Village,In Custody,No,No,Cash
+223,490,976,479,135,2025-01-12 00:00:00,Surrender,Market Area,Judicial Custody,Yes,No,Laptop
+224,24,50,190,153,2026-09-11 14:00:00,Arrest,City,In Custody,No,Yes,Mobile Phone
+225,452,897,234,37,2025-07-17 02:00:00,Arrest,Market Area,On Bail,No,No,Mobile Phone
+226,2,3,438,172,2025-04-17 17:00:00,Arrest,Workplace,On Bail,Yes,No,No Seizure
+227,277,545,490,147,2025-09-23 03:00:00,Preventive Custody,Railway Station,In Custody,No,Yes,Gold Jewellery
+228,173,351,494,134,2026-04-20 18:00:00,Arrest,Village,In Custody,Yes,Yes,Laptop
+229,455,905,162,2,2025-12-14 22:00:00,Surrender,Village,Judicial Custody,No,Yes,Vehicle
+230,274,537,450,103,2024-12-07 20:00:00,Arrest,Market Area,Judicial Custody,No,Yes,No Seizure
+231,170,345,70,25,2026-08-17 18:00:00,Arrest,Railway Station,Judicial Custody,Yes,Yes,No Seizure
+232,498,995,429,12,2025-07-14 09:00:00,Arrest,Hotel,On Bail,Yes,No,No Seizure
+233,241,482,17,148,2026-01-08 09:00:00,Surrender,Workplace,In Custody,No,Yes,Laptop
+234,294,576,443,36,2026-03-27 17:00:00,Arrest,Railway Station,Judicial Custody,Yes,Yes,Gold Jewellery
+235,17,34,251,147,2026-01-06 18:00:00,Arrest,Residence,In Custody,No,Yes,Documents
+236,16,32,297,23,2025-03-18 20:00:00,Arrest,Village,In Custody,No,No,Cash
+237,113,232,208,97,2025-03-12 21:00:00,Arrest,Market Area,In Custody,Yes,Yes,Firearm
+238,484,964,494,134,2026-05-22 15:00:00,Arrest,Hotel,Judicial Custody,No,No,Gold Jewellery
+239,95,193,238,112,2025-06-14 04:00:00,Surrender,Village,Judicial Custody,No,Yes,Firearm
+240,164,334,289,55,2026-04-18 08:00:00,Arrest,Railway Station,In Custody,No,No,Documents
+241,2,4,438,172,2025-03-09 05:00:00,Surrender,City,Judicial Custody,Yes,Yes,Firearm
+242,102,205,322,177,2026-01-30 14:00:00,Arrest,Workplace,Judicial Custody,Yes,No,No Seizure
+243,260,515,327,157,2026-06-16 07:00:00,Arrest,Hotel,In Custody,No,No,Firearm
+244,401,800,372,101,2025-01-29 17:00:00,Arrest,Bus Stand,Judicial Custody,No,No,Documents
+245,148,307,414,108,2025-01-30 01:00:00,Arrest,City,Judicial Custody,No,No,Mobile Phone
+246,52,110,196,167,2025-03-22 16:00:00,Arrest,Village,In Custody,Yes,Yes,Mobile Phone
+247,215,431,72,31,2026-08-29 11:00:00,Surrender,Hotel,Judicial Custody,No,Yes,Cash
+248,37,78,381,119,2025-12-28 16:00:00,Arrest,Residence,In Custody,Yes,No,Firearm
+249,41,85,455,18,2024-10-30 14:00:00,Arrest,Village,In Custody,No,Yes,Documents
+250,137,287,412,83,2026-04-10 23:00:00,Surrender,City,In Custody,No,No,Firearm
+251,41,83,455,18,2024-12-07 00:00:00,Arrest,Bus Stand,On Bail,No,Yes,Firearm
+252,497,992,82,4,2024-12-22 20:00:00,Surrender,City,Judicial Custody,Yes,No,Vehicle
+253,396,790,380,122,2025-08-04 20:00:00,Surrender,Public Place,In Custody,Yes,Yes,Mobile Phone
+254,451,895,500,40,2026-02-03 00:00:00,Arrest,Public Place,In Custody,Yes,No,No Seizure
+255,195,399,291,60,2026-07-13 19:00:00,Preventive Custody,Residence,Judicial Custody,Yes,No,Firearm
+256,157,324,361,171,2025-11-26 12:00:00,Arrest,Railway Station,Judicial Custody,No,No,Laptop
+257,264,520,218,82,2026-06-02 15:00:00,Arrest,Highway Checkpost,In Custody,No,Yes,Laptop
+258,461,917,353,161,2025-05-23 09:00:00,Surrender,Market Area,In Custody,No,No,Laptop
+259,465,923,285,106,2024-11-15 18:00:00,Arrest,Public Place,On Bail,No,No,Vehicle
+260,4,6,57,14,2026-02-11 01:00:00,Arrest,Bus Stand,In Custody,No,No,Firearm
+261,367,732,479,135,2026-01-12 06:00:00,Surrender,Workplace,On Bail,No,Yes,Mobile Phone
+262,233,466,362,110,2026-02-08 23:00:00,Arrest,Highway Checkpost,In Custody,Yes,Yes,Knife
+263,48,98,81,47,2025-11-05 13:00:00,Arrest,Market Area,In Custody,Yes,Yes,No Seizure
+264,126,267,250,109,2024-12-02 05:00:00,Arrest,Market Area,Judicial Custody,Yes,No,Gold Jewellery
+265,176,358,58,48,2024-11-06 20:00:00,Arrest,Bus Stand,Judicial Custody,Yes,Yes,Vehicle
+266,438,869,24,168,2025-08-09 05:00:00,Preventive Custody,Residence,On Bail,No,No,Vehicle
+267,401,799,372,101,2025-04-22 23:00:00,Preventive Custody,Workplace,On Bail,Yes,No,Mobile Phone
+268,187,381,188,4,2025-05-16 10:00:00,Arrest,Village,Judicial Custody,Yes,No,Laptop
+269,321,632,25,150,2026-07-21 03:00:00,Arrest,Market Area,Judicial Custody,Yes,Yes,Gold Jewellery
+270,187,382,188,4,2025-04-29 09:00:00,Arrest,Highway Checkpost,In Custody,No,No,No Seizure
+271,247,491,176,3,2025-06-14 02:00:00,Arrest,Bus Stand,In Custody,Yes,No,Gold Jewellery
+272,55,119,442,45,2026-02-01 07:00:00,Arrest,Public Place,In Custody,No,No,Laptop
+273,454,901,250,110,2025-04-01 23:00:00,Arrest,Workplace,Judicial Custody,Yes,Yes,Mobile Phone
+274,119,251,118,68,2025-01-08 09:00:00,Arrest,Village,On Bail,No,Yes,Laptop
+275,266,524,81,47,2025-11-23 19:00:00,Arrest,Railway Station,Judicial Custody,No,No,Documents
+276,5,10,240,95,2026-02-20 17:00:00,Preventive Custody,Village,On Bail,Yes,Yes,Mobile Phone
+277,99,197,205,151,2026-06-10 14:00:00,Arrest,Hotel,In Custody,Yes,Yes,No Seizure
+278,307,604,63,45,2026-08-25 16:00:00,Arrest,Village,In Custody,No,No,Mobile Phone
+279,40,82,210,54,2026-03-10 06:00:00,Surrender,Market Area,In Custody,No,Yes,Firearm
+280,391,784,196,167,2025-10-26 16:00:00,Arrest,City,In Custody,No,No,Knife
+281,300,588,351,33,2026-06-24 08:00:00,Surrender,Highway Checkpost,Judicial Custody,Yes,No,Gold Jewellery
+282,400,798,3,28,2025-09-04 02:00:00,Arrest,Residence,On Bail,Yes,No,Knife
+283,115,240,176,2,2026-05-17 13:00:00,Arrest,Railway Station,On Bail,No,No,Documents
+284,139,291,290,16,2024-12-20 12:00:00,Arrest,Village,In Custody,No,Yes,Vehicle
+285,105,212,126,35,2026-01-04 12:00:00,Arrest,Highway Checkpost,On Bail,Yes,No,Firearm
+286,361,718,210,54,2025-05-31 23:00:00,Arrest,Village,In Custody,Yes,Yes,Firearm
+287,177,360,469,130,2025-07-12 04:00:00,Arrest,Bus Stand,In Custody,No,Yes,Cash
+288,225,450,457,180,2025-10-13 02:00:00,Arrest,Residence,Judicial Custody,Yes,Yes,Knife
+289,112,228,158,126,2025-09-08 14:00:00,Arrest,Highway Checkpost,On Bail,Yes,Yes,No Seizure
+290,479,951,451,163,2026-03-04 07:00:00,Surrender,City,In Custody,No,Yes,Laptop
+291,478,947,487,141,2026-07-22 04:00:00,Preventive Custody,Village,In Custody,No,No,Knife
+292,400,797,3,28,2025-08-17 18:00:00,Surrender,Railway Station,Judicial Custody,No,No,Knife
+293,254,502,252,142,2026-08-25 20:00:00,Arrest,Village,In Custody,No,No,Vehicle
+294,233,465,362,110,2025-12-30 12:00:00,Arrest,Village,Judicial Custody,Yes,No,Vehicle
+295,178,363,430,40,2025-09-04 14:00:00,Preventive Custody,Village,Judicial Custody,No,Yes,Documents
+296,234,469,43,42,2025-02-09 08:00:00,Arrest,Bus Stand,On Bail,No,Yes,No Seizure
+297,471,936,24,168,2025-11-18 06:00:00,Arrest,Public Place,Judicial Custody,Yes,Yes,Cash
+298,215,429,72,31,2026-10-20 18:00:00,Surrender,Village,In Custody,Yes,No,Laptop
+299,4,8,57,14,2026-05-01 00:00:00,Arrest,Highway Checkpost,On Bail,Yes,No,Cash
+300,75,156,224,100,2025-08-01 19:00:00,Surrender,Public Place,On Bail,No,No,Documents

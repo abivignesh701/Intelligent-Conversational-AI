@@ -1,0 +1,701 @@
+VictimID,CaseMasterID,FullName,Gender,Age,DOB,MobileNumber,AadhaarNumber,Occupation,Address,DistrictID,DistrictName,InjuryType,InjurySeverity,Hospitalized,VictimStatus,StatementRecorded
+1,1,Advik Maharaj,Male,14,1961-05-16,9914736535,270957763063,Software Engineer,"81/960, Chander Nagar, Muzaffarpur-838637",12,Davanagere,Minor Injury,Low,No,Alive,No
+2,1,Aarini Dutta,Female,42,1999-11-25,9906516371,548327634657,Lawyer,"351, Rai Zila, Secunderabad 940781",12,Davanagere,No Physical Injury,Medium,Yes,Alive,No
+3,2,Chaaya Memon,Female,12,2011-01-21,9989238109,674857331688,Retired,"10/341, Chaudhuri Ganj, Alwar 525534",29,Vijayanagara,No Physical Injury,Medium,Yes,Alive,Yes
+4,2,Harinakshi Walla,Female,7,2002-07-14,9912848695,986758587422,Engineer,"48, Nair Ganj, Berhampur-564139",29,Vijayanagara,Major Injury,High,No,Alive,Yes
+5,3,Jagvi Tata,Female,57,1974-03-09,9877238013,124340837908,Shop Keeper,"H.No. 23, Yohannan Circle, Bhimavaram-965328",21,Mandya,Major Injury,High,Yes,Alive,No
+6,4,Chandani Batta,Female,50,2013-10-01,9988857784,243677899595,Teacher,"69/166, Sidhu, Begusarai-184514",3,Belagavi,Major Injury,High,No,Alive,Yes
+7,4,Gaurangi Setty,Female,24,1940-10-31,9872343829,484709209002,Doctor,"14/89, Dua Ganj, Nanded 957015",3,Belagavi,Fatal Injury,Critical,Yes,Deceased,Yes
+8,5,Kashvi Bhardwaj,Female,15,1961-01-12,9919423697,713595939158,Mechanic,"71/822, Gandhi Chowk, Dehri 383465",15,Hassan,Minor Injury,Low,Yes,Alive,Yes
+9,6,Yauvani Seth,Female,69,1950-11-04,9906060444,384115669748,Housewife,"H.No. 09, Karpe Circle, Chennai-031051",22,Mysuru,Major Injury,High,Yes,Alive,Yes
+10,6,Maya Sunder,Female,58,1958-10-08,9887563434,322585512452,Shop Keeper,"763, Chatterjee Zila, Raichur-670106",22,Mysuru,Major Injury,High,No,Alive,Yes
+11,7,Chatura Kothari,Male,38,1956-11-04,9884263539,534327379617,Journalist,"24, Krish Chowk, Mango-080132",13,Dharwad,Minor Injury,Low,No,Alive,Yes
+12,8,Xavier Srivastava,Male,38,1958-09-22,9883371002,967102439281,Shop Keeper,"606, Sha Road, Bhusawal-234309",14,Gadag,Minor Injury,Low,Yes,Alive,Yes
+13,9,Naksh Bhandari,Male,20,1944-10-26,9985391767,254489366792,Teacher,"H.No. 812, Bir Zila, Sambhal-939909",11,Dakshina Kannada,Minor Injury,Low,Yes,Alive,Yes
+14,10,Shaurya Virk,Male,71,1967-06-14,9871464022,802275811212,Farmer,"53/462, Shankar Road, Srinagar 799118",20,Koppal,Minor Injury,Low,Yes,Alive,No
+15,10,Yashica Lanka,Female,57,1951-10-26,9874342545,876026850785,Lawyer,"542, Mittal Chowk, Begusarai 124118",20,Koppal,Fatal Injury,Critical,No,Deceased,No
+16,11,Madhavi Manda,Female,24,1991-12-20,9914894431,144647002178,Student,"48/740, Sampath Zila, Varanasi 524278",1,Bagalkote,Fatal Injury,Critical,No,Deceased,No
+17,12,Aayush Choudhury,Male,25,1946-12-15,9913767259,461962155099,Software Engineer,"H.No. 98, Sani Street, Kalyan-Dombivli-505331",19,Kolar,Major Injury,High,Yes,Alive,No
+18,13,Tanvi Dubey,Female,66,2019-04-01,9962892539,588274958225,Shop Keeper,"602, Sabharwal Path, Shimoga-160733",29,Vijayanagara,No Physical Injury,Medium,Yes,Alive,No
+19,13,Pushti Mody,Female,45,2010-04-21,9895543165,270778368940,Journalist,"H.No. 365, Boase Road, Etawah-850142",29,Vijayanagara,Major Injury,High,No,Alive,Yes
+20,14,Anjali Chopra,Female,13,1991-04-08,9919018907,263036596845,Driver,"98, Rajan Zila, Rohtak 608835",3,Belagavi,Major Injury,High,No,Alive,Yes
+21,14,Bakhshi Narayanan,Male,56,1993-07-11,9877711203,034246116364,Driver,"46/56, Datta Road, Bidar 299468",3,Belagavi,Major Injury,High,No,Alive,No
+22,15,Nidra Mangat,Female,33,1958-06-04,9960896143,564281342559,Private Employee,"73, Solanki Circle, Guwahati 895134",12,Davanagere,Minor Injury,Low,No,Alive,Yes
+23,16,Hardik Din,Male,78,1942-08-20,9964927636,667686963457,Mechanic,"17/69, Rajagopalan Ganj, Silchar-201632",4,Bengaluru Rural,Minor Injury,Low,No,Alive,No
+24,16,Aryan Krish,Male,26,2018-07-17,9887835219,992884072663,Nurse,"788, Nadig, Pudukkottai 872774",4,Bengaluru Rural,Fatal Injury,Critical,No,Deceased,Yes
+25,17,Manya Verma,Female,2,1981-09-30,9895466589,120859208934,Farmer,"14, Magar Ganj, Imphal-223623",25,Shivamogga,Minor Injury,Low,No,Alive,No
+26,17,Sarthak Reddy,Male,13,1968-09-06,9888146794,714044903498,Government Employee,"H.No. 366, Bahri, Morena-546688",25,Shivamogga,Minor Injury,Low,No,Alive,Yes
+27,18,Widisha Kanda,Female,36,1963-10-04,9889980269,039728558277,Electrician,"56, Sibal Street, Deoghar-699016",24,Ramanagara,Major Injury,High,Yes,Alive,Yes
+28,19,Vedhika Gopal,Female,23,1944-10-31,9876007231,075747515907,Engineer,"755, Mall Marg, Nizamabad-708053",5,Bengaluru Urban,No Physical Injury,Medium,No,Alive,No
+29,20,Anmol Balasubramanian,Male,8,2021-04-10,9908417483,116573525471,Nurse,"23/27, Kamdar Zila, Bardhaman-299124",30,Vijayapura,Major Injury,High,Yes,Alive,No
+30,21,Amara Muni,Female,30,1989-07-02,9903440463,190800785553,Government Employee,"31/931, Dara Road, Sri Ganganagar-518506",23,Raichur,Minor Injury,Low,No,Alive,Yes
+31,22,Damyanti Sant,Female,77,2022-03-23,9893526218,375889866098,Lawyer,"28, Yohannan Road, Kirari Suleman Nagar-945314",4,Bengaluru Rural,Minor Injury,Low,No,Alive,No
+32,23,Keya Shetty,Female,45,1988-12-29,9871160790,534133958170,Labourer,"H.No. 752, Kala Chowk, Rampur-494808",21,Mandya,Minor Injury,Low,No,Alive,No
+33,23,Chaman Khurana,Female,54,2001-10-06,9892531655,329029772144,Nurse,"77/701, Kant Road, Latur-957885",21,Mandya,Minor Injury,Low,Yes,Alive,No
+34,24,Noah Pandey,Male,51,2000-04-19,9987440344,624919463414,Teacher,"H.No. 31, Mutti Ganj, Jorhat 337498",26,Tumakuru,Minor Injury,Low,No,Alive,No
+35,24,Daksha Hari,Female,29,1965-09-27,9897065173,961121170964,Journalist,"H.No. 08, Mahal Street, Meerut 271094",26,Tumakuru,Major Injury,High,No,Alive,No
+36,25,Wakeeta Sastry,Female,20,1969-07-08,9900432053,408088654578,Journalist,"11, Swamy Marg, Gangtok 229413",26,Tumakuru,Minor Injury,Low,Yes,Alive,No
+37,25,Turvi Kara,Female,65,2006-06-29,9889488906,079563937606,Housewife,"49, Mody Marg, Phagwara-334123",26,Tumakuru,Minor Injury,Low,Yes,Alive,No
+38,26,Bishakha Dugar,Female,33,1940-10-14,9968961069,366170563179,Engineer,"H.No. 03, Mandal Road, Madurai-493618",25,Shivamogga,No Physical Injury,Medium,Yes,Alive,No
+39,27,Falguni Lata,Female,3,2010-10-27,9893937191,275575686511,Lawyer,"499, Sarna Road, Bhind 648877",8,Chikkaballapur,Major Injury,High,No,Alive,Yes
+40,28,Anusha Sankaran,Female,47,2002-12-29,9967967722,979165477541,Doctor,"H.No. 399, Luthra Nagar, Akola 874296",12,Davanagere,Minor Injury,Low,No,Alive,Yes
+41,29,Chandani Singhal,Female,48,1970-02-18,9919751014,580988943330,Housewife,"12/567, Rattan Road, Malda 545168",23,Raichur,Minor Injury,Low,Yes,Alive,No
+42,29,Vihaan Sachdev,Male,18,1945-03-01,9872861740,028575123047,Software Engineer,"70/348, Mani Street, Shivpuri 093248",23,Raichur,Major Injury,High,No,Alive,Yes
+43,30,Samar Chander,Male,19,1959-08-29,9894624609,055953469207,Software Engineer,"H.No. 274, Mahajan Circle, Karawal Nagar 378263",16,Haveri,Minor Injury,Low,No,Alive,Yes
+44,31,Bakhshi Majumdar,Male,46,2006-03-27,9913686941,179027833384,Business,"40/44, Suri, Amroha-558867",26,Tumakuru,Minor Injury,Low,No,Alive,No
+45,32,Girindra Khare,Male,84,1989-02-28,9892744493,163720449121,Mechanic,"H.No. 576, Doshi Marg, Vadodara-895171",22,Mysuru,Minor Injury,Low,No,Alive,No
+46,33,Advika Dhawan,Female,22,1975-05-29,9964479646,706457108641,Government Employee,"45, Rao, Ozhukarai-578091",29,Vijayanagara,Minor Injury,Low,No,Alive,No
+47,33,Maanas Karan,Male,78,2004-01-13,9886937553,621743522492,Shop Keeper,"17/240, Nair Nagar, Durg-562386",29,Vijayanagara,No Physical Injury,Medium,Yes,Alive,Yes
+48,34,Frederick Gill,Male,10,1947-04-09,9901798996,752217713297,Shop Keeper,"92, Shenoy Ganj, Jaunpur-074821",24,Ramanagara,Minor Injury,Low,Yes,Alive,No
+49,34,Pooja Mistry,Female,60,1994-11-13,9989180374,445130451855,Doctor,"43, Subramanian Marg, Patiala-959440",24,Ramanagara,Fatal Injury,Critical,No,Deceased,Yes
+50,35,Laksh Anand,Male,67,1988-08-29,9883192952,019266065516,Housewife,"H.No. 39, Kanda Path, Udupi 210470",5,Bengaluru Urban,No Physical Injury,Medium,Yes,Alive,Yes
+51,36,Dominic Chana,Male,6,2017-11-16,9967225608,563284461443,Housewife,"328, Wali Path, Dehradun 745171",5,Bengaluru Urban,Minor Injury,Low,No,Alive,No
+52,36,Isaiah Ranganathan,Male,48,2022-10-10,9915342202,362813537454,Student,"04, Dasgupta Circle, Arrah 965137",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,No
+53,37,Omisha Kant,Female,31,1995-08-11,9885025862,011234005323,Nurse,"61/200, Tailor Road, Jalandhar-826758",20,Koppal,Major Injury,High,No,Alive,Yes
+54,37,Faras Sachdeva,Male,13,1996-03-23,9903953164,007851819336,Journalist,"H.No. 05, Sawhney Ganj, Noida-158506",20,Koppal,Fatal Injury,Critical,No,Deceased,No
+55,38,Ikshita Das,Female,61,2021-03-22,9980314388,652695204577,Driver,"39/005, Dass Ganj, Coimbatore-933529",19,Kolar,Minor Injury,Low,Yes,Alive,Yes
+56,39,Lakshit Dhillon,Male,3,2024-06-30,9903164798,701236531933,Electrician,"H.No. 020, Khanna Path, Pune 402681",7,Chamarajanagar,Fatal Injury,Critical,No,Deceased,Yes
+57,40,Wazir Sen,Male,36,2006-09-09,9912997764,459725583371,Teacher,"39/08, Shanker Road, Ghaziabad 661771",7,Chamarajanagar,Minor Injury,Low,No,Alive,No
+58,41,Oeshi Divan,Female,62,1946-02-21,9882596165,265604717059,Shop Keeper,"98, Setty Road, Navi Mumbai 836736",3,Belagavi,Minor Injury,Low,No,Alive,Yes
+59,41,Vasana Rastogi,Female,42,1975-12-01,9896905579,918199349998,Journalist,"54, Dua Path, Jabalpur 116152",3,Belagavi,Minor Injury,Low,Yes,Alive,No
+60,42,Omya Das,Female,59,1975-06-23,9965498411,142177571888,Teacher,"H.No. 94, Chawla Path, Bhatpara-315851",14,Gadag,Major Injury,High,No,Alive,Yes
+61,43,Isaiah Sanghvi,Male,18,2012-05-24,9903222793,706601345873,Mechanic,"H.No. 244, Panchal Path, Bokaro 961201",13,Dharwad,Minor Injury,Low,No,Alive,Yes
+62,44,Raghav Saini,Male,18,1979-02-12,9901764545,622780470505,Journalist,"H.No. 59, Chad, Bhatpara-901476",1,Bagalkote,Major Injury,High,Yes,Alive,Yes
+63,45,Vaishnavi Sachdeva,Female,67,1963-10-11,9901250584,540487387503,Farmer,"14, Sur, Ranchi 690034",27,Udupi,Minor Injury,Low,Yes,Alive,No
+64,45,Ekapad Kumer,Male,37,1965-02-28,9901167938,493098181931,Student,"62, Rai Street, Orai 160607",27,Udupi,No Physical Injury,Medium,Yes,Alive,No
+65,46,Nirja Sanghvi,Female,70,1989-04-18,9905823297,184780210570,Private Employee,"H.No. 605, Sharma Street, Hubli–Dharwad-136968",22,Mysuru,Major Injury,High,No,Alive,Yes
+66,47,Rudra Mukherjee,Male,8,2003-12-14,9885287356,331623098964,Government Employee,"181, Uppal Circle, Karnal-231243",18,Kodagu,Major Injury,High,No,Alive,No
+67,47,Ganga Borra,Female,53,1955-08-13,9882152281,404453230435,Farmer,"97/99, Mutti Path, Gandhidham-774490",18,Kodagu,Fatal Injury,Critical,No,Deceased,No
+68,48,Zehaan Borah,Male,10,1966-12-10,9888562293,921777967323,Labourer,"H.No. 541, Tripathi Zila, Surendranagar Dudhrej-793597",5,Bengaluru Urban,Minor Injury,Low,No,Alive,No
+69,48,Bhavani Seshadri,Female,47,1949-05-10,9918487732,308705572125,Nurse,"20/37, Viswanathan Chowk, Bharatpur 466590",5,Bengaluru Urban,Minor Injury,Low,No,Alive,No
+70,49,Bhavini Narayan,Female,83,1948-08-04,9964171749,560089674827,Engineer,"H.No. 92, Bumb Path, Etawah-629148",7,Chamarajanagar,Minor Injury,Low,No,Alive,No
+71,50,Nitesh Datta,Male,80,1997-07-08,9966644050,529086891011,Government Employee,"50/54, Kala Street, Shivpuri 322141",5,Bengaluru Urban,Major Injury,High,No,Alive,No
+72,50,Om Deep,Male,48,1991-04-29,9904262809,604346708639,Engineer,"927, Roy Nagar, Patiala-947383",5,Bengaluru Urban,No Physical Injury,Medium,Yes,Alive,Yes
+73,51,Wahab Hari,Male,73,1971-10-28,9902962561,802188925586,Private Employee,"H.No. 68, Sahota Circle, Kollam-407581",11,Dakshina Kannada,Major Injury,High,Yes,Alive,Yes
+74,52,Meghana Chacko,Female,7,2005-06-03,9874837937,029439466067,Teacher,"26/13, Palla Chowk, Vijayanagaram 685361",28,Uttara Kannada,Major Injury,High,No,Alive,Yes
+75,52,Jasmit Bala,Female,82,1967-08-24,9887310332,114540305332,Teacher,"204, Dewan Chowk, Sultan Pur Majra 104328",28,Uttara Kannada,Minor Injury,Low,Yes,Alive,Yes
+76,53,Dayamai Mani,Female,22,1960-10-03,9882211227,397464103838,Retired,"697, Choudhry Zila, Kavali 893246",23,Raichur,Minor Injury,Low,Yes,Alive,No
+77,53,Qushi Khosla,Female,78,1989-01-23,9962399264,523831555659,Business,"51/88, Tripathi Circle, Pali-065405",23,Raichur,Major Injury,High,No,Alive,No
+78,54,Orinder Khosla,Male,53,2002-11-09,9964626770,944596573856,Driver,"058, Gill Path, Nangloi Jat 217043",19,Kolar,Minor Injury,Low,No,Alive,Yes
+79,55,Harish Barman,Male,73,1967-05-20,9966379402,555543755301,Teacher,"74/03, Parikh Road, Bathinda 156676",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,Yes
+80,55,Idika Taneja,Female,40,1999-05-20,9894244463,381866192115,Driver,"H.No. 616, Gole, Pondicherry 154479",5,Bengaluru Urban,No Physical Injury,Medium,No,Alive,Yes
+81,56,Fiyaz Sawhney,Male,82,1970-06-10,9964061537,278018134285,Private Employee,"64/01, Patla Marg, Ludhiana 970213",28,Uttara Kannada,Major Injury,High,No,Alive,Yes
+82,57,Radhika Rajagopal,Female,46,2021-04-06,9984168956,321313554459,Lawyer,"75/571, Devan, Sikar 431027",13,Dharwad,No Physical Injury,Medium,Yes,Alive,No
+83,57,Dhriti Lala,Female,18,2006-06-06,9883403018,954648400722,Lawyer,"47/31, Borah Street, Malegaon-155188",13,Dharwad,Major Injury,High,No,Alive,No
+84,58,Mason Dugar,Male,74,2001-01-22,9872595774,247628028081,Business,"31/32, Tak Ganj, Karimnagar-782911",17,Kalaburagi,Fatal Injury,Critical,No,Deceased,No
+85,58,Rushil Srinivas,Male,79,1985-03-29,9887885551,925959817402,Doctor,"517, Varughese Chowk, Warangal-268018",17,Kalaburagi,Major Injury,High,Yes,Alive,Yes
+86,59,Nidra Gala,Female,32,1954-04-29,9988316630,774768445880,Government Employee,"41/43, Maharaj Circle, Avadi-829922",22,Mysuru,No Physical Injury,Medium,Yes,Alive,No
+87,59,Ansh Balakrishnan,Male,55,1947-06-18,9982283554,360074184092,Doctor,"69/07, Mann Circle, Karawal Nagar 647102",22,Mysuru,Major Injury,High,No,Alive,Yes
+88,60,Triya Sule,Female,12,1980-01-14,9963066067,740020554031,Doctor,"H.No. 55, De Marg, Kottayam 537147",2,Ballari,No Physical Injury,Medium,No,Alive,Yes
+89,61,Ekavir Chatterjee,Male,50,1944-11-10,9877138177,191506476146,Teacher,"259, Gupta Path, Panchkula-747016",4,Bengaluru Rural,No Physical Injury,Medium,Yes,Alive,Yes
+90,62,Jai Kale,Male,76,1990-02-21,9963931205,667686355720,Driver,"H.No. 79, Mangal Chowk, Moradabad 245650",22,Mysuru,No Physical Injury,Medium,No,Alive,No
+91,63,Atharv Hayer,Male,31,1971-05-16,9906080333,845149050299,Mechanic,"87, Mammen Circle, Warangal 655852",30,Vijayapura,Minor Injury,Low,No,Alive,No
+92,64,Yashoda Ratti,Female,11,1983-01-24,9965623528,536860678004,Farmer,"578, Dixit Chowk, Khammam 269495",5,Bengaluru Urban,Major Injury,High,No,Alive,Yes
+93,64,Mason Soman,Male,2,2009-11-23,9961043582,378718345296,Engineer,"16/940, Som, Adoni 097289",5,Bengaluru Urban,Major Injury,High,No,Alive,Yes
+94,65,Falak Kibe,Female,73,1943-03-30,9883215725,082431985974,Retired,"H.No. 756, Sachar Street, Bulandshahr 028385",21,Mandya,Minor Injury,Low,No,Alive,No
+95,66,Raghav Murthy,Male,74,2021-11-16,9891602504,887304327723,Business,"54/97, Koshy Ganj, Proddatur-344375",28,Uttara Kannada,No Physical Injury,Medium,Yes,Alive,Yes
+96,67,Owen Mahal,Male,53,1965-01-07,9872388906,871524097098,Government Employee,"H.No. 24, Mani Nagar, Sri Ganganagar-473384",26,Tumakuru,Major Injury,High,No,Alive,Yes
+97,68,Ekapad Chopra,Male,65,1992-11-21,9886350612,893834291711,Housewife,"H.No. 833, Chaudhry Nagar, Bathinda-120826",15,Hassan,Minor Injury,Low,No,Alive,Yes
+98,69,Waida Iyengar,Female,27,2004-10-23,9903211686,083023562904,Nurse,"H.No. 01, Kata, Akola 206724",22,Mysuru,Major Injury,High,Yes,Alive,Yes
+99,70,Aarna Misra,Female,14,1988-10-31,9987107214,690590916808,Software Engineer,"H.No. 78, Tak Circle, Dibrugarh 431527",26,Tumakuru,Fatal Injury,Critical,Yes,Deceased,No
+100,71,Girik Atwal,Male,22,2003-03-04,9914743439,241666484034,Engineer,"966, Narang Circle, Rewa 227530",5,Bengaluru Urban,Major Injury,High,Yes,Alive,Yes
+101,71,Sanaya Keer,Female,46,1978-07-13,9905495313,287095799162,Farmer,"H.No. 99, Lal Nagar, Noida 174268",5,Bengaluru Urban,Fatal Injury,Critical,Yes,Deceased,No
+102,72,Dhriti Merchant,Female,23,1971-10-19,9882373573,519889510060,Housewife,"727, Prakash, Jamalpur-833918",6,Bidar,Major Injury,High,Yes,Alive,Yes
+103,72,Zarna Pathak,Female,23,1947-03-13,9988305978,893931311979,Lawyer,"83/98, Gala Street, Saharsa 139718",6,Bidar,Major Injury,High,No,Alive,Yes
+104,73,Ayaan Setty,Male,49,1951-10-10,9897210758,751386614303,Teacher,"08/74, Randhawa Nagar, Delhi-910651",26,Tumakuru,Minor Injury,Low,No,Alive,No
+105,74,Bakhshi Sodhi,Male,34,1943-04-04,9882021037,984351486610,Mechanic,"656, Purohit Chowk, Jodhpur-512868",11,Dakshina Kannada,Fatal Injury,Critical,Yes,Deceased,No
+106,74,Jasmit Aggarwal,Female,14,2004-10-31,9873810993,987466403945,Nurse,"86/863, Sharma Ganj, Bhatpara 310690",11,Dakshina Kannada,No Physical Injury,Medium,No,Alive,No
+107,75,Ishanvi Bhavsar,Female,31,1949-02-18,9870581342,661012083346,Nurse,"03/06, Kaur Chowk, Pimpri-Chinchwad 843959",16,Haveri,Minor Injury,Low,No,Alive,Yes
+108,76,Kashish Mittal,Female,49,2015-01-15,9891042851,606847203596,Journalist,"H.No. 40, Gill Circle, Miryalaguda-056856",30,Vijayapura,No Physical Injury,Medium,Yes,Alive,No
+109,77,Falguni Mital,Female,11,1972-07-22,9909759866,171998149496,Electrician,"427, Sachar Nagar, Proddatur-634351",9,Chikkamagaluru,Fatal Injury,Critical,No,Deceased,Yes
+110,78,Qasim Chanda,Male,50,1986-02-01,9913324876,544157995125,Retired,"H.No. 69, Baral, Maheshtala-735403",22,Mysuru,Minor Injury,Low,No,Alive,No
+111,79,Dhriti Srinivas,Female,74,2018-04-14,9914146643,860423373886,Driver,"854, Shukla Marg, Aizawl-587717",5,Bengaluru Urban,No Physical Injury,Medium,Yes,Alive,No
+112,79,Ishani Prabhakar,Female,42,1967-02-26,9897604944,530707475518,Farmer,"20/489, Sahni, Jamnagar 536937",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,Yes
+113,80,Lavanya Suresh,Female,7,2022-09-17,9897285610,351853187623,Journalist,"522, Suresh Circle, Hosur-801006",25,Shivamogga,Minor Injury,Low,Yes,Alive,Yes
+114,80,Jack Bir,Male,27,2000-08-31,9896589641,182697728842,Engineer,"75/09, Subramanian, Pune 886008",25,Shivamogga,Minor Injury,Low,No,Alive,Yes
+115,81,Luke Badal,Male,66,1983-03-31,9969855264,323269615208,Private Employee,"H.No. 182, Handa Ganj, Raichur-615679",11,Dakshina Kannada,Fatal Injury,Critical,No,Deceased,Yes
+116,81,Isaiah Mital,Male,84,1998-09-13,9909243075,172579658881,Doctor,"H.No. 666, Soni Circle, Bangalore 176591",11,Dakshina Kannada,Minor Injury,Low,No,Alive,Yes
+117,82,Jyoti Kakar,Female,84,2017-03-01,9872284835,410656411654,Doctor,"H.No. 148, Bali, Satna-392614",9,Chikkamagaluru,No Physical Injury,Medium,Yes,Alive,Yes
+118,82,Kavya Ramachandran,Female,53,1998-02-08,9918918103,930427517714,Retired,"21/850, Sarkar Zila, Aurangabad 999650",9,Chikkamagaluru,Minor Injury,Low,No,Alive,No
+119,83,Umang Swaminathan,Male,5,1959-12-13,9911303816,626313518227,Housewife,"961, Merchant, Srinagar-426265",19,Kolar,Major Injury,High,No,Alive,Yes
+120,83,Damyanti Chand,Female,63,1940-12-31,9897198029,205177367650,Student,"H.No. 41, Chahal Street, Chinsurah 888610",19,Kolar,Minor Injury,Low,Yes,Alive,Yes
+121,84,Raagini Chander,Female,57,1991-04-19,9901272604,156748562746,Engineer,"H.No. 466, Kibe Zila, Nadiad 244472",3,Belagavi,Fatal Injury,Critical,Yes,Deceased,No
+122,84,Geetika Saran,Female,38,1964-01-06,9880429306,986105712292,Software Engineer,"H.No. 543, Hayre Chowk, Aligarh 406596",3,Belagavi,Major Injury,High,Yes,Alive,Yes
+123,85,Urvi Natt,Female,47,1977-02-27,9986418801,638927331448,Shop Keeper,"H.No. 93, Murthy Chowk, Sikar-479356",10,Chitradurga,Major Injury,High,No,Alive,Yes
+124,86,Ronith Patla,Male,17,1950-03-28,9967981945,467688784484,Housewife,"80/737, Biswas Road, Panchkula-434266",13,Dharwad,Minor Injury,Low,Yes,Alive,Yes
+125,87,Vanya Srinivas,Female,67,1990-01-18,9916647466,188609544173,Electrician,"H.No. 89, Chopra Zila, Raichur-909656",9,Chikkamagaluru,Minor Injury,Low,Yes,Alive,Yes
+126,88,Aashi Chaudhari,Female,52,1962-07-20,9982484841,461450066352,Housewife,"H.No. 67, Tella, Hapur-714611",16,Haveri,Major Injury,High,No,Alive,Yes
+127,88,Owen Muni,Male,59,1969-09-19,9895646717,238925701177,Business,"H.No. 71, Sethi Chowk, Jabalpur-010512",16,Haveri,Minor Injury,Low,Yes,Alive,Yes
+128,89,Yauvani Ghosh,Female,28,1987-06-21,9908137066,184559075459,Lawyer,"36, Grewal Street, Tenali 937966",5,Bengaluru Urban,Fatal Injury,Critical,Yes,Deceased,Yes
+129,90,Hredhaan Jha,Male,50,1964-03-20,9966853997,299414772787,Business,"25/53, Comar Chowk, Unnao 969691",14,Gadag,No Physical Injury,Medium,Yes,Alive,Yes
+130,91,Qushi Shankar,Female,45,1993-01-12,9961791567,755976858401,Farmer,"25/134, Goswami Zila, Ajmer 692966",30,Vijayapura,Minor Injury,Low,Yes,Alive,Yes
+131,92,Widisha Yogi,Female,21,1999-07-02,9896107253,466526357660,Retired,"42, Murty Street, Udupi-507236",11,Dakshina Kannada,Minor Injury,Low,No,Alive,Yes
+132,92,Samarth Swamy,Male,33,1975-11-20,9886788976,756792161153,Nurse,"190, Master Ganj, Panipat-842797",11,Dakshina Kannada,Minor Injury,Low,No,Alive,Yes
+133,93,Dakshesh Loyal,Male,75,2006-06-11,9982371130,966453732105,Nurse,"78/361, Mishra Ganj, Hospet 517133",5,Bengaluru Urban,Minor Injury,Low,No,Alive,Yes
+134,94,Upadhriti Gandhi,Female,29,1992-12-06,9886329645,761326920837,Electrician,"H.No. 958, Yohannan Road, North Dumdum-494812",11,Dakshina Kannada,Minor Injury,Low,No,Alive,Yes
+135,95,Bhanumati Malhotra,Female,66,2014-04-04,9985426300,975626268288,Retired,"253, Suri Marg, Gangtok-667116",19,Kolar,Major Injury,High,Yes,Alive,Yes
+136,96,Qarin Sha,Male,59,2021-04-30,9963007552,236406566757,Engineer,"17/518, Kamdar Marg, Rajpur Sonarpur 454589",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,No
+137,97,Watika Oza,Female,78,2016-07-23,9872938012,778262898690,Doctor,"H.No. 701, Sastry Street, Mumbai 324241",1,Bagalkote,No Physical Injury,Medium,Yes,Alive,Yes
+138,98,Jeremiah Butala,Male,74,1972-03-01,9913502772,981162165079,Nurse,"43, Chand Marg, Mumbai-712938",9,Chikkamagaluru,Major Injury,High,Yes,Alive,No
+139,99,Aayush Anand,Male,33,1999-09-07,9871593622,014366158913,Retired,"27/136, Chaudry Zila, Satara 426221",25,Shivamogga,Fatal Injury,Critical,No,Deceased,No
+140,99,Fitan Sarraf,Male,43,1970-05-29,9904335168,815280005054,Farmer,"97, Chadha Ganj, Kolhapur-965652",25,Shivamogga,Major Injury,High,No,Alive,No
+141,100,Lakshit Chad,Male,47,1961-08-26,9902772453,568861541969,Shop Keeper,"43/898, Ramanathan Ganj, Meerut 761379",22,Mysuru,Major Injury,High,No,Alive,Yes
+142,101,Abeer Patel,Male,63,2019-12-10,9880302934,409375882516,Teacher,"65/82, Bora Chowk, Dharmavaram-043006",26,Tumakuru,Minor Injury,Low,No,Alive,No
+143,102,Zashil Sagar,Male,67,1976-07-24,9903844651,106213712874,Business,"88/924, Mukherjee Zila, Sasaram-285691",30,Vijayapura,Major Injury,High,Yes,Alive,No
+144,102,Tejas Khare,Male,32,1945-06-24,9871515811,954968789264,Driver,"H.No. 799, More Nagar, Jamshedpur 202758",30,Vijayapura,Major Injury,High,No,Alive,Yes
+145,103,Fiyaz Prabhu,Male,80,1951-05-07,9965169503,105968619585,Teacher,"H.No. 564, Bhatt Circle, Gangtok 778507",27,Udupi,Fatal Injury,Critical,No,Deceased,Yes
+146,104,Qarin Dugar,Male,84,1962-03-30,9905305287,357760142828,Business,"800, Konda Nagar, Chittoor 622086",9,Chikkamagaluru,Minor Injury,Low,Yes,Alive,Yes
+147,105,Naveen Kothari,Male,67,1975-12-10,9873284145,255693255154,Journalist,"H.No. 951, Ben Circle, Rajahmundry 617445",5,Bengaluru Urban,No Physical Injury,Medium,No,Alive,No
+148,106,Vedant Anand,Male,85,1971-12-01,9877461243,567190019402,Farmer,"93/759, Hayre Chowk, Saharanpur 603850",1,Bagalkote,Minor Injury,Low,No,Alive,No
+149,107,Aachal Puri,Female,77,2012-09-21,9879864268,205521020197,Private Employee,"836, Bhasin Chowk, Parbhani 038657",22,Mysuru,Minor Injury,Low,No,Alive,Yes
+150,108,Champak Tiwari,Male,9,1951-11-28,9875755382,944015553152,Journalist,"90/62, Manne Ganj, Satna-557431",19,Kolar,Major Injury,High,No,Alive,No
+151,108,Ekanta Chopra,Female,73,1953-10-07,9907794450,106962395082,Housewife,"56, Wason Zila, Dhule-474112",19,Kolar,Minor Injury,Low,Yes,Alive,Yes
+152,109,Anusha Kale,Female,41,2011-08-12,9892517917,222288371094,Nurse,"H.No. 356, Bawa Circle, Bhilwara 067883",15,Hassan,Minor Injury,Low,Yes,Alive,No
+153,109,Vedhika Chaudry,Female,80,2008-11-20,9894988499,225074553619,Labourer,"H.No. 032, Rattan Ganj, Guwahati-101372",15,Hassan,Major Injury,High,No,Alive,Yes
+154,110,Noah Das,Male,27,1944-03-09,9905362524,634273821152,Electrician,"966, Balan Chowk, Purnia-532447",17,Kalaburagi,Minor Injury,Low,Yes,Alive,No
+155,111,Anika Korpal,Female,26,1995-07-30,9888740418,653428001228,Housewife,"70/14, Devan Marg, Kollam-806578",23,Raichur,Minor Injury,Low,No,Alive,No
+156,111,Pooja Thakkar,Female,72,1967-11-23,9919201891,561736478326,Lawyer,"H.No. 593, Mand Nagar, Chittoor 932133",23,Raichur,Minor Injury,Low,No,Alive,No
+157,112,Baghyawati Kanda,Female,10,1989-06-28,9871232262,483594107697,Lawyer,"239, Parmer Path, Nagercoil-937842",22,Mysuru,Minor Injury,Low,No,Alive,Yes
+158,112,Anirudh Chana,Male,9,1945-05-01,9905037021,683226180683,Nurse,"70/59, De Ganj, Belgaum-002921",22,Mysuru,Major Injury,High,No,Alive,No
+159,113,Balhaar Prakash,Male,70,2000-06-11,9885478465,942034105712,Shop Keeper,"H.No. 45, Dugar Street, Morbi-289539",16,Haveri,Major Injury,High,No,Alive,No
+160,113,Ranbir Mohanty,Male,56,2002-12-12,9982203453,173324279862,Electrician,"096, Bali, Madanapalle 939172",16,Haveri,Major Injury,High,No,Alive,Yes
+161,114,Balvan Khanna,Male,24,1970-01-14,9882662610,051127721433,Government Employee,"15/704, Krish Ganj, Etawah 100676",31,Yadgir,Fatal Injury,Critical,No,Deceased,Yes
+162,115,Triveni Tailor,Female,11,2015-07-05,9987123518,230973929170,Business,"H.No. 793, Seth Street, Visakhapatnam 054115",1,Bagalkote,Major Injury,High,No,Alive,No
+163,115,Riya Dyal,Female,42,2002-10-11,9886095261,882163121700,Shop Keeper,"97/06, Saraf Street, Meerut 533688",1,Bagalkote,Fatal Injury,Critical,Yes,Deceased,No
+164,116,Lohit Mishra,Male,32,1960-09-30,9884639703,151435638703,Electrician,"87/20, Aggarwal Path, Chandigarh 973103",17,Kalaburagi,Major Injury,High,Yes,Alive,No
+165,117,Mugdha Bumb,Female,72,1980-10-23,9895455348,581548547578,Government Employee,"77, Chand Road, Udaipur 652704",7,Chamarajanagar,Major Injury,High,Yes,Alive,No
+166,117,Viraj Lall,Male,85,1959-10-15,9918167124,306091011063,Journalist,"115, Sachdev Circle, Begusarai 686879",7,Chamarajanagar,Major Injury,High,No,Alive,Yes
+167,118,Vyanjana Mistry,Female,29,1947-04-09,9917096984,637887065780,Engineer,"H.No. 722, Hans Ganj, Kalyan-Dombivli 163294",22,Mysuru,Minor Injury,Low,Yes,Alive,Yes
+168,118,Bahadurjit Chahal,Male,69,1973-07-18,9901526174,163468114319,Government Employee,"H.No. 87, Virk Nagar, Gorakhpur-229991",22,Mysuru,Minor Injury,Low,No,Alive,No
+169,119,Daksha Mangal,Female,53,2014-04-17,9986832535,734900201809,Housewife,"H.No. 67, Solanki, Malegaon 629960",10,Chitradurga,Minor Injury,Low,Yes,Alive,No
+170,120,Noah Khanna,Male,13,1944-09-30,9874128223,552034487806,Journalist,"H.No. 05, Mukhopadhyay Road, Pallavaram-324754",23,Raichur,Minor Injury,Low,No,Alive,Yes
+171,120,Chaitanya Guha,Male,43,1978-02-07,9898491778,966053536169,Journalist,"50/82, Mukhopadhyay Zila, Bhavnagar-233030",23,Raichur,No Physical Injury,Medium,Yes,Alive,Yes
+172,121,Arya Patel,Female,38,2000-06-14,9983105030,571154616720,Housewife,"86, Balasubramanian Zila, Serampore 972798",25,Shivamogga,Fatal Injury,Critical,Yes,Deceased,Yes
+173,122,Pooja Gade,Female,55,2011-10-04,9893350396,941081378109,Mechanic,"H.No. 06, Gaba Nagar, Korba 346800",7,Chamarajanagar,No Physical Injury,Medium,Yes,Alive,No
+174,123,Dominic Ghose,Male,40,1991-08-28,9904372575,696639520262,Student,"H.No. 94, Sampath Road, Karnal 437489",10,Chitradurga,Major Injury,High,Yes,Alive,No
+175,123,Dalaja Amble,Female,85,1984-01-14,9989312839,579450195709,Shop Keeper,"H.No. 17, Nayar Zila, Anantapur 443283",10,Chitradurga,Minor Injury,Low,No,Alive,Yes
+176,124,Saksham Nagarajan,Male,45,1998-06-03,9963629586,888052186039,Driver,"H.No. 46, Rama Marg, Ballia 538758",13,Dharwad,Major Injury,High,No,Alive,Yes
+177,125,Frederick Golla,Male,55,1965-07-12,9899352158,837519919935,Software Engineer,"48/251, Pant Ganj, Aizawl-554947",13,Dharwad,No Physical Injury,Medium,Yes,Alive,No
+178,126,Wahab Bera,Male,4,2014-03-15,9983993786,711109666520,Shop Keeper,"816, Misra Circle, Meerut 235697",18,Kodagu,Minor Injury,Low,Yes,Alive,No
+179,126,Nisha Gole,Female,24,2006-10-08,9983412499,926221946688,Farmer,"25/007, Kadakia Road, Gangtok-712966",18,Kodagu,Minor Injury,Low,No,Alive,No
+180,127,Upadhriti Sood,Female,79,1973-02-20,9965567014,882590379148,Mechanic,"50/583, Agrawal Nagar, Kamarhati 421689",29,Vijayanagara,Fatal Injury,Critical,No,Deceased,Yes
+181,127,Geetika Bhattacharyya,Female,38,2010-08-02,9919694605,158533048880,Lawyer,"89, Nazareth Circle, Guntur 753260",29,Vijayanagara,Minor Injury,Low,Yes,Alive,Yes
+182,128,Isaac Deep,Male,58,1958-07-05,9963537593,379561817437,Lawyer,"H.No. 506, Warrior Road, Hindupur 100167",16,Haveri,Minor Injury,Low,Yes,Alive,Yes
+183,129,David Krishnan,Male,1,1980-11-18,9917044864,264460826821,Government Employee,"04/618, Devan Road, Vasai-Virar-411739",30,Vijayapura,Minor Injury,Low,Yes,Alive,Yes
+184,129,Karan Virk,Male,74,2023-04-10,9986301912,665597307388,Nurse,"H.No. 20, Taneja Circle, Ongole 300119",30,Vijayapura,Fatal Injury,Critical,Yes,Deceased,No
+185,130,Falguni Chana,Female,18,2006-10-26,9876255661,769469926359,Doctor,"H.No. 37, Lalla Road, Dhanbad 204556",28,Uttara Kannada,Minor Injury,Low,No,Alive,No
+186,131,Charvi Bath,Female,24,1941-05-19,9912211477,264038266203,Student,"H.No. 57, Loyal, Serampore-216674",14,Gadag,Major Injury,High,Yes,Alive,No
+187,132,Waida Sama,Female,51,1995-09-17,9965981894,401148848905,Housewife,"021, Subramanian Marg, Bokaro-590277",14,Gadag,Major Injury,High,Yes,Alive,Yes
+188,133,Tripti Sastry,Female,46,1944-06-19,9879209685,358773044249,Mechanic,"H.No. 899, Nigam Ganj, Bhiwani 756289",17,Kalaburagi,Minor Injury,Low,Yes,Alive,Yes
+189,134,Aashi Dugar,Female,5,1983-07-13,9982057913,483370959203,Software Engineer,"175, Narayanan Ganj, Dhanbad-866317",5,Bengaluru Urban,No Physical Injury,Medium,Yes,Alive,No
+190,135,Udarsh Chakrabarti,Male,77,2013-05-14,9980405635,383123411206,Business,"H.No. 701, Sachar Marg, Proddatur-199488",8,Chikkaballapur,Major Injury,High,No,Alive,No
+191,135,Vasatika Om,Female,19,1971-06-11,9968513850,090303786643,Business,"58, Solanki, Bidhannagar 130554",8,Chikkaballapur,Minor Injury,Low,Yes,Alive,No
+192,136,Chatresh Bath,Male,12,2016-10-16,9988603674,918231938340,Shop Keeper,"61/493, Dara Ganj, Thrissur-351609",22,Mysuru,Minor Injury,Low,No,Alive,Yes
+193,136,Varenya Shankar,Female,45,1996-07-11,9915547150,345221402649,Housewife,"H.No. 808, Subramanian Marg, Adoni-216995",22,Mysuru,Major Injury,High,Yes,Alive,Yes
+194,137,Shaurya Kothari,Male,74,1963-10-25,9984545819,018734608896,Doctor,"22, Vala Marg, Motihari 833394",13,Dharwad,Minor Injury,Low,Yes,Alive,No
+195,137,Ekaja Gokhale,Female,50,1983-05-22,9915163593,949300941235,Nurse,"H.No. 87, Sahni, Bhusawal 810620",13,Dharwad,Minor Injury,Low,No,Alive,Yes
+196,138,Irya Loke,Female,4,2004-04-28,9884567442,115834281061,Retired,"42/043, Bali Circle, Bidhannagar-983863",10,Chitradurga,No Physical Injury,Medium,Yes,Alive,Yes
+197,138,Arjun Raj,Male,83,1973-07-02,9984476415,543165825453,Journalist,"H.No. 439, Kar Chowk, Giridih 347212",10,Chitradurga,No Physical Injury,Medium,No,Alive,No
+198,139,Darpan Purohit,Male,75,1944-01-05,9909075872,556266665569,Student,"294, Narayanan Nagar, Bhatpara 259094",3,Belagavi,Major Injury,High,No,Alive,No
+199,139,Rachita Bora,Female,74,2007-03-15,9963392165,372655627041,Electrician,"818, Sagar Street, Tiruchirappalli 335554",3,Belagavi,Minor Injury,Low,No,Alive,Yes
+200,140,Zilmil Soman,Female,36,2025-04-09,9982769763,172150995887,Private Employee,"57/399, Baral Ganj, Eluru 648408",9,Chikkamagaluru,Minor Injury,Low,Yes,Alive,No
+201,141,Udant Sur,Male,27,1944-04-14,9917367113,377537418094,Engineer,"11/28, Amble Circle, Bhagalpur-613861",26,Tumakuru,Major Injury,High,Yes,Alive,Yes
+202,141,Amaira Sharaf,Female,56,2001-06-28,9919832063,777513615680,Software Engineer,"H.No. 024, Bobal Circle, Rampur 676650",26,Tumakuru,Minor Injury,Low,No,Alive,No
+203,142,Daniel Warrior,Male,37,1941-01-22,9891009689,671816859862,Teacher,"15/814, Chadha Road, Bahraich 607283",17,Kalaburagi,Major Injury,High,No,Alive,No
+204,143,Shivani Merchant,Female,42,2022-03-03,9891073309,244961417269,Software Engineer,"50/882, Barman Zila, Chapra-881435",9,Chikkamagaluru,Major Injury,High,Yes,Alive,Yes
+205,143,Samuel Vala,Male,74,1952-08-31,9962481696,279559448775,Shop Keeper,"43/12, Bhagat, Jamalpur-414139",9,Chikkamagaluru,Minor Injury,Low,Yes,Alive,No
+206,144,Oni Parikh,Female,39,1951-06-16,9900963838,722596231648,Business,"H.No. 91, Nadkarni Ganj, Hospet-949299",26,Tumakuru,Minor Injury,Low,Yes,Alive,Yes
+207,145,Nakul Sangha,Male,4,1954-11-22,9969237649,890337426598,Journalist,"645, Narula Street, Surendranagar Dudhrej 547812",2,Ballari,Major Injury,High,Yes,Alive,Yes
+208,146,Logan Dey,Male,19,2016-04-26,9906490711,037415814728,Private Employee,"11/080, Ravel, Vadodara-887256",1,Bagalkote,Minor Injury,Low,No,Alive,Yes
+209,147,Maanav Desai,Male,42,1980-01-22,9989201027,131251763180,Teacher,"H.No. 80, Gandhi Ganj, Amroha 299275",13,Dharwad,Minor Injury,Low,No,Alive,No
+210,148,Januja Sura,Female,17,1960-04-03,9881242165,760834519968,Engineer,"038, Rama Path, Malda 051844",18,Kodagu,No Physical Injury,Medium,Yes,Alive,No
+211,149,Raghav Radhakrishnan,Male,36,1971-08-11,9871769416,062438707917,Software Engineer,"38, Pandit Marg, Morbi 908272",27,Udupi,Major Injury,High,Yes,Alive,Yes
+212,149,Brinda Varkey,Female,76,1995-04-03,9913163730,783244819431,Government Employee,"259, Karpe Zila, Bathinda-777392",27,Udupi,Major Injury,High,No,Alive,Yes
+213,150,Alka Kohli,Female,17,1944-03-23,9876018413,867661980849,Labourer,"80/920, Kuruvilla Street, Hazaribagh-990413",18,Kodagu,Major Injury,High,No,Alive,Yes
+214,151,Vrishti Subramaniam,Female,32,1955-01-21,9883585150,904705478425,Retired,"29/84, Oommen Street, Kavali-366210",24,Ramanagara,Minor Injury,Low,Yes,Alive,Yes
+215,151,Yutika Thaman,Female,38,1998-09-23,9886043787,047847346808,Farmer,"799, Wali Nagar, Tiruchirappalli-298068",24,Ramanagara,Minor Injury,Low,No,Alive,No
+216,152,Reva Bassi,Female,79,1999-11-10,9915266395,930340367571,Nurse,"65, Chaudhari, Guntur-731498",16,Haveri,Minor Injury,Low,Yes,Alive,No
+217,153,Kabir Gulati,Male,29,1941-01-08,9893262034,517652679890,Labourer,"06/35, Pathak Marg, Bhatpara 944869",13,Dharwad,No Physical Injury,Medium,Yes,Alive,Yes
+218,153,Manya Ranganathan,Female,23,2004-09-23,9899011112,904694470108,Engineer,"588, Kulkarni Chowk, Gangtok-621372",13,Dharwad,Fatal Injury,Critical,No,Deceased,No
+219,154,Jalsa Trivedi,Female,84,1974-08-09,9967465545,837232812961,Lawyer,"601, Sinha Street, Hubli–Dharwad 435190",14,Gadag,Major Injury,High,Yes,Alive,Yes
+220,155,Sai Verma,Male,31,1964-11-27,9870312150,333513944143,Nurse,"77/038, Hayer Road, Khora  920530",21,Mandya,Minor Injury,Low,No,Alive,No
+221,156,Chameli Majumdar,Female,38,2006-10-30,9989515946,791534840065,Electrician,"93, Aurora Circle, Mysore 895543",10,Chitradurga,Minor Injury,Low,Yes,Alive,Yes
+222,157,Utkarsh Raval,Male,69,1989-06-04,9984605136,993183323980,Labourer,"81, Bora Circle, Mau 848947",29,Vijayanagara,Major Injury,High,No,Alive,No
+223,158,Warhi Kohli,Female,21,2004-12-10,9987874851,395395306214,Doctor,"07/14, Raja Zila, Berhampur-658804",5,Bengaluru Urban,Major Injury,High,Yes,Alive,Yes
+224,158,Mitali Chander,Female,38,1974-06-20,9914835472,713661621960,Shop Keeper,"27/55, Luthra Ganj, Jhansi 333433",5,Bengaluru Urban,Fatal Injury,Critical,Yes,Deceased,No
+225,159,Kritika Parekh,Female,73,1953-10-26,9908646155,810381124932,Teacher,"H.No. 790, Basak Circle, Serampore 794728",2,Ballari,Major Injury,High,Yes,Alive,Yes
+226,160,Rushil Kapadia,Male,77,2004-04-27,9981338726,353112749125,Nurse,"67/80, Palan Circle, Akola-187500",3,Belagavi,Fatal Injury,Critical,Yes,Deceased,No
+227,161,Sachi Chaudhuri,Female,10,1968-03-21,9878943388,573708281211,Software Engineer,"43/47, Oza, Udaipur 636556",6,Bidar,Minor Injury,Low,Yes,Alive,Yes
+228,162,Varenya Gole,Female,56,1989-02-15,9871065490,300165260172,Government Employee,"43/866, Dhingra Ganj, Bhalswa Jahangir Pur-267288",22,Mysuru,Major Injury,High,Yes,Alive,Yes
+229,162,Yagnesh Mital,Male,13,1961-11-21,9985021295,902573549133,Driver,"H.No. 203, Soni Road, Hospet 455884",22,Mysuru,Minor Injury,Low,No,Alive,Yes
+230,163,Aishani Sabharwal,Female,16,1950-11-11,9901177503,126394528108,Government Employee,"H.No. 55, Sura Circle, Vijayawada-947225",5,Bengaluru Urban,Major Injury,High,Yes,Alive,Yes
+231,164,Tanmayi Bora,Female,14,1947-04-14,9904601451,990935918727,Electrician,"H.No. 54, Rana Road, Raiganj 987622",7,Chamarajanagar,Major Injury,High,No,Alive,No
+232,165,Edhitha Keer,Female,78,1996-10-30,9909514142,907840163367,Engineer,"611, Solanki Zila, Indore 811492",18,Kodagu,Major Injury,High,No,Alive,No
+233,166,Robert More,Male,38,1960-01-20,9964558507,981484016781,Mechanic,"22/820, Parikh Nagar, Fatehpur 848728",22,Mysuru,Minor Injury,Low,No,Alive,No
+234,166,Vedant Saran,Male,73,1985-01-19,9964554510,253672051385,Housewife,"83, Sathe Zila, Ambarnath 424008",22,Mysuru,Fatal Injury,Critical,No,Deceased,Yes
+235,167,Pooja Mangat,Female,45,1980-06-09,9894022306,811506454040,Journalist,"40, Master Marg, Chennai 368663",22,Mysuru,Minor Injury,Low,No,Alive,No
+236,167,Robert Radhakrishnan,Male,63,1959-04-23,9876248612,926908222586,Journalist,"38/944, Luthra Circle, Maheshtala 224179",22,Mysuru,No Physical Injury,Medium,Yes,Alive,No
+237,168,Madhavi Swamy,Female,9,1956-07-09,9918427638,452464710785,Labourer,"H.No. 802, Manda Zila, Cuttack 031207",2,Ballari,Minor Injury,Low,No,Alive,No
+238,169,Onveer Salvi,Male,67,1967-01-16,9883116343,802486264112,Labourer,"05, Dhingra Zila, Shimoga-187234",24,Ramanagara,Fatal Injury,Critical,No,Deceased,No
+239,170,Abha Dara,Female,83,2023-05-26,9872207256,077083209868,Doctor,"30, Sharma Ganj, Saharsa-764520",4,Bengaluru Rural,Minor Injury,Low,Yes,Alive,Yes
+240,171,Jonathan Srivastava,Male,67,1994-10-31,9968992821,835372411942,Shop Keeper,"H.No. 313, Nair Marg, Rourkela-916300",7,Chamarajanagar,Major Injury,High,No,Alive,Yes
+241,172,Garima Prabhu,Female,70,2006-01-28,9904227143,369077096236,Software Engineer,"19, Bhasin Path, Raurkela Industrial Township-812735",5,Bengaluru Urban,Major Injury,High,Yes,Alive,No
+242,173,Urvashi Hans,Female,2,1942-05-16,9909939728,143867207479,Retired,"24/077, Menon Circle, Jhansi-855749",22,Mysuru,Minor Injury,Low,Yes,Alive,Yes
+243,173,Bhavya Wali,Female,65,1953-09-25,9873687400,667146301598,Retired,"57/08, Goyal Marg, Udupi 935186",22,Mysuru,Fatal Injury,Critical,No,Deceased,No
+244,174,Zaitra Tank,Female,18,2005-08-23,9891532033,385005620428,Retired,"H.No. 65, Char Zila, Varanasi-203173",13,Dharwad,Minor Injury,Low,No,Alive,Yes
+245,175,Amol Rama,Male,48,1996-06-24,9889174946,171872418692,Retired,"H.No. 39, Arya Zila, Pallavaram 705865",31,Yadgir,Major Injury,High,Yes,Alive,No
+246,175,Kiaan Wadhwa,Male,4,1944-01-06,9899242560,489323450509,Government Employee,"H.No. 381, Kashyap Zila, Jhansi 839288",31,Yadgir,Major Injury,High,Yes,Alive,Yes
+247,176,Damyanti Parmar,Female,65,1997-11-21,9913961801,143407423949,Government Employee,"286, Nazareth Circle, Deoghar-558556",5,Bengaluru Urban,Minor Injury,Low,No,Alive,No
+248,177,Ojasvi Khosla,Female,79,1988-06-04,9987238397,186701202749,Farmer,"45/77, Acharya Marg, Anantapuram-824043",22,Mysuru,No Physical Injury,Medium,No,Alive,No
+249,177,Nisha Bains,Female,59,2006-02-19,9901713228,785629071924,Housewife,"H.No. 075, Devi Street, Ambarnath 344196",22,Mysuru,Minor Injury,Low,Yes,Alive,No
+250,178,Balvan Nair,Male,51,2007-12-15,9895981086,495096937795,Farmer,"91/940, Raj, Pimpri-Chinchwad-566139",5,Bengaluru Urban,Minor Injury,Low,No,Alive,No
+251,179,Rayaan Bhagat,Male,10,1966-06-19,9919331980,817276144836,Software Engineer,"92/58, Dua Ganj, Singrauli 998136",3,Belagavi,Minor Injury,Low,No,Alive,Yes
+252,180,Shravya Divan,Female,58,1951-10-17,9904547864,403426146524,Shop Keeper,"08/64, Rastogi Zila, Bikaner 783769",26,Tumakuru,No Physical Injury,Medium,No,Alive,Yes
+253,181,Jatin Kibe,Male,39,1946-08-25,9982455955,447835707478,Retired,"91/166, Pall Path, Pondicherry-904259",18,Kodagu,Minor Injury,Low,No,Alive,No
+254,182,Eta Sastry,Female,58,1944-05-16,9918398209,264030644677,Government Employee,"52/110, Divan Ganj, Kanpur-147705",22,Mysuru,Minor Injury,Low,No,Alive,No
+255,182,Hitesh Jani,Male,17,1987-01-02,9880109826,646713440117,Shop Keeper,"20/69, Bassi Circle, Tirunelveli 439407",22,Mysuru,No Physical Injury,Medium,Yes,Alive,No
+256,183,Bahadurjit Rama,Male,26,1996-09-08,9895800679,875524456684,Engineer,"H.No. 463, Trivedi Marg, Satna 981238",6,Bidar,Major Injury,High,Yes,Alive,No
+257,184,Alka Baral,Female,71,1961-08-02,9872681664,417445569874,Private Employee,"62, Palan Nagar, Raichur 384046",30,Vijayapura,No Physical Injury,Medium,No,Alive,No
+258,184,Meera Kar,Female,21,1953-06-14,9912604114,794259326185,Housewife,"H.No. 689, Sahni Ganj, Chapra-649578",30,Vijayapura,Fatal Injury,Critical,No,Deceased,Yes
+259,185,Harshil Devi,Male,16,1989-12-11,9912233082,165679448116,Software Engineer,"H.No. 82, Dhillon Marg, Ratlam-881252",22,Mysuru,Fatal Injury,Critical,Yes,Deceased,Yes
+260,186,Nathaniel Sachdev,Male,81,2022-04-05,9878912457,063184472835,Government Employee,"42/312, Bal Street, Medininagar 933051",23,Raichur,Minor Injury,Low,No,Alive,No
+261,186,Ekalinga Thakkar,Male,20,2012-06-24,9987428444,873010890391,Farmer,"677, Gade Street, Kamarhati-604633",23,Raichur,Minor Injury,Low,Yes,Alive,Yes
+262,187,Bhavini Goel,Female,54,2019-05-12,9908787338,961468664386,Mechanic,"57/366, Rai Nagar, Singrauli-817703",1,Bagalkote,Fatal Injury,Critical,Yes,Deceased,Yes
+263,187,Anusha Ram,Female,50,1984-06-05,9967855253,360852834578,Engineer,"H.No. 76, Mangal Road, Rourkela 490827",1,Bagalkote,Minor Injury,Low,No,Alive,Yes
+264,188,Chakradev Tella,Male,84,1950-03-06,9874503275,796822685137,Engineer,"57, Gola Nagar, Gudivada-714521",17,Kalaburagi,Minor Injury,Low,Yes,Alive,No
+265,189,Deepa Sengupta,Female,13,1994-06-15,9887800844,355532444949,Doctor,"89/268, Bassi Marg, Thanjavur 222064",1,Bagalkote,Fatal Injury,Critical,Yes,Deceased,No
+266,190,Vansha Mani,Female,17,1993-10-21,9965564015,918132513320,Journalist,"094, Shanker Nagar, Panchkula 973397",31,Yadgir,Minor Injury,Low,No,Alive,Yes
+267,190,Tara Sathe,Female,37,1947-04-23,9881705004,343388116761,Teacher,"49/83, Goyal Nagar, Pimpri-Chinchwad 020994",31,Yadgir,Major Injury,High,No,Alive,No
+268,191,Caleb Bawa,Male,51,1949-10-24,9895987687,577515165051,Student,"49/998, Shah Street, Vadodara-455616",10,Chitradurga,Major Injury,High,Yes,Alive,Yes
+269,192,Madhav Sinha,Male,36,1951-12-30,9982885053,549310530952,Teacher,"68/33, Bhardwaj, Aurangabad 794695",17,Kalaburagi,Minor Injury,Low,Yes,Alive,No
+270,192,Zansi Pandya,Female,22,2019-05-12,9876300334,338127547310,Retired,"29, Mannan Ganj, Mumbai-071396",17,Kalaburagi,Major Injury,High,Yes,Alive,No
+271,193,Arin Nath,Male,53,1970-04-12,9962829625,734062939754,Labourer,"34/414, Toor Road, Chennai-556990",5,Bengaluru Urban,No Physical Injury,Medium,Yes,Alive,Yes
+272,194,Indali Narayanan,Female,80,2011-06-07,9896109226,982821500687,Retired,"H.No. 272, Yadav Chowk, Surendranagar Dudhrej-084958",13,Dharwad,No Physical Injury,Medium,Yes,Alive,No
+273,194,Ishita Narula,Female,82,2008-07-08,9899726329,391960015643,Teacher,"405, Warrior Marg, Aurangabad 291450",13,Dharwad,Minor Injury,Low,Yes,Alive,No
+274,195,Samuel Chadha,Male,46,1982-10-22,9983638891,310776718682,Government Employee,"43, Mittal Circle, Gorakhpur-031780",8,Chikkaballapur,No Physical Injury,Medium,Yes,Alive,No
+275,195,Yamini Dube,Female,78,1956-09-22,9880961251,176615719887,Student,"H.No. 21, Deo Circle, Vadodara-681040",8,Chikkaballapur,Minor Injury,Low,No,Alive,No
+276,196,Ojas Sibal,Male,55,2016-02-20,9966683841,545070953338,Driver,"H.No. 943, Iyer Path, Baranagar 857142",3,Belagavi,Fatal Injury,Critical,No,Deceased,Yes
+277,196,Laksh Contractor,Male,26,1941-11-08,9883060407,982498852054,Labourer,"58/54, Mander Street, Tirunelveli 495870",3,Belagavi,Minor Injury,Low,Yes,Alive,Yes
+278,197,Akshay Sinha,Male,5,2017-05-03,9903801943,606523072560,Retired,"01, Ramanathan Marg, Kavali 954538",13,Dharwad,Minor Injury,Low,Yes,Alive,No
+279,198,Viraj Deep,Male,59,1948-06-15,9913115071,562474270349,Mechanic,"47, Kata Chowk, Asansol-562557",18,Kodagu,Fatal Injury,Critical,Yes,Deceased,Yes
+280,198,Amruta Bhattacharyya,Female,40,1980-12-17,9913305605,884129736695,Journalist,"24, Datta Path, Machilipatnam 581487",18,Kodagu,Minor Injury,Low,No,Alive,No
+281,199,Triveni Khare,Female,43,1993-05-01,9881894966,424788348003,Doctor,"15, Sankar Ganj, Tezpur-832197",22,Mysuru,Major Injury,High,No,Alive,No
+282,200,Vincent Nanda,Male,81,1987-09-28,9919391222,182112181683,Labourer,"H.No. 61, Chopra, Khammam-013290",13,Dharwad,Minor Injury,Low,Yes,Alive,No
+283,201,Falguni Sethi,Female,85,1985-09-18,9889998801,971335920615,Housewife,"354, Modi, Hapur-909862",24,Ramanagara,Fatal Injury,Critical,Yes,Deceased,Yes
+284,202,Bhavani Pingle,Female,17,2017-02-23,9985547776,138735175494,Journalist,"85/140, Sankaran Ganj, Ratlam 666832",24,Ramanagara,Major Injury,High,Yes,Alive,Yes
+285,203,Ekaraj Guha,Male,26,1987-10-08,9908338593,510435464448,Private Employee,"422, Bora Nagar, Asansol 621267",15,Hassan,Minor Injury,Low,Yes,Alive,Yes
+286,203,Hemangini Sha,Female,30,1983-11-10,9896308567,900021338627,Nurse,"H.No. 32, Amble Marg, Patiala-689500",15,Hassan,No Physical Injury,Medium,No,Alive,Yes
+287,204,Raksha Chowdhury,Female,37,1989-11-18,9983998706,998272255483,Business,"84/781, Chakrabarti Circle, Chittoor 894905",26,Tumakuru,Minor Injury,Low,No,Alive,No
+288,205,Wahab Setty,Male,57,1984-02-19,9908018374,632477625501,Housewife,"54, Ganesh Road, Kavali-940792",11,Dakshina Kannada,No Physical Injury,Medium,No,Alive,No
+289,205,Madhav Bala,Male,51,1964-12-08,9875115480,150641092260,Engineer,"14/42, Mand, Bardhaman 192927",11,Dakshina Kannada,Minor Injury,Low,Yes,Alive,Yes
+290,206,Harita Lal,Female,53,2007-01-27,9901154098,124746955620,Teacher,"805, Dhillon Zila, Shimla-637239",25,Shivamogga,Minor Injury,Low,No,Alive,Yes
+291,206,Avni Lalla,Female,73,2004-10-09,9904572847,726812874915,Farmer,"767, Soni Road, Nadiad 742860",25,Shivamogga,Minor Injury,Low,Yes,Alive,Yes
+292,207,Vanya Raja,Female,81,1998-03-25,9912967249,590173425406,Private Employee,"56/94, Madan Path, Navi Mumbai 967393",5,Bengaluru Urban,Major Injury,High,No,Alive,No
+293,208,Gautam Munshi,Male,51,1987-02-08,9870193740,529188101253,Student,"H.No. 618, Sehgal Zila, Muzaffarnagar 430091",22,Mysuru,Minor Injury,Low,No,Alive,Yes
+294,209,Janani Dara,Female,46,2000-09-28,9882062688,678330077932,Retired,"26/92, Gour Zila, Durg 174654",22,Mysuru,Minor Injury,Low,Yes,Alive,Yes
+295,210,Bina Malhotra,Female,25,2006-08-12,9966287811,413512591231,Housewife,"H.No. 04, Gokhale Road, Coimbatore-396271",2,Ballari,Minor Injury,Low,Yes,Alive,No
+296,211,Tanveer Kamdar,Male,59,1992-09-29,9880863023,591598195966,Doctor,"41/011, Krishna, Surat 200642",20,Koppal,No Physical Injury,Medium,No,Alive,Yes
+297,212,Shivani Aggarwal,Female,62,1984-05-13,9873653625,926837760321,Farmer,"61, Kara Circle, Yamunanagar-198554",23,Raichur,Minor Injury,Low,Yes,Alive,No
+298,213,Baghyawati Chana,Female,18,1971-08-12,9893707487,273209986285,Student,"43, Baral Street, Jhansi 615717",1,Bagalkote,Minor Injury,Low,Yes,Alive,No
+299,214,Ekaraj Banik,Male,25,1956-12-20,9876120589,207372122462,Teacher,"18, Tata Road, Pune-505061",3,Belagavi,Fatal Injury,Critical,No,Deceased,No
+300,215,Yutika Shanker,Female,22,2020-06-19,9904577870,387951724436,Doctor,"H.No. 027, Sinha Nagar, Latur-020417",5,Bengaluru Urban,Minor Injury,Low,No,Alive,Yes
+301,215,Azad Cherian,Male,25,1950-04-06,9870574999,346540935142,Government Employee,"656, Dara Path, Pondicherry-092511",5,Bengaluru Urban,No Physical Injury,Medium,No,Alive,No
+302,216,Ekavir Sagar,Male,84,1954-11-04,9909720866,662462698076,Private Employee,"39, Deol Nagar, Pudukkottai 207100",3,Belagavi,No Physical Injury,Medium,Yes,Alive,Yes
+303,217,Chanchal Mander,Female,22,1975-12-09,9984655857,798157822760,Shop Keeper,"248, Sabharwal Chowk, Akola-927914",16,Haveri,Minor Injury,Low,Yes,Alive,Yes
+304,217,Shaurya Agrawal,Male,54,1987-12-18,9914241114,515227819849,Lawyer,"19/58, Kanda Circle, Dhule-031277",16,Haveri,Minor Injury,Low,Yes,Alive,No
+305,218,Fariq Bassi,Male,49,1945-02-24,9872354610,705905069794,Retired,"645, Setty, Vasai-Virar 822078",11,Dakshina Kannada,Minor Injury,Low,No,Alive,No
+306,219,Bimala Keer,Female,41,2001-11-16,9982336988,084890159724,Shop Keeper,"531, Kari Path, Patiala 363179",9,Chikkamagaluru,Major Injury,High,No,Alive,Yes
+307,220,Avi Sarin,Male,82,1952-11-16,9983689762,477399466136,Engineer,"52, Hari Chowk, Gopalpur-520904",10,Chitradurga,Major Injury,High,Yes,Alive,Yes
+308,220,Dayamai Shroff,Female,12,1979-07-16,9898994894,521961909332,Shop Keeper,"492, Garde, Chandigarh-873977",10,Chitradurga,Major Injury,High,Yes,Alive,Yes
+309,221,Advika Sangha,Female,12,2003-02-18,9986897663,773658821007,Software Engineer,"H.No. 69, Dixit Ganj, Erode-078068",18,Kodagu,No Physical Injury,Medium,No,Alive,Yes
+310,222,Wakeeta Chaudhari,Female,49,1979-01-06,9917351347,791651083822,Doctor,"06/32, Merchant Path, Mysore-742799",3,Belagavi,Major Injury,High,No,Alive,Yes
+311,223,Utkarsh Sheth,Male,77,2006-03-01,9893919748,473938278708,Shop Keeper,"H.No. 70, Rajan Zila, Bettiah-464989",23,Raichur,Minor Injury,Low,No,Alive,No
+312,223,Banjeet Nayak,Male,3,2003-02-05,9913443307,297503780936,Labourer,"H.No. 165, Baria Chowk, Ambarnath 818325",23,Raichur,Major Injury,High,No,Alive,No
+313,224,Dakshesh Sridhar,Male,27,2003-03-27,9888163817,839610349153,Doctor,"H.No. 54, Sampath Circle, Meerut-557788",1,Bagalkote,Minor Injury,Low,No,Alive,Yes
+314,225,Wahab Wali,Male,16,1998-03-19,9883351779,604836401169,Journalist,"51/37, Buch Zila, Mangalore 112412",31,Yadgir,Minor Injury,Low,No,Alive,No
+315,226,Faqid Jayaraman,Male,76,1984-10-25,9883972137,854738750858,Business,"82, Palan Chowk, Raiganj 431038",16,Haveri,Major Injury,High,Yes,Alive,Yes
+316,227,Samesh Oza,Male,1,1996-04-18,9914305602,701291962099,Nurse,"88/77, Deo Road, Tirunelveli 375402",9,Chikkamagaluru,Minor Injury,Low,No,Alive,Yes
+317,228,Meghana Shah,Female,41,2021-11-01,9919965660,018215527452,Lawyer,"222, Dada Ganj, Ratlam-745238",17,Kalaburagi,Major Injury,High,No,Alive,No
+318,229,Nathan Padmanabhan,Male,33,1953-02-18,9964650796,136864194060,Software Engineer,"41/06, Dhillon Chowk, Imphal-088547",22,Mysuru,Minor Injury,Low,No,Alive,Yes
+319,230,Falak Sathe,Female,82,1969-05-06,9873328203,931917384578,Software Engineer,"H.No. 281, Bakshi Road, Tadipatri 751509",23,Raichur,Major Injury,High,Yes,Alive,Yes
+320,230,Zansi Kapadia,Female,50,2006-12-19,9883795584,105113707972,Labourer,"H.No. 187, Vala Zila, Jammu 599805",23,Raichur,Major Injury,High,Yes,Alive,No
+321,231,Falak Sane,Female,60,1971-12-23,9912957926,037860205029,Student,"H.No. 55, Sehgal Road, Thrissur 674266",2,Ballari,Fatal Injury,Critical,No,Deceased,Yes
+322,232,Chameli Dhawan,Female,64,1958-03-21,9916651018,045396999604,Engineer,"H.No. 961, Rout Nagar, Vijayanagaram-879232",14,Gadag,Minor Injury,Low,Yes,Alive,Yes
+323,233,Maanav Swaminathan,Male,47,1944-02-24,9981304193,688824206399,Engineer,"87, Bala Ganj, Jamnagar 471462",18,Kodagu,No Physical Injury,Medium,Yes,Alive,No
+324,233,Krisha Balakrishnan,Female,8,1950-09-14,9890421374,041584907243,Lawyer,"H.No. 959, Sarin Chowk, Fatehpur 589042",18,Kodagu,Minor Injury,Low,No,Alive,Yes
+325,234,Eta Nagarajan,Female,85,1979-09-30,9984170871,214306999144,Doctor,"045, Parekh Marg, Ramagundam-818321",5,Bengaluru Urban,Major Injury,High,No,Alive,No
+326,235,Ojasvi Mutti,Female,17,2010-11-02,9879713060,845042046712,Electrician,"51/895, Arya Street, Kadapa 576521",2,Ballari,Minor Injury,Low,Yes,Alive,No
+327,235,Faras Thakur,Male,61,1959-05-09,9967176186,114211018357,Driver,"71, Deep Zila, Nangloi Jat-452798",2,Ballari,No Physical Injury,Medium,No,Alive,No
+328,236,Harini Modi,Female,8,1943-01-01,9914013972,810632264243,Student,"234, Kadakia Street, Vijayawada 110760",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,No
+329,236,Darika Bali,Female,47,2007-12-20,9967536238,171596179053,Business,"H.No. 401, Anne Road, Amravati 932501",5,Bengaluru Urban,Major Injury,High,Yes,Alive,Yes
+330,237,Liam Pall,Male,25,1970-06-30,9905288998,479049505610,Business,"H.No. 908, Handa Ganj, Tirunelveli-138759",17,Kalaburagi,Major Injury,High,No,Alive,No
+331,237,Thomas Chhabra,Male,22,1955-12-06,9907374211,268747532751,Driver,"38, Reddy Ganj, Satara 718275",17,Kalaburagi,Minor Injury,Low,No,Alive,Yes
+332,238,Anmol Butala,Male,36,1968-06-12,9882762850,363075746308,Driver,"H.No. 79, Sawhney Road, Begusarai 463175",3,Belagavi,Fatal Injury,Critical,No,Deceased,Yes
+333,239,Abha Swamy,Female,3,1997-09-07,9916895769,266243268347,Doctor,"11/26, Chaudry Marg, Amritsar-353961",17,Kalaburagi,Minor Injury,Low,No,Alive,Yes
+334,240,Unnati Tata,Female,24,1964-03-25,9901814760,113600299157,Software Engineer,"H.No. 79, Sundaram Marg, Siliguri 114773",24,Ramanagara,Fatal Injury,Critical,No,Deceased,No
+335,240,Alexander Chaudhary,Male,15,2003-04-09,9980891729,570758801788,Shop Keeper,"02/695, Mitter Street, Solapur 734778",24,Ramanagara,Minor Injury,Low,Yes,Alive,Yes
+336,241,Onveer Zachariah,Male,70,1987-01-08,9962500518,402233296679,Software Engineer,"H.No. 675, Savant Marg, Vadodara 284276",25,Shivamogga,Major Injury,High,Yes,Alive,Yes
+337,242,Nimrat Ramachandran,Female,46,1981-12-28,9876199861,556163831969,Teacher,"88/977, Dugar Circle, Katni 796954",3,Belagavi,Fatal Injury,Critical,Yes,Deceased,Yes
+338,243,Azaan Bala,Male,41,1990-09-30,9883774059,209133464738,Driver,"H.No. 90, Rai Path, Haldia-565033",11,Dakshina Kannada,Major Injury,High,No,Alive,No
+339,244,Nimrat Chad,Female,69,2017-12-09,9914520757,820328341193,Doctor,"H.No. 520, Nanda Circle, Jaunpur 986407",11,Dakshina Kannada,Fatal Injury,Critical,No,Deceased,No
+340,245,Nathan Purohit,Male,71,1989-01-14,9902801973,093760880300,Retired,"13, Taneja Path, Rourkela 563718",22,Mysuru,Major Injury,High,Yes,Alive,Yes
+341,246,Mitali Lanka,Female,18,1944-08-06,9965947460,106611349472,Mechanic,"19/19, Mahajan Path, Tezpur-635148",6,Bidar,Major Injury,High,Yes,Alive,No
+342,247,Tarak Zacharia,Male,35,1967-03-12,9875912621,758843681861,Teacher,"H.No. 98, Gole Chowk, Hazaribagh-973748",1,Bagalkote,Minor Injury,Low,No,Alive,No
+343,248,Ayushman Vig,Male,31,1957-08-12,9891120912,920509400397,Engineer,"246, Nagar Marg, Kurnool-442493",26,Tumakuru,No Physical Injury,Medium,Yes,Alive,No
+344,249,Kashvi Comar,Female,46,1953-04-21,9887047181,535821480788,Lawyer,"H.No. 77, Sarin Circle, Vadodara 242044",25,Shivamogga,Major Injury,High,No,Alive,No
+345,250,Ansh Sunder,Male,44,2007-01-18,9893848732,601648185970,Housewife,"H.No. 94, Ray Zila, Mysore 231981",20,Koppal,Minor Injury,Low,Yes,Alive,No
+346,251,Yuvraj Chana,Male,9,1960-10-17,9895307499,749994324664,Housewife,"H.No. 96, Sampath Ganj, Asansol 234764",21,Mandya,Major Injury,High,No,Alive,Yes
+347,251,Xalak Walla,Female,65,1972-05-29,9902866672,808213034046,Labourer,"67/34, Patil Street, Arrah 090034",21,Mandya,No Physical Injury,Medium,Yes,Alive,Yes
+348,252,Mohammed Patil,Male,14,2017-04-29,9907133947,420146306393,Shop Keeper,"60, Kumer Marg, Mysore 432756",16,Haveri,Minor Injury,Low,Yes,Alive,Yes
+349,253,Laksh Buch,Male,3,2010-07-12,9986260042,785628093713,Shop Keeper,"65/612, Toor Road, Nagercoil-985700",22,Mysuru,Minor Injury,Low,Yes,Alive,No
+350,253,Vamakshi Deshpande,Female,74,1940-10-26,9908581751,687870894376,Student,"H.No. 91, Dugar Zila, Hazaribagh-965772",22,Mysuru,Minor Injury,Low,No,Alive,Yes
+351,254,Harini Narang,Female,82,2008-07-08,9910294513,399508085866,Retired,"52, Purohit Marg, Jaipur-893173",24,Ramanagara,Major Injury,High,No,Alive,No
+352,255,Hamsini Bawa,Female,67,1974-08-24,9983943514,266679900800,Software Engineer,"152, Dalal, Hajipur-771333",22,Mysuru,No Physical Injury,Medium,No,Alive,Yes
+353,256,Mitali Talwar,Female,65,1973-01-12,9918682751,893749673975,Electrician,"34/36, Rege Street, Bhopal-439735",15,Hassan,Minor Injury,Low,No,Alive,No
+354,256,Brijesh Anne,Male,1,1980-05-30,9900078573,154536309493,Private Employee,"36/694, Chandran Zila, Faridabad 375990",15,Hassan,Major Injury,High,No,Alive,Yes
+355,257,Lajita Thaman,Female,30,1993-03-24,9877115379,813000716595,Doctor,"52/809, Lad Street, Ambala 572158",12,Davanagere,Minor Injury,Low,No,Alive,No
+356,257,Ekavir Lad,Male,31,1950-06-28,9968252777,629665145128,Shop Keeper,"45, Mandal Marg, Pudukkottai 856257",12,Davanagere,Minor Injury,Low,No,Alive,Yes
+357,258,Urvi Bera,Female,13,1956-08-13,9907446248,641296681339,Student,"074, Sibal Street, Bhiwandi 075877",25,Shivamogga,Major Injury,High,Yes,Alive,No
+358,259,Daksh Divan,Male,25,1951-01-25,9910051812,327924935274,Private Employee,"H.No. 22, Mahajan Circle, Ballia 892613",5,Bengaluru Urban,Major Injury,High,Yes,Alive,No
+359,259,Champak Narasimhan,Male,26,1942-10-07,9968791751,274452313138,Labourer,"H.No. 91, Dube Path, Jodhpur 774905",5,Bengaluru Urban,Fatal Injury,Critical,Yes,Deceased,Yes
+360,260,Varsha Nair,Female,76,2021-02-01,9902869301,373063713034,Driver,"H.No. 450, Raj Zila, Silchar-236103",26,Tumakuru,Fatal Injury,Critical,Yes,Deceased,No
+361,260,Sara Rau,Female,78,1964-10-11,9885126880,847331849411,Private Employee,"H.No. 76, Deep Road, Jalandhar-837767",26,Tumakuru,Minor Injury,Low,Yes,Alive,Yes
+362,261,Udyati Chana,Female,3,2004-11-10,9967504190,553048433307,Farmer,"61, Varghese Nagar, Madhyamgram 278814",29,Vijayanagara,Major Injury,High,No,Alive,No
+363,261,Urmi Buch,Female,64,2017-09-02,9986989128,198720788506,Farmer,"243, Sane Circle, Jehanabad-810818",29,Vijayanagara,Minor Injury,Low,Yes,Alive,Yes
+364,262,Triveni Chandra,Female,10,1980-01-20,9893682114,187894415569,Shop Keeper,"H.No. 91, Babu Circle, Surendranagar Dudhrej 260164",20,Koppal,Minor Injury,Low,Yes,Alive,Yes
+365,263,Vasana Sengupta,Female,38,1993-07-31,9960586720,900281125587,Labourer,"321, Lad, Raebareli 061027",25,Shivamogga,Minor Injury,Low,Yes,Alive,Yes
+366,264,Samaksh Sur,Male,29,1966-04-18,9893462404,695141104245,Software Engineer,"H.No. 12, Atwal Street, Gorakhpur 303723",13,Dharwad,Minor Injury,Low,Yes,Alive,No
+367,265,Ikshita Chadha,Female,28,1966-02-19,9883434303,911126510211,Journalist,"60, Ganesan Zila, Raiganj-707933",25,Shivamogga,No Physical Injury,Medium,No,Alive,Yes
+368,266,Rohan Behl,Male,69,1968-12-07,9872864328,641267201967,Driver,"79, Mannan, Morbi 789973",5,Bengaluru Urban,No Physical Injury,Medium,Yes,Alive,No
+369,267,Aditya Sami,Male,22,1989-07-21,9883496409,817034084006,Driver,"67/179, Sen Path, Jaipur 437573",27,Udupi,Minor Injury,Low,Yes,Alive,Yes
+370,268,Omkaar Sidhu,Male,13,1951-09-15,9898343562,483356884256,Retired,"57, Johal Street, Chandigarh 223297",3,Belagavi,Minor Injury,Low,Yes,Alive,Yes
+371,269,Triya Tak,Female,64,1966-05-15,9872793719,698684952683,Electrician,"H.No. 545, Ghosh Street, Rajkot-619318",19,Kolar,Minor Injury,Low,No,Alive,Yes
+372,270,Yagnesh Kuruvilla,Male,75,2025-01-07,9917817573,109165251402,Business,"42/89, Bedi Zila, Berhampore 199180",6,Bidar,Major Injury,High,No,Alive,Yes
+373,271,Fiyaz Dalal,Male,63,2014-08-01,9890380187,595971749209,Private Employee,"47/871, Patla Street, Durgapur 376037",14,Gadag,Minor Injury,Low,No,Alive,No
+374,271,Luke Tiwari,Male,34,1955-02-11,9895148817,241329417805,Engineer,"65/328, Kari Marg, Haldia 678507",14,Gadag,Major Injury,High,No,Alive,No
+375,272,Aashi Varughese,Female,55,2020-10-07,9904405947,632515527340,Engineer,"H.No. 62, Bhat Marg, Vadodara 908466",5,Bengaluru Urban,Fatal Injury,Critical,No,Deceased,Yes
+376,272,Naksh Padmanabhan,Male,8,1941-03-25,9898630243,076702174268,Mechanic,"67/389, Sathe, Machilipatnam 410856",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,No
+377,273,Lucky Kala,Male,15,1948-06-12,9870610248,401498858686,Student,"20/089, Khurana Road, Bhusawal 054851",22,Mysuru,Minor Injury,Low,Yes,Alive,Yes
+378,274,David Sen,Male,22,1965-11-19,9917542694,636144045036,Labourer,"H.No. 39, Walla, Etawah 492683",17,Kalaburagi,No Physical Injury,Medium,Yes,Alive,No
+379,274,Nihal Varty,Male,60,1990-01-22,9964015829,551165481769,Shop Keeper,"H.No. 266, Chanda Zila, Khandwa 737158",17,Kalaburagi,Minor Injury,Low,No,Alive,No
+380,275,Rudra Lalla,Male,74,1990-03-23,9969751393,640810194798,Driver,"76/228, Sundaram Street, Bikaner-377028",2,Ballari,Major Injury,High,Yes,Alive,Yes
+381,275,Dhriti Rege,Female,54,1949-12-08,9870207436,011416514627,Engineer,"H.No. 821, Mody Path, Avadi 702296",2,Ballari,Minor Injury,Low,Yes,Alive,Yes
+382,276,Michael Mander,Male,81,1958-11-18,9960010758,369751285388,Labourer,"H.No. 851, Sahni Nagar, Chapra-975679",31,Yadgir,Fatal Injury,Critical,No,Deceased,No
+383,276,Ekapad Thaman,Male,73,1994-08-28,9871514050,828338125256,Farmer,"519, Rout, Muzaffarpur-580741",31,Yadgir,Minor Injury,Low,Yes,Alive,No
+384,277,Amaira More,Female,84,1988-03-31,9870428028,379048568830,Teacher,"989, Vig Nagar, Fatehpur 182043",25,Shivamogga,Minor Injury,Low,No,Alive,Yes
+385,277,Vamakshi Chad,Female,6,2009-02-22,9870564389,007858675076,Retired,"07/05, Gole Marg, Nagpur 641118",25,Shivamogga,Minor Injury,Low,Yes,Alive,Yes
+386,278,Mekhala Dhawan,Female,16,1956-02-01,9919314025,278759078011,Government Employee,"H.No. 62, Nanda Nagar, Indore 461526",1,Bagalkote,Minor Injury,Low,Yes,Alive,No
+387,279,Kai Prashad,Male,78,2020-08-04,9904102547,392797265265,Retired,"399, Tailor Ganj, Raipur 057861",7,Chamarajanagar,Minor Injury,Low,No,Alive,No
+388,280,Akshay Reddy,Male,27,1994-05-29,9888535177,024790825390,Private Employee,"91/38, Modi Street, Amroha 832582",18,Kodagu,No Physical Injury,Medium,No,Alive,Yes
+389,280,Udyati Seth,Female,50,1944-02-10,9900214035,306899857384,Farmer,"20/074, Krishna, Etawah-984028",18,Kodagu,Minor Injury,Low,Yes,Alive,No
+390,281,Netra Chakraborty,Female,69,1974-02-27,9904772949,292629725022,Student,"84/639, Nadkarni Circle, Bhilwara 435537",18,Kodagu,Minor Injury,Low,Yes,Alive,No
+391,282,Adweta Deol,Female,34,1995-07-04,9981444948,209263017281,Doctor,"H.No. 026, Suresh Circle, Siwan 180715",9,Chikkamagaluru,Major Injury,High,Yes,Alive,Yes
+392,283,Praneel Ram,Male,84,1955-08-14,9871543529,990885021510,Journalist,"53, Andra Chowk, Jaipur 531943",18,Kodagu,Minor Injury,Low,No,Alive,No
+393,283,Yatin Patil,Male,83,1943-09-08,9908137346,496109906857,Journalist,"H.No. 361, Tella Road, Tirunelveli-999219",18,Kodagu,Major Injury,High,No,Alive,Yes
+394,284,Bhavini Datta,Female,75,1962-08-17,9876176999,596751876653,Journalist,"089, Setty Road, Purnia-566418",22,Mysuru,Minor Injury,Low,No,Alive,Yes
+395,284,Yachana Pathak,Female,32,1984-07-10,9987347127,833596644581,Retired,"H.No. 468, Mutti Chowk, Katni 519036",22,Mysuru,Major Injury,High,Yes,Alive,No
+396,285,Kritika Hegde,Female,44,1954-07-16,9891451481,141477418801,Engineer,"10/760, Natt, Shahjahanpur 735058",19,Kolar,Minor Injury,Low,No,Alive,No
+397,286,Bina Sarna,Female,17,2005-07-04,9906223836,170999674777,Journalist,"H.No. 006, Bhattacharyya Path, Ghaziabad-049611",22,Mysuru,Major Injury,High,Yes,Alive,Yes
+398,286,Atharv Menon,Male,76,2012-10-19,9913634559,023585843311,Business,"63/99, Setty Nagar, Madhyamgram-991507",22,Mysuru,Fatal Injury,Critical,No,Deceased,No
+399,287,Inaya Chokshi,Female,13,1949-04-15,9892124829,979612870995,Student,"28/45, Srivastava Marg, Gaya 200249",22,Mysuru,Fatal Injury,Critical,No,Deceased,Yes
+400,288,Yashvi Parmar,Female,27,1967-01-04,9899575821,784428971307,Housewife,"49, Manne Path, Bangalore-038806",23,Raichur,Major Injury,High,Yes,Alive,No
+401,288,Indira Iyer,Female,59,1995-01-02,9967606801,751586962582,Shop Keeper,"H.No. 37, Narula Chowk, Tadepalligudem-652170",23,Raichur,Minor Injury,Low,Yes,Alive,No
+402,289,Imaran Aggarwal,Male,64,1994-11-08,9891605724,467066623598,Mechanic,"33/75, Jha Marg, Udaipur-501508",24,Ramanagara,Fatal Injury,Critical,No,Deceased,No
+403,290,Ekta Mannan,Female,77,1977-12-28,9895229874,424196331888,Driver,"H.No. 334, Kanda Street, Akola 832302",12,Davanagere,Major Injury,High,Yes,Alive,No
+404,291,Daksha Bail,Female,65,2011-03-26,9888707233,439273834512,Housewife,"15/347, Pingle Ganj, Tirunelveli-112233",3,Belagavi,Major Injury,High,Yes,Alive,Yes
+405,291,Rachit Nadkarni,Male,49,1991-07-09,9877337002,598372134520,Engineer,"93/84, Narang Street, Meerut-289731",3,Belagavi,Fatal Injury,Critical,Yes,Deceased,No
+406,292,Bhavini Ganesh,Female,6,1983-10-16,9882066078,348880577075,Software Engineer,"72/55, Subramanian Circle, Bhalswa Jahangir Pur 969033",17,Kalaburagi,No Physical Injury,Medium,No,Alive,Yes
+407,293,Varsha Keer,Female,42,1974-03-18,9905022264,209549520433,Software Engineer,"92, Kumar Path, Guntur 478539",12,Davanagere,Major Injury,High,No,Alive,Yes
+408,294,Viraj Vala,Male,51,1993-05-09,9982356389,018421647527,Mechanic,"66, Tank Path, Darbhanga-027341",5,Bengaluru Urban,Minor Injury,Low,No,Alive,Yes
+409,295,Benjamin Menon,Male,42,2012-03-06,9965406775,363758901637,Software Engineer,"111, Barad Path, Thoothukudi 544439",7,Chamarajanagar,Minor Injury,Low,Yes,Alive,Yes
+410,296,Leena Anand,Female,15,2006-01-05,9878465184,019782385126,Government Employee,"69, Sodhi Nagar, Sikar 337389",4,Bengaluru Rural,Fatal Injury,Critical,No,Deceased,No
+411,296,Vedhika Oak,Female,27,2007-11-14,9899781580,410931653041,Nurse,"63, Sengupta Chowk, Dindigul 924075",4,Bengaluru Rural,Minor Injury,Low,Yes,Alive,No
+412,297,Isaiah Saini,Male,25,1976-09-28,9892947379,562512151563,Journalist,"H.No. 90, Balay, Jamnagar-999966",4,Bengaluru Rural,Major Injury,High,No,Alive,No
+413,298,Rohan Bhatt,Male,22,1985-12-27,9877908118,380546351533,Mechanic,"H.No. 597, Chander Road, Vasai-Virar-097023",25,Shivamogga,Major Injury,High,No,Alive,Yes
+414,299,Reyansh Mander,Male,22,1958-01-22,9968785476,543034672599,Lawyer,"05, Apte Circle, Khammam 621286",8,Chikkaballapur,Minor Injury,Low,Yes,Alive,Yes
+415,299,Bhavya Ramachandran,Female,47,2021-09-27,9911539950,266397205074,Labourer,"467, Mukherjee Street, Ambala-430271",8,Chikkaballapur,Major Injury,High,No,Alive,Yes
+416,300,Krishna Vora,Female,83,1968-07-06,9985136771,808147382867,Housewife,"90, Mani Zila, Sri Ganganagar-692632",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,No
+417,300,Veer Rajagopalan,Male,52,2017-12-23,9908608570,421517802335,Journalist,"03, Mahal Street, Jabalpur-768151",5,Bengaluru Urban,Major Injury,High,No,Alive,Yes
+418,301,Zayyan Nanda,Male,12,1975-06-01,9887159772,307286917107,Doctor,"807, Bora Nagar, Eluru-636004",26,Tumakuru,Minor Injury,Low,No,Alive,No
+419,302,Ekansh Narain,Male,25,1997-07-13,9898126245,364680835273,Mechanic,"11, Kibe Circle, Kolhapur-422091",15,Hassan,Fatal Injury,Critical,Yes,Deceased,No
+420,302,Nandini Dash,Female,12,1986-01-01,9917240161,153350768043,Software Engineer,"H.No. 042, Parmar Chowk, Thrissur-837081",15,Hassan,Major Injury,High,Yes,Alive,No
+421,303,Nikita Sawhney,Female,21,1945-01-05,9905746567,427644092991,Electrician,"33, Khare Path, Mysore 600531",25,Shivamogga,Minor Injury,Low,No,Alive,Yes
+422,303,Chanakya Ganesh,Male,66,2002-02-05,9889899197,139937841018,Teacher,"15/58, Johal Ganj, Haldia 331552",25,Shivamogga,Minor Injury,Low,Yes,Alive,Yes
+423,304,Sai Mutti,Male,56,1941-07-29,9877157010,532434293393,Mechanic,"149, Bassi Path, Bellary-497189",30,Vijayapura,Minor Injury,Low,No,Alive,No
+424,305,Jeremiah Chandran,Male,45,1991-07-19,9906908123,505302403031,Mechanic,"H.No. 25, Bir Chowk, Surat-683890",11,Dakshina Kannada,Minor Injury,Low,No,Alive,No
+425,306,Advaith Dash,Male,34,1966-10-23,9901351837,648115606640,Software Engineer,"10/25, Minhas Chowk, Saharanpur-303975",7,Chamarajanagar,Minor Injury,Low,No,Alive,No
+426,306,Maya Nadkarni,Female,43,1995-04-07,9985379536,139518740214,Government Employee,"40/355, Jha Ganj, Kulti 968527",7,Chamarajanagar,Minor Injury,Low,No,Alive,No
+427,307,Bhavini Swamy,Female,38,1946-07-04,9988513036,530720076429,Driver,"23/212, Jayaraman, Guna-674233",5,Bengaluru Urban,Major Injury,High,No,Alive,Yes
+428,307,Gaurang Kothari,Male,42,1966-04-28,9890678157,363417770997,Mechanic,"H.No. 71, Rao Path, Rourkela-768962",5,Bengaluru Urban,Major Injury,High,Yes,Alive,Yes
+429,308,Aishani Raj,Female,74,1976-11-19,9902926150,312027624760,Housewife,"82/82, Rai Road, Farrukhabad 468971",22,Mysuru,Minor Injury,Low,Yes,Alive,Yes
+430,309,Ekanta Singh,Female,78,1957-03-12,9984455453,381845134650,Government Employee,"H.No. 857, Sagar Marg, Dindigul-749160",17,Kalaburagi,Major Injury,High,Yes,Alive,Yes
+431,309,Sanya Gaba,Female,39,1957-01-25,9897441565,477279353913,Software Engineer,"58/750, Samra Marg, Latur-050249",17,Kalaburagi,Minor Injury,Low,No,Alive,Yes
+432,310,Ethan Kumar,Male,52,1961-08-03,9914745331,897353844849,Mechanic,"H.No. 166, Buch, Bhusawal-644886",3,Belagavi,Minor Injury,Low,Yes,Alive,No
+433,310,Tripti Chakraborty,Female,84,1949-11-05,9886054410,265054061669,Private Employee,"H.No. 36, Ahuja Road, Pallavaram 116864",3,Belagavi,Minor Injury,Low,Yes,Alive,Yes
+434,311,Harinakshi Goda,Female,48,1972-05-27,9968199328,242697951639,Labourer,"28, Seshadri Zila, Gaya-023467",20,Koppal,Minor Injury,Low,Yes,Alive,Yes
+435,312,Fiyaz Buch,Male,53,1965-06-22,9985437985,769748088703,Labourer,"H.No. 15, Keer Nagar, Shivpuri-004090",29,Vijayanagara,No Physical Injury,Medium,No,Alive,Yes
+436,312,Hitesh Vig,Male,19,2007-11-10,9982871143,972060842224,Electrician,"75, Sanghvi, Uluberia-535669",29,Vijayanagara,Fatal Injury,Critical,No,Deceased,Yes
+437,313,Pranav Narayanan,Male,19,2009-02-02,9912233291,644276123602,Journalist,"62/091, Mammen Circle, Arrah 978630",18,Kodagu,Minor Injury,Low,Yes,Alive,No
+438,314,Adweta Parsa,Female,66,2014-10-19,9968549965,553968443602,Doctor,"976, Bumb, Haldia 164932",5,Bengaluru Urban,Minor Injury,Low,No,Alive,Yes
+439,315,Devansh Tank,Male,46,2008-04-15,9904998875,226303055789,Journalist,"717, Khosla Circle, Rajpur Sonarpur 116025",16,Haveri,Minor Injury,Low,Yes,Alive,Yes
+440,316,Meera Kannan,Female,24,2001-09-08,9969827192,277991322740,Farmer,"28/715, Bhattacharyya Ganj, Burhanpur-863341",13,Dharwad,No Physical Injury,Medium,No,Alive,Yes
+441,317,Caleb Choudhury,Male,62,1948-02-19,9874405520,497465679242,Housewife,"52/56, Agarwal, Ghaziabad-665528",5,Bengaluru Urban,Major Injury,High,No,Alive,No
+442,317,Damyanti Rana,Female,34,1941-05-04,9985365617,108541760836,Business,"437, Din Chowk, Ulhasnagar-954814",5,Bengaluru Urban,Fatal Injury,Critical,Yes,Deceased,Yes
+443,318,Hritik Talwar,Male,40,1965-05-02,9913746926,313116354547,Electrician,"H.No. 23, Ben Ganj, Morbi-420865",29,Vijayanagara,Minor Injury,Low,No,Alive,No
+444,319,Vritti Pall,Female,19,2004-12-17,9893374434,749389707272,Housewife,"44/38, Chatterjee Marg, North Dumdum-472927",3,Belagavi,Minor Injury,Low,No,Alive,No
+445,320,Mugdha Dhillon,Female,72,1958-05-22,9917764201,795997397295,Farmer,"H.No. 91, Puri Street, Gulbarga-157201",10,Chitradurga,Minor Injury,Low,No,Alive,No
+446,320,Urishilla Dixit,Female,57,1993-11-06,9891173741,121025725207,Housewife,"H.No. 136, Mittal Chowk, Gandhinagar-764750",10,Chitradurga,Minor Injury,Low,No,Alive,No
+447,321,Dalbir Butala,Male,24,1950-12-07,9894436727,014340595040,Housewife,"99/74, Golla Zila, Karawal Nagar-492151",25,Shivamogga,Major Injury,High,No,Alive,No
+448,322,Tanmayi Bahri,Female,82,1974-01-11,9877597578,096977424876,Journalist,"98/13, Golla Zila, Kolkata-510293",24,Ramanagara,Minor Injury,Low,No,Alive,No
+449,322,Chameli Kunda,Female,3,2012-12-06,9905080242,263467538817,Lawyer,"H.No. 845, Garg Circle, Mumbai 408487",24,Ramanagara,Minor Injury,Low,Yes,Alive,Yes
+450,323,Yatan Munshi,Male,17,1984-12-25,9913089621,929708919088,Farmer,"10/303, Mistry Street, Guntur 954296",30,Vijayapura,Minor Injury,Low,No,Alive,No
+451,324,Lakshmi Lad,Female,26,1973-01-03,9887519555,129739420545,Student,"14, Dhar Marg, Madurai-359892",29,Vijayanagara,No Physical Injury,Medium,Yes,Alive,No
+452,325,Ganga Mutti,Female,52,2024-11-30,9981330962,768809780810,Doctor,"H.No. 931, Dash Road, Motihari-151554",18,Kodagu,Major Injury,High,No,Alive,Yes
+453,326,Isaiah Mahal,Male,77,1941-05-25,9982726841,518639702438,Student,"11, Vyas Street, Giridih-185948",2,Ballari,Major Injury,High,Yes,Alive,No
+454,326,Chandran Bava,Male,61,1955-01-27,9877145771,132409448488,Shop Keeper,"H.No. 88, Rau, Guntakal-408222",2,Ballari,Minor Injury,Low,No,Alive,No
+455,327,Kiaan Bera,Male,42,2018-08-16,9965960485,158167726227,Labourer,"96/727, Sidhu Path, Bally 834146",5,Bengaluru Urban,Minor Injury,Low,No,Alive,Yes
+456,328,Chandani Buch,Female,55,1947-01-29,9896590930,111071354368,Labourer,"901, Tailor Road, Khandwa-778816",13,Dharwad,Major Injury,High,Yes,Alive,No
+457,328,Ikshita Amble,Female,70,2001-04-05,9901279382,845663503691,Labourer,"89/097, Viswanathan Street, Akola 528506",13,Dharwad,Minor Injury,Low,Yes,Alive,Yes
+458,329,Sachi Garde,Female,17,1972-04-14,9983459991,885167175755,Nurse,"38/144, Memon Chowk, Kakinada 963480",3,Belagavi,Minor Injury,Low,No,Alive,Yes
+459,329,Yagnesh Bhandari,Male,48,1970-10-18,9881166871,968299299841,Student,"H.No. 51, Palla Nagar, Rewa-016731",3,Belagavi,No Physical Injury,Medium,Yes,Alive,No
+460,330,Tripti Dasgupta,Female,27,2018-03-04,9966904187,892763180928,Journalist,"43/765, Patla Road, South Dumdum 177225",2,Ballari,Minor Injury,Low,Yes,Alive,Yes
+461,330,Aahana Parmer,Female,19,2015-08-30,9962365575,248561877890,Electrician,"402, Sama Marg, Patna-374167",2,Ballari,Fatal Injury,Critical,Yes,Deceased,No
+462,331,Eesha Nair,Female,75,2004-05-26,9888677219,653868946827,Electrician,"110, Dugal Street, Orai-305690",5,Bengaluru Urban,Minor Injury,Low,No,Alive,No
+463,331,Wakeeta Mann,Female,46,1964-07-18,9870745242,984656860186,Software Engineer,"928, Krish Street, Raipur 363718",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,Yes
+464,332,Ijaya Dixit,Female,75,1960-01-21,9967687064,480387492163,Retired,"H.No. 432, Badami Marg, Mysore-668433",24,Ramanagara,Minor Injury,Low,Yes,Alive,No
+465,332,Unni Srinivas,Female,46,1945-10-09,9986392736,671586777140,Nurse,"H.No. 14, Mand Path, Gurgaon-502000",24,Ramanagara,Minor Injury,Low,Yes,Alive,No
+466,333,Jagvi Mangal,Female,13,1980-09-06,9960466728,434311013562,Lawyer,"475, Modi Path, Jalandhar 825559",18,Kodagu,Major Injury,High,No,Alive,Yes
+467,333,Jagat Majumdar,Male,12,1958-05-30,9877968133,138787693282,Electrician,"H.No. 291, Halder Nagar, Amroha-189547",18,Kodagu,Minor Injury,Low,Yes,Alive,No
+468,334,Faraj Bassi,Male,29,1951-06-04,9888481298,445911535932,Government Employee,"55/71, Bir Marg, Gurgaon-294240",25,Shivamogga,Fatal Injury,Critical,No,Deceased,No
+469,335,Ikshita Rao,Female,47,1982-08-20,9883391892,519754386776,Driver,"86, Ramakrishnan Circle, Medininagar 320293",17,Kalaburagi,Major Injury,High,No,Alive,No
+470,336,Vedant Thakur,Male,59,2000-09-18,9914509046,847039228054,Doctor,"448, Garg Zila, Ranchi 402424",3,Belagavi,Fatal Injury,Critical,No,Deceased,Yes
+471,336,Kritika Kade,Female,40,1985-12-31,9916327547,958907570041,Lawyer,"95/518, Deol Road, Pudukkottai 500534",3,Belagavi,Minor Injury,Low,Yes,Alive,Yes
+472,337,Lavanya Babu,Female,16,1986-03-27,9890959346,130378414296,Software Engineer,"49/837, Nair Ganj, Kurnool 273652",21,Mandya,Minor Injury,Low,No,Alive,Yes
+473,338,Chakradhar Tandon,Male,72,1955-12-27,9876009033,853016459061,Lawyer,"972, Bail Road, Ujjain-693121",16,Haveri,Minor Injury,Low,No,Alive,Yes
+474,339,Jason Sha,Male,57,2017-10-31,9876987199,165101163468,Software Engineer,"82/091, Rajagopalan Marg, Bhubaneswar-023142",18,Kodagu,Fatal Injury,Critical,Yes,Deceased,No
+475,339,Aayush Cherian,Male,47,1986-08-29,9882814399,897805635553,Business,"279, Gade Chowk, Bathinda 230848",18,Kodagu,Major Injury,High,No,Alive,No
+476,340,Advaith Basu,Male,58,1949-04-19,9981944001,563977650935,Nurse,"62/03, Karan Nagar, Kharagpur 543617",23,Raichur,No Physical Injury,Medium,Yes,Alive,No
+477,341,Christopher Kapur,Male,69,1949-03-16,9870319088,751369098702,Student,"H.No. 951, Chad Path, Mahbubnagar 268592",27,Udupi,Minor Injury,Low,Yes,Alive,No
+478,342,Falan Mitra,Male,15,1993-08-30,9890288998,380126845862,Electrician,"H.No. 475, Bose Road, Jalgaon 526771",14,Gadag,No Physical Injury,Medium,No,Alive,Yes
+479,343,Unni Mallick,Female,53,1952-11-08,9902984663,646261941392,Private Employee,"655, Samra Chowk, Haridwar 236687",18,Kodagu,Major Injury,High,No,Alive,No
+480,344,Zinal Yadav,Female,73,2010-05-18,9891188954,194128178264,Farmer,"68/93, Keer Zila, Delhi-058721",19,Kolar,Minor Injury,Low,Yes,Alive,Yes
+481,344,Priya Patel,Female,6,2012-09-13,9910182149,039526370486,Lawyer,"28, Kibe Marg, Rajahmundry-212606",19,Kolar,Minor Injury,Low,Yes,Alive,No
+482,345,Avi Cherian,Male,15,1996-11-21,9960507730,960003587050,Shop Keeper,"20/25, Brar Street, Solapur 962272",11,Dakshina Kannada,Fatal Injury,Critical,No,Deceased,No
+483,346,Vrinda Sabharwal,Female,58,2001-12-22,9962429648,482279321742,Retired,"H.No. 12, Balay Nagar, Ambala-066784",29,Vijayanagara,Minor Injury,Low,Yes,Alive,No
+484,347,Ishaan Sampath,Male,81,2019-09-24,9892484494,361527597734,Retired,"62/36, Bhalla, Katni 891775",19,Kolar,No Physical Injury,Medium,No,Alive,No
+485,347,Ranveer Gala,Male,51,1945-03-16,9884549984,138694902519,Doctor,"411, Patil Zila, Bhopal 428113",19,Kolar,Major Injury,High,No,Alive,Yes
+486,348,Mohammed Guha,Male,53,1987-06-14,9894819396,786700808392,Business,"H.No. 19, Basu, Ranchi 514054",24,Ramanagara,Minor Injury,Low,No,Alive,Yes
+487,348,Yamini Hayer,Female,80,1967-04-16,9895847215,914561549699,Doctor,"156, Chaudhuri Circle, Nagpur-790422",24,Ramanagara,Major Injury,High,No,Alive,Yes
+488,349,Balveer Chander,Male,18,2021-07-19,9904475934,540463303166,Software Engineer,"22/889, Om Circle, Mira-Bhayandar-459606",7,Chamarajanagar,No Physical Injury,Medium,Yes,Alive,No
+489,350,Ishita Borde,Female,11,2021-12-27,9896708418,125949023440,Labourer,"H.No. 248, Tara Zila, Malda-242149",27,Udupi,Major Injury,High,Yes,Alive,No
+490,350,Patrick Chakraborty,Male,17,1946-08-09,9989670393,066388743975,Electrician,"47, Dasgupta Street, Thane-466927",27,Udupi,Major Injury,High,Yes,Alive,No
+491,351,Naksh Prakash,Male,41,1947-08-28,9985188103,187800886168,Housewife,"H.No. 09, Konda Nagar, Bhatpara-462961",5,Bengaluru Urban,Major Injury,High,Yes,Alive,Yes
+492,351,Rishi Shere,Male,18,1997-06-08,9889917046,273618747475,Labourer,"87, Chada Zila, Moradabad 636515",5,Bengaluru Urban,No Physical Injury,Medium,Yes,Alive,Yes
+493,352,Xavier Kala,Male,23,2000-04-02,9882851171,872382462232,Electrician,"H.No. 70, Dugal Circle, Ulhasnagar-590960",5,Bengaluru Urban,Minor Injury,Low,No,Alive,Yes
+494,353,Tanveer Solanki,Male,8,1958-09-12,9874907468,496379669573,Shop Keeper,"64/421, Biswas Street, Machilipatnam-476834",26,Tumakuru,Minor Injury,Low,No,Alive,No
+495,353,Avni Chanda,Female,63,2016-08-17,9895721648,379484173987,Doctor,"H.No. 23, Saini Path, Fatehpur-659608",26,Tumakuru,Minor Injury,Low,No,Alive,No
+496,354,Balvan Dhillon,Male,56,1968-01-28,9988919204,214188216448,Farmer,"727, Comar Path, Firozabad 727910",18,Kodagu,Major Injury,High,No,Alive,Yes
+497,355,Girindra Salvi,Male,42,1999-10-03,9964229840,316641127883,Teacher,"533, Atwal, Bharatpur-448177",3,Belagavi,No Physical Injury,Medium,Yes,Alive,No
+498,356,Tripti Pandey,Female,54,1970-06-30,9882328399,755311369252,Shop Keeper,"H.No. 276, Goel Path, Hosur-646491",20,Koppal,Fatal Injury,Critical,No,Deceased,Yes
+499,356,Damini Chakraborty,Female,66,1995-10-11,9873135499,703177374203,Nurse,"98, Sawhney Zila, Ramagundam-337861",20,Koppal,Major Injury,High,Yes,Alive,No
+500,357,Vrinda Dash,Female,63,1970-05-12,9896586951,771727480210,Retired,"60/538, Loyal Road, Aizawl-306000",14,Gadag,Major Injury,High,Yes,Alive,No
+501,358,Ridhi Venkataraman,Female,19,2010-04-05,9906557122,741191853375,Housewife,"963, Raman Circle, Tadepalligudem 096262",16,Haveri,Major Injury,High,No,Alive,Yes
+502,358,Nitara Varughese,Female,79,1954-01-10,9987637057,749111703303,Private Employee,"28/196, Dutt Road, Kurnool-106092",16,Haveri,Minor Injury,Low,Yes,Alive,No
+503,359,Chaaya Raja,Female,20,1942-09-16,9918841922,650820221853,Private Employee,"52/334, Wason Ganj, Burhanpur-041209",1,Bagalkote,Fatal Injury,Critical,Yes,Deceased,No
+504,360,Dayamai Sharaf,Female,4,2019-05-15,9967402024,308583106623,Business,"442, Brahmbhatt Zila, Mirzapur 617061",13,Dharwad,Minor Injury,Low,No,Alive,No
+505,360,Balvan Kade,Male,42,1998-12-25,9893644967,213192772625,Labourer,"72/240, Balay Street, Tiruvottiyur-799802",13,Dharwad,Minor Injury,Low,Yes,Alive,Yes
+506,361,Divya Hans,Female,28,1992-01-29,9910088293,396145298268,Farmer,"513, Narang Nagar, Muzaffarnagar 244731",7,Chamarajanagar,No Physical Injury,Medium,Yes,Alive,No
+507,361,Manan Sibal,Male,39,2003-11-25,9903510214,804078329882,Student,"63/42, Mand Ganj, Kota-237676",7,Chamarajanagar,No Physical Injury,Medium,No,Alive,Yes
+508,362,Nathaniel Chokshi,Male,15,1992-03-06,9877486205,062330441086,Electrician,"55/17, Bandi Street, Dharmavaram-498560",27,Udupi,No Physical Injury,Medium,No,Alive,No
+509,363,Gautam Naidu,Male,35,1977-01-20,9876916890,585777720385,Government Employee,"135, Dhillon Path, Bhilai-505379",22,Mysuru,Minor Injury,Low,Yes,Alive,No
+510,364,Kamala Bhatti,Female,53,1973-05-02,9885397168,649021964568,Doctor,"H.No. 849, Sama Zila, Ratlam-330770",21,Mandya,Minor Injury,Low,No,Alive,Yes
+511,365,Shivansh Dar,Male,27,1951-02-08,9986041501,096127317753,Private Employee,"63/90, Badami Road, Surendranagar Dudhrej-260880",19,Kolar,Major Injury,High,Yes,Alive,No
+512,366,Adweta Boase,Female,14,1980-07-01,9886488107,511092485080,Software Engineer,"H.No. 55, Buch Marg, Kumbakonam-647715",17,Kalaburagi,Minor Injury,Low,Yes,Alive,Yes
+513,367,Akshay Kapur,Male,9,1944-08-16,9894196053,336965694324,Nurse,"H.No. 563, Chakrabarti Street, Arrah 040104",22,Mysuru,Fatal Injury,Critical,Yes,Deceased,No
+514,367,Libni Narayan,Female,63,1999-01-12,9873970202,860336435746,Doctor,"22/971, Nagar Street, Bhimavaram-718839",22,Mysuru,Minor Injury,Low,Yes,Alive,No
+515,368,Yash Mand,Male,65,1967-12-03,9884639605,649212311814,Lawyer,"H.No. 441, Kibe Path, Solapur-703037",25,Shivamogga,Minor Injury,Low,No,Alive,Yes
+516,368,Ijaya Sura,Female,24,1949-06-11,9883682479,117954360566,Shop Keeper,"H.No. 72, Cherian Circle, Muzaffarnagar-679836",25,Shivamogga,Minor Injury,Low,Yes,Alive,No
+517,369,Bhavya Mall,Female,72,1976-07-09,9964029349,981156493207,Retired,"711, Babu Ganj, Gaya 078754",16,Haveri,Minor Injury,Low,Yes,Alive,Yes
+518,370,Brijesh Pandya,Male,26,1977-03-26,9883733505,253832426421,Nurse,"68/50, Mahajan Chowk, Navi Mumbai-663436",3,Belagavi,Major Injury,High,Yes,Alive,Yes
+519,371,Lakshit Wagle,Male,66,1992-03-10,9888059527,832204870693,Driver,"03/131, Banik Nagar, Mathura-814396",16,Haveri,Major Injury,High,Yes,Alive,No
+520,372,Shravya Chaudhuri,Female,83,1959-04-01,9987152740,008163348935,Mechanic,"235, Mani Road, Bareilly 897432",5,Bengaluru Urban,Minor Injury,Low,No,Alive,No
+521,373,Bhavya Ganesan,Female,76,1956-06-25,9965657136,956069852932,Mechanic,"H.No. 765, Goel Nagar, Solapur-095790",4,Bengaluru Rural,Minor Injury,Low,Yes,Alive,No
+522,374,Krishna Sodhi,Female,36,1949-11-08,9895616786,167524517225,Housewife,"882, Chandra Street, Avadi 775847",13,Dharwad,Major Injury,High,Yes,Alive,No
+523,374,Rajata Shanker,Female,32,1941-09-17,9904255162,989019949525,Farmer,"58/971, Venkataraman Road, Siliguri 325703",13,Dharwad,Minor Injury,Low,No,Alive,No
+524,375,Pranit Jhaveri,Male,61,2003-10-30,9903113808,252796285036,Retired,"14/878, Lanka Street, Bathinda-964430",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,Yes
+525,376,Darsh Sant,Male,80,2008-02-28,9915258153,288269079240,Driver,"H.No. 072, Doctor Chowk, Proddatur 474140",15,Hassan,Fatal Injury,Critical,Yes,Deceased,No
+526,377,Anmol Kalla,Male,23,1964-08-12,9882064884,284418870726,Engineer,"40, Pandey Marg, Dhanbad 254882",21,Mandya,Minor Injury,Low,No,Alive,No
+527,377,Krishna Dhar,Male,64,2025-03-18,9916863766,372342226409,Teacher,"14/30, Pant Chowk, Kharagpur-614494",21,Mandya,Minor Injury,Low,No,Alive,Yes
+528,378,Urmi Naidu,Female,74,2008-12-05,9893044443,292125551030,Lawyer,"H.No. 26, Iyengar Circle, Farrukhabad-497826",11,Dakshina Kannada,Minor Injury,Low,Yes,Alive,Yes
+529,378,Chasmum Devi,Female,11,1985-04-25,9919428292,352006799159,Driver,"56, Salvi Chowk, Surendranagar Dudhrej 806129",11,Dakshina Kannada,No Physical Injury,Medium,Yes,Alive,Yes
+530,379,Jairaj Vala,Male,9,1972-04-09,9981811477,192087505010,Doctor,"26, Shere Nagar, Meerut 041591",1,Bagalkote,Minor Injury,Low,Yes,Alive,No
+531,380,Warda Narula,Female,60,2014-01-09,9884771609,125475784657,Private Employee,"38/287, Kapoor Street, Barasat 079311",7,Chamarajanagar,Major Injury,High,No,Alive,No
+532,380,Faraj Dara,Male,65,1984-09-28,9984825326,433310461877,Mechanic,"H.No. 708, Raman Chowk, Bhilai-672384",7,Chamarajanagar,Major Injury,High,No,Alive,Yes
+533,381,David Sankaran,Male,3,1952-12-27,9889237321,921613398802,Nurse,"328, Iyer Circle, Nangloi Jat 419754",29,Vijayanagara,Fatal Injury,Critical,No,Deceased,Yes
+534,381,Sanya Chhabra,Female,9,1979-12-30,9893350175,056343633385,Shop Keeper,"H.No. 471, Ramachandran, Amaravati-097052",29,Vijayanagara,No Physical Injury,Medium,No,Alive,Yes
+535,382,Veer Malhotra,Male,20,1941-05-02,9983647219,033039154815,Business,"83/58, Varghese Marg, Akola-595724",6,Bidar,Minor Injury,Low,Yes,Alive,Yes
+536,383,Ronith Bir,Male,5,2018-06-07,9897729161,683734955976,Doctor,"92, Tripathi, Bikaner-995996",26,Tumakuru,Minor Injury,Low,No,Alive,Yes
+537,384,Arin Balan,Male,3,2012-12-24,9904354749,381127829965,Private Employee,"H.No. 177, Kata Path, Vasai-Virar-661094",6,Bidar,Minor Injury,Low,No,Alive,No
+538,385,Anjali Bora,Female,11,1978-02-01,9881490384,814091284954,Mechanic,"517, Deol Marg, Thiruvananthapuram 774332",5,Bengaluru Urban,Fatal Injury,Critical,Yes,Deceased,Yes
+539,386,Zarna Handa,Female,21,1947-11-14,9913300705,409869011936,Government Employee,"020, Reddy Path, Mau 873397",30,Vijayapura,Fatal Injury,Critical,Yes,Deceased,Yes
+540,387,Pranav Devi,Male,40,2008-09-10,9890900097,884228061481,Engineer,"61/912, Misra Circle, Kochi-309850",3,Belagavi,Fatal Injury,Critical,Yes,Deceased,No
+541,387,Maanav Krishnamurthy,Male,37,1973-09-29,9873314493,684978624700,Doctor,"418, Khurana, Silchar 819740",3,Belagavi,No Physical Injury,Medium,Yes,Alive,No
+542,388,Omkaar Sama,Male,20,1962-09-25,9960765741,695592401100,Electrician,"385, Keer Nagar, Srinagar 516991",19,Kolar,No Physical Injury,Medium,No,Alive,Yes
+543,389,Eiravati Madan,Female,60,2002-01-15,9969784877,697818120830,Engineer,"83, Sankar Path, Avadi 000389",11,Dakshina Kannada,Minor Injury,Low,No,Alive,No
+544,389,Aditya Subramaniam,Male,24,1944-12-27,9900033631,792168723559,Farmer,"68, D’Alia Street, Kochi-535603",11,Dakshina Kannada,Minor Injury,Low,No,Alive,No
+545,390,Charita Anne,Female,6,1959-11-12,9893467489,962354360292,Engineer,"30/102, Gole Chowk, Varanasi 593429",11,Dakshina Kannada,Minor Injury,Low,Yes,Alive,Yes
+546,391,Wriddhish Das,Male,58,1996-05-14,9883498285,459763609262,Driver,"37/53, Mittal Chowk, Suryapet 384588",28,Uttara Kannada,Minor Injury,Low,No,Alive,No
+547,391,Avi Pal,Male,70,2017-02-03,9962606901,726649210935,Teacher,"H.No. 328, Mody Ganj, Bhilai-203771",28,Uttara Kannada,Major Injury,High,Yes,Alive,Yes
+548,392,Zaid Bandi,Male,1,1963-07-14,9880772173,585546730185,Student,"H.No. 049, Tandon Marg, Eluru-703362",7,Chamarajanagar,Minor Injury,Low,Yes,Alive,Yes
+549,393,Atharv Mody,Male,19,1943-03-21,9891854960,874874164569,Shop Keeper,"54/93, Om Nagar, Purnia 186487",17,Kalaburagi,Major Injury,High,No,Alive,No
+550,394,Yochana Lad,Female,83,1954-05-17,9891040399,648980855114,Housewife,"32/044, Krish Zila, Naihati-094544",3,Belagavi,No Physical Injury,Medium,Yes,Alive,Yes
+551,395,Diya Mohanty,Female,32,1988-11-15,9895401969,689289934740,Lawyer,"770, Andra Chowk, Vadodara 783609",9,Chikkamagaluru,Minor Injury,Low,Yes,Alive,Yes
+552,396,Lakshit Murthy,Male,47,2021-08-02,9870238128,228558855625,Private Employee,"H.No. 44, Datta Chowk, Akola-903102",21,Mandya,Minor Injury,Low,Yes,Alive,No
+553,396,Nitara Barman,Female,12,1987-08-07,9963710908,084119823197,Student,"44/058, Keer Nagar, Moradabad-871813",21,Mandya,Minor Injury,Low,No,Alive,Yes
+554,397,Nicholas Prabhu,Male,22,2011-01-13,9969859052,771502615345,Mechanic,"64/205, Parsa, Vellore-749025",10,Chitradurga,No Physical Injury,Medium,No,Alive,Yes
+555,398,Maanav Doctor,Male,54,2018-01-24,9896494121,161610977612,Journalist,"35/88, Padmanabhan, Burhanpur 261139",23,Raichur,No Physical Injury,Medium,Yes,Alive,Yes
+556,399,Darsh Wable,Male,2,2008-05-28,9901217783,466426238864,Retired,"H.No. 43, Memon, Ozhukarai-537513",5,Bengaluru Urban,No Physical Injury,Medium,Yes,Alive,No
+557,400,Samarth Pathak,Male,56,1947-05-02,9901787521,221747043228,Private Employee,"79/376, Dass Ganj, Vellore 944551",5,Bengaluru Urban,Fatal Injury,Critical,No,Deceased,Yes
+558,400,Tara Sama,Female,29,1983-06-27,9909024295,917562677058,Mechanic,"32/702, Sahota Zila, Begusarai-120602",5,Bengaluru Urban,Minor Injury,Low,No,Alive,Yes
+559,401,Dominic Varma,Male,81,2014-03-30,9909093655,011372856695,Private Employee,"H.No. 26, Khurana Circle, Kochi-599910",17,Kalaburagi,Minor Injury,Low,No,Alive,Yes
+560,402,Peter Sen,Male,42,2017-12-18,9878375445,618282490694,Business,"H.No. 72, Upadhyay Street, Saharanpur-995765",18,Kodagu,Minor Injury,Low,Yes,Alive,No
+561,403,Gaurang Trivedi,Male,5,2001-12-21,9890512542,321875670656,Student,"475, Vasa Nagar, Baranagar 652203",17,Kalaburagi,Major Injury,High,No,Alive,Yes
+562,404,Yochana Mall,Female,43,1989-06-11,9870592433,460060211771,Doctor,"H.No. 42, Mani Zila, Morbi 324491",13,Dharwad,Minor Injury,Low,No,Alive,No
+563,405,Liam Dhaliwal,Male,85,1948-09-18,9902119268,261094035681,Business,"08/83, Suresh Nagar, Uluberia-496782",6,Bidar,Fatal Injury,Critical,Yes,Deceased,Yes
+564,405,Neelima Choudhary,Female,14,2001-06-09,9902825569,989981955946,Electrician,"74, Devan Zila, Bhiwandi 131528",6,Bidar,Fatal Injury,Critical,No,Deceased,No
+565,406,Lakshit Setty,Male,3,1994-02-28,9884359816,927914957155,Doctor,"H.No. 618, Gupta Path, Bangalore 296334",22,Mysuru,Minor Injury,Low,Yes,Alive,Yes
+566,406,Faqid Sundaram,Male,31,2009-09-26,9915352311,482826560757,Lawyer,"318, Aggarwal Ganj, Jabalpur-893206",22,Mysuru,Minor Injury,Low,No,Alive,No
+567,407,Ranveer Keer,Male,5,1994-10-06,9980060803,785019075377,Doctor,"H.No. 34, Suri Chowk, Khora -874131",25,Shivamogga,Major Injury,High,No,Alive,No
+568,408,Ubika Sekhon,Female,15,1968-03-20,9989672086,544901757345,Farmer,"751, Rao Path, Karawal Nagar-963044",22,Mysuru,Major Injury,High,Yes,Alive,Yes
+569,409,Tara Bhat,Female,32,1988-05-07,9903335545,212236387307,Farmer,"56/676, Lad Marg, Agartala 350476",19,Kolar,Major Injury,High,No,Alive,Yes
+570,410,Fiyaz Wason,Male,53,1958-01-31,9918567066,991020138155,Electrician,"980, Raghavan Nagar, Thoothukudi 810835",30,Vijayapura,Minor Injury,Low,Yes,Alive,No
+571,410,Gaurangi Wason,Female,32,1974-03-06,9911716326,146756632087,Engineer,"556, Kothari Ganj, Vadodara-818670",30,Vijayapura,Minor Injury,Low,No,Alive,Yes
+572,411,Lohit Mitra,Male,40,1942-08-14,9982403961,932817735118,Teacher,"H.No. 16, Deep Marg, Guwahati-186008",9,Chikkamagaluru,Major Injury,High,No,Alive,No
+573,412,Charvi Raman,Female,53,1957-01-26,9982258597,735519394806,Farmer,"80, Mahal Road, Panihati 497646",3,Belagavi,Minor Injury,Low,No,Alive,Yes
+574,412,Indrajit Ray,Male,28,1988-03-29,9889815581,788074481092,Business,"88/360, Ramesh Chowk, Bongaigaon-739063",3,Belagavi,Minor Injury,Low,No,Alive,Yes
+575,413,Qasim Sood,Male,52,1988-06-04,9963288799,657334545880,Student,"118, Johal Street, Guntakal 126978",1,Bagalkote,Minor Injury,Low,Yes,Alive,Yes
+576,413,Bhanumati Tak,Female,54,1961-12-24,9875850636,478599986363,Teacher,"059, Ray, Agartala 878753",1,Bagalkote,No Physical Injury,Medium,No,Alive,Yes
+577,414,Vihaan Subramanian,Male,68,1984-04-14,9967252348,574179650434,Farmer,"16, Arya Street, Saharsa 237106",9,Chikkamagaluru,Minor Injury,Low,No,Alive,Yes
+578,414,Harinakshi Vohra,Female,6,1981-12-20,9983072949,750748998083,Teacher,"H.No. 416, Madan Road, Srikakulam-922483",9,Chikkamagaluru,Minor Injury,Low,Yes,Alive,No
+579,415,Jeremiah Sodhi,Male,59,1979-11-26,9873701283,851548459698,Farmer,"870, Saha Path, Jalgaon 104331",22,Mysuru,Minor Injury,Low,Yes,Alive,Yes
+580,415,Oni Chandra,Female,71,1945-10-02,9877973289,754266113608,Journalist,"H.No. 583, Atwal Path, Panipat-694596",22,Mysuru,Major Injury,High,Yes,Alive,No
+581,416,Isha Brahmbhatt,Female,74,1990-12-07,9889742845,594688686776,Labourer,"H.No. 24, Chaudry, Nagaon 599949",17,Kalaburagi,Fatal Injury,Critical,Yes,Deceased,No
+582,417,Henry Ganguly,Male,69,1940-10-13,9983392310,536911117821,Private Employee,"H.No. 922, Soman Street, North Dumdum-028767",28,Uttara Kannada,No Physical Injury,Medium,Yes,Alive,No
+583,418,Matthew Tella,Male,72,2005-02-27,9901644861,259263696856,Student,"67, Muni Path, Bettiah-932426",21,Mandya,Major Injury,High,No,Alive,Yes
+584,419,Wishi Krishna,Female,53,1998-10-24,9961166358,153642733408,Shop Keeper,"057, Samra Path, Tadepalligudem-652037",22,Mysuru,Minor Injury,Low,No,Alive,Yes
+585,420,Gunbir Ahluwalia,Male,25,1990-05-20,9985597212,527356009420,Retired,"H.No. 48, Mahajan Nagar, Panipat 604409",17,Kalaburagi,No Physical Injury,Medium,No,Alive,No
+586,421,Warinder Sha,Male,8,1982-03-26,9878750683,980056226834,Engineer,"H.No. 509, Goel Street, Gwalior-107051",19,Kolar,Fatal Injury,Critical,Yes,Deceased,No
+587,422,Indali Badal,Female,81,1968-10-31,9880362845,309877411077,Shop Keeper,"58/06, Bhat Marg, Nellore 412704",3,Belagavi,Major Injury,High,No,Alive,Yes
+588,423,Zayyan Rout,Male,73,1955-04-05,9969070962,914019392944,Labourer,"H.No. 85, Om Zila, Tezpur 971112",5,Bengaluru Urban,No Physical Injury,Medium,Yes,Alive,Yes
+589,424,Girik Nadkarni,Male,14,1990-10-21,9876017256,145312062209,Housewife,"H.No. 357, Koshy Zila, Jhansi 406424",31,Yadgir,No Physical Injury,Medium,Yes,Alive,Yes
+590,425,Nisha Sachdev,Female,38,1959-10-07,9910842046,835997459086,Journalist,"244, Lalla Chowk, Unnao-955872",11,Dakshina Kannada,No Physical Injury,Medium,Yes,Alive,Yes
+591,425,Reyansh Dugal,Male,34,1986-04-14,9919453876,478282155943,Labourer,"H.No. 43, Thakur Path, Mysore-437401",11,Dakshina Kannada,Major Injury,High,Yes,Alive,No
+592,426,Vyanjana Dey,Female,52,1980-04-10,9969140849,588073161236,Private Employee,"69/05, Parmer Zila, Kozhikode 755125",15,Hassan,Minor Injury,Low,No,Alive,Yes
+593,427,Gautami Sibal,Female,70,1987-01-13,9909641069,053345057246,Nurse,"79/96, Solanki Marg, Nizamabad 957640",22,Mysuru,Minor Injury,Low,Yes,Alive,Yes
+594,428,Zehaan Chokshi,Male,5,1976-05-04,9983067659,565218375662,Nurse,"02/82, Viswanathan Road, Tezpur 250142",5,Bengaluru Urban,Major Injury,High,No,Alive,Yes
+595,428,Vasudha Randhawa,Female,12,1954-08-12,9899254459,194306764645,Journalist,"244, Goyal Zila, Kurnool 132850",5,Bengaluru Urban,No Physical Injury,Medium,No,Alive,No
+596,429,Fariq Padmanabhan,Male,17,1949-01-18,9895190635,316202083936,Journalist,"67, Char Ganj, Warangal-265469",11,Dakshina Kannada,Major Injury,High,Yes,Alive,Yes
+597,430,Balendra Palan,Male,22,1982-01-24,9898178215,431861296787,Driver,"23/55, Thaker Path, Phagwara 132730",2,Ballari,Fatal Injury,Critical,Yes,Deceased,Yes
+598,430,Nidhi Saran,Female,52,1948-06-13,9882691779,193919263661,Engineer,"24, Ram Road, Visakhapatnam-622681",2,Ballari,No Physical Injury,Medium,Yes,Alive,No
+599,431,Chakrika Pal,Female,47,1998-11-15,9879423836,772203688808,Shop Keeper,"H.No. 252, Tripathi, Malda 766046",3,Belagavi,No Physical Injury,Medium,Yes,Alive,Yes
+600,431,Dalbir Seshadri,Male,67,1983-03-27,9987520823,343317388485,Retired,"51/26, Rajagopal Circle, Jalgaon-594389",3,Belagavi,Minor Injury,Low,No,Alive,No
+601,432,Teerth Bava,Male,3,1980-01-24,9912866197,034691540714,Doctor,"75, Pingle Nagar, Khandwa 408424",1,Bagalkote,Minor Injury,Low,Yes,Alive,No
+602,432,Turvi Badal,Female,21,1978-07-14,9889597498,547528175982,Journalist,"15/08, Kothari Marg, Guwahati 227645",1,Bagalkote,Major Injury,High,No,Alive,No
+603,433,Keya Viswanathan,Female,79,1988-12-05,9891199984,318808326291,Software Engineer,"H.No. 50, Chaudhuri Street, Anand 546602",31,Yadgir,No Physical Injury,Medium,No,Alive,No
+604,434,Balveer Sant,Male,27,2022-08-06,9873456476,225636719694,Labourer,"H.No. 98, Kohli Circle, Dindigul-364248",17,Kalaburagi,No Physical Injury,Medium,No,Alive,No
+605,434,Ryan Golla,Male,1,1998-03-16,9883571329,581587102180,Teacher,"30, Dayal Marg, Shimoga 951330",17,Kalaburagi,Minor Injury,Low,Yes,Alive,No
+606,435,Indrajit Bhatt,Male,12,1992-07-11,9912217401,450478437364,Journalist,"95/867, Arora Circle, Mau-572773",11,Dakshina Kannada,Minor Injury,Low,Yes,Alive,No
+607,436,Robert Kumer,Male,80,1974-10-22,9875764857,351414061779,Lawyer,"51/38, Modi Path, Satna 702992",5,Bengaluru Urban,Major Injury,High,Yes,Alive,No
+608,437,Tanveer Sagar,Male,23,2025-03-15,9885567897,765625216725,Business,"73/68, Radhakrishnan Street, Jalandhar 331942",17,Kalaburagi,No Physical Injury,Medium,No,Alive,No
+609,437,Suhani Rege,Female,54,1970-06-24,9874678282,952287671488,Lawyer,"45/51, Thakkar Path, Kamarhati-774722",17,Kalaburagi,Minor Injury,Low,Yes,Alive,No
+610,438,Maanas Aggarwal,Male,21,1985-11-01,9873657972,781995106913,Farmer,"21/696, Roy Marg, Bhopal 299819",28,Uttara Kannada,Major Injury,High,Yes,Alive,Yes
+611,439,Advay Nair,Male,6,1992-05-23,9897486458,466786325979,Farmer,"15/096, Vaidya Circle, Nanded-532735",3,Belagavi,Fatal Injury,Critical,Yes,Deceased,Yes
+612,439,Nandini Bhattacharyya,Female,39,2016-08-01,9889688510,812788015775,Student,"39, Khurana Chowk, Surendranagar Dudhrej-952371",3,Belagavi,Minor Injury,Low,Yes,Alive,No
+613,440,Amol Ray,Male,62,2014-04-04,9896716104,425091011216,Labourer,"H.No. 648, Walla Zila, Bahraich-046056",13,Dharwad,Major Injury,High,No,Alive,No
+614,441,Tanish Dash,Male,7,1949-05-14,9876701411,174769791670,Retired,"25/652, Subramanian Ganj, Bilaspur 517734",7,Chamarajanagar,Major Injury,High,No,Alive,No
+615,442,Manbir Saxena,Male,69,1968-08-30,9876488717,212766130691,Doctor,"49/02, Vig Street, Indore-595442",26,Tumakuru,Minor Injury,Low,Yes,Alive,Yes
+616,442,Vyanjana Sarraf,Female,45,1997-10-14,9963787097,537587241195,Private Employee,"946, Kari Road, Rajpur Sonarpur-290458",26,Tumakuru,Major Injury,High,No,Alive,Yes
+617,443,William Garde,Male,4,2023-03-19,9899870994,312405079480,Doctor,"56/72, Subramaniam Circle, Karawal Nagar-015343",4,Bengaluru Rural,Minor Injury,Low,No,Alive,Yes
+618,444,Falguni Mall,Female,41,1992-04-16,9899186078,000399574476,Journalist,"H.No. 77, Arora, Panihati 061581",23,Raichur,Minor Injury,Low,No,Alive,No
+619,445,Chaaya Bhalla,Female,55,1978-07-10,9981241824,157750097513,Teacher,"H.No. 23, Shan Ganj, Thane-841312",12,Davanagere,Fatal Injury,Critical,No,Deceased,Yes
+620,445,Bhavani Johal,Female,67,1959-11-26,9875586410,797410424200,Government Employee,"H.No. 805, Hegde Zila, Bhiwandi-173189",12,Davanagere,No Physical Injury,Medium,No,Alive,No
+621,446,Widisha Mital,Female,26,1988-12-13,9984110438,647542539876,Labourer,"73/997, Krishnamurthy Nagar, Ghaziabad-725878",23,Raichur,Minor Injury,Low,No,Alive,No
+622,446,Netra Lalla,Female,56,2014-04-10,9981302180,024196001444,Farmer,"H.No. 88, Sarraf Road, South Dumdum-058772",23,Raichur,No Physical Injury,Medium,Yes,Alive,No
+623,447,Bachittar Sankaran,Male,70,1997-10-05,9989077862,029070658288,Private Employee,"H.No. 82, Chopra Ganj, Kakinada 845871",23,Raichur,No Physical Injury,Medium,No,Alive,Yes
+624,448,Henry Dubey,Male,26,1968-01-29,9905683524,302204221317,Journalist,"292, Varty Path, Hindupur-434745",6,Bidar,No Physical Injury,Medium,No,Alive,Yes
+625,448,Niharika Nath,Female,2,2002-04-30,9877914960,458510016086,Nurse,"H.No. 69, Sahni Marg, Sambhal 652740",6,Bidar,Minor Injury,Low,Yes,Alive,Yes
+626,449,Ishita Kunda,Female,79,1965-08-13,9915595980,408552608053,Nurse,"H.No. 66, Iyengar Path, Tadipatri 411325",2,Ballari,Minor Injury,Low,Yes,Alive,Yes
+627,450,Wahab Batra,Male,58,2006-12-18,9895729939,500543681152,Teacher,"499, Bhargava Marg, Pimpri-Chinchwad-485741",1,Bagalkote,Minor Injury,Low,Yes,Alive,No
+628,451,Ekani Borah,Female,22,1968-02-22,9916554759,946252190514,Nurse,"949, Chakrabarti Ganj, Sambalpur-984884",5,Bengaluru Urban,Major Injury,High,Yes,Alive,Yes
+629,452,Ekiya Bir,Female,37,2014-07-27,9968653319,586616897263,Electrician,"32, Sidhu Path, Jaunpur 534490",5,Bengaluru Urban,Minor Injury,Low,No,Alive,Yes
+630,453,Dipta Roy,Female,58,1976-11-17,9913005119,378451557255,Farmer,"08/50, Sarkar, Dibrugarh-874951",13,Dharwad,Major Injury,High,No,Alive,Yes
+631,454,Charita Chowdhury,Female,51,1985-10-04,9901956008,009189269618,Retired,"31/64, Seth Chowk, Bathinda 295786",18,Kodagu,Minor Injury,Low,Yes,Alive,Yes
+632,455,Sai Memon,Male,61,1941-02-05,9964012935,477939742646,Mechanic,"H.No. 356, Lad Street, Bhimavaram-873959",1,Bagalkote,No Physical Injury,Medium,No,Alive,Yes
+633,455,Ijaya Divan,Female,52,1958-01-29,9980749771,257659784500,Engineer,"H.No. 890, Zachariah Street, Coimbatore-533342",1,Bagalkote,Minor Injury,Low,Yes,Alive,Yes
+634,456,Lopa Kaul,Female,80,2020-02-22,9889695658,293649338032,Farmer,"H.No. 271, Bal Marg, Dhule-077633",24,Ramanagara,Minor Injury,Low,Yes,Alive,Yes
+635,456,David Chander,Male,77,2022-12-11,9961879298,014472575342,Doctor,"179, Nadig Path, Jhansi 185748",24,Ramanagara,No Physical Injury,Medium,Yes,Alive,No
+636,457,Vasatika Babu,Female,48,1941-03-05,9910405631,551233877544,Retired,"H.No. 554, Saraf Zila, Berhampur-670450",27,Udupi,Minor Injury,Low,No,Alive,Yes
+637,457,Jeet Goel,Male,40,1988-07-18,9894373857,332780183787,Lawyer,"700, Kadakia, Serampore-262282",27,Udupi,No Physical Injury,Medium,No,Alive,No
+638,458,Rajata Choudhary,Female,7,2007-06-01,9873362066,111297486447,Private Employee,"465, Nagi Road, Indore 070260",18,Kodagu,Major Injury,High,Yes,Alive,Yes
+639,459,Frado Dugar,Male,23,1949-01-25,9897039595,530790453791,Lawyer,"H.No. 611, Shetty Chowk, Jorhat 290477",5,Bengaluru Urban,No Physical Injury,Medium,No,Alive,No
+640,459,Devansh Naidu,Male,35,1996-05-07,9901778641,112278346785,Government Employee,"79, Dass Ganj, Kottayam 231164",5,Bengaluru Urban,Major Injury,High,Yes,Alive,No
+641,460,Kritika Kara,Female,66,1961-11-12,9883157583,790643363118,Business,"79/889, Deep Road, Bhusawal 290603",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,No
+642,460,Advika Dhar,Female,69,1994-07-02,9917749794,932666111856,Shop Keeper,"50, Srivastava, Hapur-967379",5,Bengaluru Urban,Fatal Injury,Critical,No,Deceased,Yes
+643,461,Thomas Dalal,Male,9,2003-11-18,9917982713,993582832309,Software Engineer,"457, Shan Circle, Tiruvottiyur 156082",27,Udupi,Major Injury,High,Yes,Alive,No
+644,462,Jhalak Shankar,Female,61,2011-02-11,9912983129,924825306275,Housewife,"547, Butala Marg, Sikar 230358",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,Yes
+645,463,Arjun Walia,Male,69,1971-05-21,9909525365,957875394781,Doctor,"H.No. 21, Kara Street, Panvel-340646",30,Vijayapura,Fatal Injury,Critical,No,Deceased,No
+646,464,Wazir Sidhu,Male,5,1967-12-03,9980757322,986512519964,Lawyer,"H.No. 484, Bhavsar Ganj, Bulandshahr 272362",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,Yes
+647,464,Rohan Hari,Male,74,1961-09-08,9919118028,063419566584,Student,"426, Doshi Zila, Raiganj 450184",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,No
+648,465,Warinder Kata,Male,48,1996-09-10,9907292596,605044786138,Software Engineer,"97/21, Magar Path, Eluru 176927",17,Kalaburagi,Major Injury,High,Yes,Alive,Yes
+649,465,Isaiah Virk,Male,3,1949-04-26,9908413899,540064964006,Mechanic,"76/601, Majumdar Road, Danapur 645101",17,Kalaburagi,No Physical Injury,Medium,Yes,Alive,Yes
+650,466,Jairaj Talwar,Male,37,1959-05-18,9878516957,450774521556,Labourer,"H.No. 789, Prashad, Kalyan-Dombivli-919113",11,Dakshina Kannada,Minor Injury,Low,Yes,Alive,Yes
+651,467,Ucchal Ramesh,Female,72,2001-08-12,9915615667,008438580519,Government Employee,"77/980, Sankaran Marg, Thrissur 051460",22,Mysuru,Minor Injury,Low,No,Alive,Yes
+652,468,Lajita Parmer,Female,2,2010-02-13,9899509831,043394476126,Software Engineer,"470, Shanker Path, Nanded 885652",11,Dakshina Kannada,Fatal Injury,Critical,Yes,Deceased,No
+653,468,Chaitanya Nath,Male,78,1970-06-18,9965941193,548892721832,Farmer,"H.No. 11, Munshi Marg, Gaya-347557",11,Dakshina Kannada,Major Injury,High,No,Alive,No
+654,469,Fariq Ganguly,Male,1,1967-12-29,9985184059,062732018289,Nurse,"48/84, Yohannan Circle, Sikar 311964",28,Uttara Kannada,Major Injury,High,No,Alive,No
+655,470,Onkar Walia,Male,8,1970-08-19,9874695124,090959700796,Farmer,"H.No. 499, Naik Zila, Mango-382407",27,Udupi,Fatal Injury,Critical,Yes,Deceased,Yes
+656,471,Januja Korpal,Female,1,2014-12-11,9911489634,703984810485,Student,"043, Subramanian Nagar, Vijayanagaram-628969",28,Uttara Kannada,Major Injury,High,No,Alive,No
+657,471,Kalpit Patla,Male,65,2008-11-06,9917532815,455841297479,Engineer,"H.No. 53, Zachariah Path, Solapur 538921",28,Uttara Kannada,Fatal Injury,Critical,Yes,Deceased,No
+658,472,Naksh Cheema,Male,40,2009-03-04,9985277031,764608287327,Housewife,"83/749, Sharma Nagar, Mehsana-120878",27,Udupi,Fatal Injury,Critical,Yes,Deceased,No
+659,473,Oscar Sood,Male,52,2014-04-20,9982504159,989559329768,Doctor,"51/494, Swaminathan Nagar, Guntur-374845",5,Bengaluru Urban,Minor Injury,Low,Yes,Alive,No
+660,474,Yashoda Ray,Female,7,1952-10-25,9908973430,915700993063,Software Engineer,"05/91, Bhatt Zila, Nanded 392207",1,Bagalkote,Minor Injury,Low,Yes,Alive,Yes
+661,474,Noah Chakraborty,Male,13,1948-07-24,9907909032,960710732896,Lawyer,"67, Oza Street, Jalandhar-526471",1,Bagalkote,Minor Injury,Low,Yes,Alive,Yes
+662,475,Kalpit Ratti,Male,24,1957-08-11,9909793908,760338993765,Housewife,"H.No. 71, Kurian Circle, Medininagar 805120",26,Tumakuru,Minor Injury,Low,Yes,Alive,No
+663,475,Aahana Narain,Female,6,1973-04-06,9984778459,753027003969,Student,"H.No. 239, Gopal Chowk, Hapur 295927",26,Tumakuru,Fatal Injury,Critical,Yes,Deceased,Yes
+664,476,Zehaan Dixit,Male,36,2009-10-11,9891020692,026026861537,Journalist,"08/14, Chokshi Road, Bokaro-173929",25,Shivamogga,No Physical Injury,Medium,No,Alive,Yes
+665,477,Utkarsh Ramachandran,Male,47,2007-03-16,9900095563,498057406242,Business,"H.No. 35, Khatri Street, Maheshtala 050791",5,Bengaluru Urban,Major Injury,High,Yes,Alive,No
+666,478,Oeshi Vyas,Female,75,1988-05-30,9969320438,132680232811,Lawyer,"H.No. 52, Hora Chowk, Purnia-661707",23,Raichur,Major Injury,High,Yes,Alive,Yes
+667,479,Naveen Sule,Male,29,1992-05-18,9982300756,880269542081,Labourer,"H.No. 08, Guha Nagar, Aizawl 508004",27,Udupi,Minor Injury,Low,Yes,Alive,Yes
+668,479,Girindra Pandey,Male,37,2022-07-07,9963993857,535117733284,Lawyer,"88/285, Kala Nagar, Berhampore 351373",27,Udupi,Fatal Injury,Critical,Yes,Deceased,Yes
+669,480,Aradhana Raj,Female,48,1958-01-26,9895044050,403175149077,Government Employee,"H.No. 352, Kari Marg, Rewa 229394",27,Udupi,Minor Injury,Low,Yes,Alive,No
+670,481,Mohammed Jayaraman,Male,47,2020-06-24,9910114535,785491635777,Shop Keeper,"06/664, Sura Ganj, Ghaziabad 607231",9,Chikkamagaluru,No Physical Injury,Medium,Yes,Alive,Yes
+671,481,Devika Dutt,Female,78,2017-03-31,9885588293,005171056568,Doctor,"852, Rao Road, Jorhat-494116",9,Chikkamagaluru,Minor Injury,Low,Yes,Alive,No
+672,482,Caleb Tank,Male,36,1957-08-16,9894221751,493610160020,Doctor,"11, Barad Ganj, Udaipur 136957",14,Gadag,No Physical Injury,Medium,Yes,Alive,Yes
+673,483,Timothy Barman,Male,57,1996-11-25,9903961318,754843090759,Labourer,"50/902, Krishna Path, Etawah-306624",26,Tumakuru,Minor Injury,Low,No,Alive,No
+674,483,Isaiah Gour,Male,79,1993-11-14,9912766906,890280959290,Nurse,"H.No. 713, Wadhwa, Proddatur 285011",26,Tumakuru,Minor Injury,Low,No,Alive,Yes
+675,484,Yochana Warrior,Female,51,1942-01-16,9881089400,489493980231,Private Employee,"H.No. 02, Kaur Zila, Eluru-906913",22,Mysuru,Major Injury,High,No,Alive,No
+676,484,Balhaar Bahri,Male,39,1995-09-17,9912726449,661240634111,Software Engineer,"H.No. 96, Khanna Chowk, Pudukkottai-577278",22,Mysuru,No Physical Injury,Medium,Yes,Alive,No
+677,485,Isaac Dhawan,Male,33,1964-12-09,9887697953,615580795606,Driver,"H.No. 25, Sankaran Nagar, Asansol-768362",17,Kalaburagi,Minor Injury,Low,No,Alive,Yes
+678,486,Ishita Ravi,Female,34,1976-05-09,9882321999,913052228820,Engineer,"77/675, Nanda Path, Guntur-333939",2,Ballari,Fatal Injury,Critical,No,Deceased,No
+679,487,Vincent Rege,Male,48,1972-06-01,9962873664,747797993194,Electrician,"27, Sethi Zila, Haridwar 335826",29,Vijayanagara,Major Injury,High,No,Alive,No
+680,487,Hemangini Savant,Female,9,1942-08-01,9902203359,599930375395,Labourer,"24/92, Hora Marg, Bulandshahr-732759",29,Vijayanagara,Minor Injury,Low,Yes,Alive,Yes
+681,488,Chanakya Bhattacharyya,Male,2,1947-11-06,9908227511,180625171417,Business,"H.No. 15, Jain Path, Kakinada 159597",25,Shivamogga,No Physical Injury,Medium,Yes,Alive,No
+682,488,Pallavi Gill,Female,29,1965-03-09,9967296056,198911350921,Electrician,"261, Rout Circle, Kishanganj 431271",25,Shivamogga,Minor Injury,Low,Yes,Alive,No
+683,489,Ekanta Raj,Female,34,1980-09-29,9898660461,680578824454,Business,"H.No. 957, Gopal, Jaipur-955151",23,Raichur,Minor Injury,Low,Yes,Alive,No
+684,490,Ekansh Mital,Male,15,1998-02-18,9899607788,909366001811,Housewife,"35/415, Talwar, Gudivada-254384",22,Mysuru,Minor Injury,Low,No,Alive,Yes
+685,491,Yash Nagar,Male,55,2017-07-20,9876257723,864101337539,Lawyer,"44/765, Mahajan Nagar, Jodhpur 802909",5,Bengaluru Urban,Minor Injury,Low,No,Alive,Yes
+686,491,Nidhi Rai,Female,17,1957-07-12,9963688691,168268612868,Driver,"04, Nayak Marg, Anand-652548",5,Bengaluru Urban,Fatal Injury,Critical,No,Deceased,Yes
+687,492,Yash Manda,Male,30,1963-03-24,9904594009,016715183041,Nurse,"58/102, Kibe Zila, Belgaum-129311",16,Haveri,Minor Injury,Low,Yes,Alive,Yes
+688,493,Abeer Om,Male,64,2014-07-09,9967697524,242199991170,Mechanic,"75/19, Bhalla Zila, Kollam 211063",2,Ballari,Minor Injury,Low,No,Alive,Yes
+689,493,Arya Buch,Female,72,1973-06-11,9968576681,943869269287,Driver,"792, Mani Chowk, Mango-801234",2,Ballari,Major Injury,High,Yes,Alive,Yes
+690,494,Girindra Dasgupta,Male,35,2000-04-20,9906412438,976306234076,Shop Keeper,"532, Minhas Marg, Guna 364538",5,Bengaluru Urban,Minor Injury,Low,No,Alive,No
+691,495,Jeremiah Manda,Male,41,2004-09-02,9962432016,009207632565,Business,"H.No. 750, Sani, Amroha 159591",23,Raichur,Minor Injury,Low,No,Alive,No
+692,495,Odika Seshadri,Female,46,1970-12-30,9981401241,066070395749,Nurse,"47, Gupta Path, Dharmavaram-056775",23,Raichur,Minor Injury,Low,No,Alive,No
+693,496,Vincent Shetty,Male,73,1978-12-29,9914048279,143743556642,Business,"02, Raj Path, Silchar-062292",1,Bagalkote,Major Injury,High,No,Alive,Yes
+694,497,Champak Babu,Male,78,1973-10-26,9876330575,321153038226,Mechanic,"H.No. 30, Ramanathan Chowk, Avadi-337976",1,Bagalkote,Fatal Injury,Critical,No,Deceased,Yes
+695,497,Fariq Sura,Male,1,2022-12-06,9884533644,559808336080,Government Employee,"H.No. 157, Mann, Noida 367042",1,Bagalkote,Minor Injury,Low,No,Alive,Yes
+696,498,Nimrat Sanghvi,Female,26,1992-07-18,9875324140,853533034031,Labourer,"H.No. 52, Solanki Path, Surat-563353",2,Ballari,Major Injury,High,No,Alive,Yes
+697,499,Vyanjana Mand,Female,39,1987-09-25,9889869655,339442329973,Teacher,"593, Khalsa, Unnao 058162",24,Ramanagara,Minor Injury,Low,No,Alive,Yes
+698,499,Chaitaly Wadhwa,Female,73,1982-04-15,9915727824,288256651034,Shop Keeper,"63, Dhar Road, Allahabad 330559",24,Ramanagara,Major Injury,High,Yes,Alive,No
+699,500,Elijah Mahajan,Male,32,2021-11-15,9881085161,403851673458,Driver,"83/39, Dara, Ghaziabad-884366",4,Bengaluru Rural,Minor Injury,Low,Yes,Alive,Yes
+700,500,Neha Lal,Female,36,1957-12-01,9914391658,173117488551,Shop Keeper,"H.No. 615, Divan Chowk, Eluru 975147",4,Bengaluru Rural,Major Injury,High,Yes,Alive,No

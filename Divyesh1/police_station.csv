@@ -1,0 +1,51 @@
+Station_ID,Station_Name,District,Zone,Latitude,Longitude
+PS001,Cubbon Park Police Station,Bengaluru Urban,Bengaluru Zone,12.9763,77.5929
+PS002,Shivajinagar Police Station,Bengaluru Urban,Bengaluru Zone,12.9851,77.6009
+PS003,Ulsoor Police Station,Bengaluru Urban,Bengaluru Zone,12.9784,77.6200
+PS004,Whitefield Police Station,Bengaluru Urban,Bengaluru East Zone,12.9698,77.7499
+PS005,Electronic City Police Station,Bengaluru Urban,Bengaluru South Zone,12.8398,77.6770
+PS006,Hebbal Police Station,Bengaluru Urban,Bengaluru North Zone,13.0358,77.5970
+PS007,Yeshwanthpur Police Station,Bengaluru Urban,Bengaluru North Zone,13.0273,77.5490
+PS008,Marathahalli Police Station,Bengaluru Urban,Bengaluru East Zone,12.9592,77.6974
+PS009,Koramangala Police Station,Bengaluru Urban,Bengaluru South Zone,12.9352,77.6245
+PS010,Jayanagar Police Station,Bengaluru Urban,Bengaluru South Zone,12.9250,77.5938
+PS011,Devanahalli Police Station,Bengaluru Rural,Bengaluru Zone,13.2457,77.7119
+PS012,Kengeri Police Station,Bengaluru Urban,Bengaluru West Zone,12.9082,77.4876
+PS013,Mysuru North Police Station,Mysuru,Mysuru Zone,12.3144,76.6394
+PS014,Mysuru South Police Station,Mysuru,Mysuru Zone,12.2958,76.6394
+PS015,Nanjangud Police Station,Mysuru,Mysuru Zone,12.1135,76.6842
+PS016,Hunsur Police Station,Mysuru,Mysuru Zone,12.3003,76.2908
+PS017,KR Nagar Police Station,Mysuru,Mysuru Zone,12.4181,76.3826
+PS018,Mangaluru City North Police Station,Dakshina Kannada,Mangaluru Zone,12.9141,74.8560
+PS019,Mangaluru City South Police Station,Dakshina Kannada,Mangaluru Zone,12.8438,74.8431
+PS020,Puttur Police Station,Dakshina Kannada,Mangaluru Zone,12.7584,75.2020
+PS021,Sullia Police Station,Dakshina Kannada,Mangaluru Zone,12.5618,75.3871
+PS022,Udupi City Police Station,Udupi,Mangaluru Zone,13.3409,74.7421
+PS023,Kundapur Police Station,Udupi,Mangaluru Zone,13.6260,74.6900
+PS024,Karkala Police Station,Udupi,Mangaluru Zone,13.2132,74.9967
+PS025,Hubli Town Police Station,Dharwad,Belgaum Zone,15.3647,75.1240
+PS026,Dharwad Police Station,Dharwad,Belgaum Zone,15.4589,75.0078
+PS027,Kalghatgi Police Station,Dharwad,Belgaum Zone,15.1832,74.9716
+PS028,Belagavi City Police Station,Belagavi,Belgaum Zone,15.8497,74.4977
+PS029,Gokak Police Station,Belagavi,Belgaum Zone,16.1702,74.8218
+PS030,Chikkodi Police Station,Belagavi,Belgaum Zone,16.4327,74.5972
+PS031,Bagalkot City Police Station,Bagalkot,Belgaum Zone,16.1831,75.6965
+PS032,Mudhol Police Station,Bagalkot,Belgaum Zone,16.3476,75.2892
+PS033,Vijayapura City Police Station,Vijayapura,Kalaburagi Zone,16.8302,75.7100
+PS034,Sindagi Police Station,Vijayapura,Kalaburagi Zone,16.9178,76.2349
+PS035,Indi Police Station,Vijayapura,Kalaburagi Zone,17.1779,75.9494
+PS036,Kalaburagi City Police Station,Kalaburagi,Kalaburagi Zone,17.3297,76.8198
+PS037,Aland Police Station,Kalaburagi,Kalaburagi Zone,17.5619,76.5672
+PS038,Shahabad Police Station,Kalaburagi,Kalaburagi Zone,17.1155,76.9035
+PS039,Ballari City Police Station,Ballari,Ballari Zone,15.1394,76.9214
+PS040,Hospet Police Station,Ballari,Ballari Zone,15.2689,76.3909
+PS041,Sandur Police Station,Ballari,Ballari Zone,15.0781,76.5499
+PS042,Shivamogga City Police Station,Shivamogga,Shivamogga Zone,13.9299,75.5681
+PS043,Sagar Police Station,Shivamogga,Shivamogga Zone,14.1651,75.0278
+PS044,Bhadravathi Police Station,Shivamogga,Shivamogga Zone,13.8596,75.7060
+PS045,Davanagere City Police Station,Davanagere,Shivamogga Zone,14.4644,75.9218
+PS046,Harihara Police Station,Davanagere,Shivamogga Zone,14.5142,75.7272
+PS047,Tumakuru City Police Station,Tumakuru,Bengaluru Zone,13.3379,77.1173
+PS048,Tiptur Police Station,Tumakuru,Bengaluru Zone,13.2618,76.4780
+PS049,Hassan City Police Station,Hassan,Mysuru Zone,13.0068,76.0996
+PS050,Channarayapatna Police Station,Hassan,Mysuru Zone,12.9060,76.3871

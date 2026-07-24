@@ -1,0 +1,46 @@
+CrimeSubHeadID,CrimeHeadID,CrimeHeadName,SeqID
+1,1,Vehicle Theft,1
+2,1,House Theft,2
+3,1,Mobile Theft,3
+4,2,Highway Robbery,4
+5,2,Bank Robbery,5
+6,2,Chain Snatching,6
+7,3,Online Fraud,7
+8,3,Phishing,8
+9,3,Identity Theft,9
+10,4,Cheque Fraud,10
+11,4,Insurance Fraud,11
+12,4,Investment Scam,12
+13,5,Intentional Murder,13
+14,5,Contract Killing,14
+15,5,Honor Killing,15
+16,6,Simple Assault,16
+17,6,Serious Assault,17
+18,6,Domestic Violence,18
+19,7,Child Kidnapping,19
+20,7,Abduction,20
+21,7,Human Trafficking,21
+22,8,Drug Possession,22
+23,8,Drug Trafficking,23
+24,8,Drug Manufacturing,24
+25,9,Missing Child,25
+26,9,Missing Adult,26
+27,9,Runaway,27
+28,10,Dowry Harassment,28
+29,10,Sexual Harassment,29
+30,10,Stalking,30
+31,11,Money Laundering,31
+32,11,Tax Fraud,32
+33,11,Forgery,33
+34,12,Arson,34
+35,12,Vandalism,35
+36,12,Illegal Encroachment,36
+37,13,Gang Activity,37
+38,13,Extortion,38
+39,13,Smuggling,39
+40,14,Drunk Driving,40
+41,14,Hit and Run,41
+42,14,Illegal Racing,42
+43,15,Rioting,43
+44,15,Public Nuisance,44
+45,15,Illegal Gathering,45
