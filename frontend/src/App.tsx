@@ -46,8 +46,6 @@ export function App() {
         searchQuery={searchQuery}
         onSearchChange={handleSearchChange}
         onOpenMobileMenu={() => setIsOpenMobile(true)}
-        onNotificationClick={() => setIsNotificationsOpen(!isNotificationsOpen)}
-        unreadCount={3}
       />
 
       {/* Persistent Left Sidebar Navigation */}
@@ -63,6 +61,7 @@ export function App() {
         {currentView === 'command-center' && (
           <CommandCenterView
             onOpenCase={(_caseId) => handleNavigate('crime-search')}
+            onNavigate={handleNavigate}
           />
         )}
 

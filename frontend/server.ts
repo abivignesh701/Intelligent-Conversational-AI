@@ -91,7 +91,7 @@ Keep tone authoritative, precise, cyber-forensic, and clear. Use markdown boldin
     });
     app.use(vite.middlewares);
   } else {
-    const distPath = path.join(process.cwd(), "dist");
+    const distPath = path.resolve(__dirname);
     app.use(express.static(distPath));
     app.get("*", (_req, res) => {
       res.sendFile(path.join(distPath, "index.html"));

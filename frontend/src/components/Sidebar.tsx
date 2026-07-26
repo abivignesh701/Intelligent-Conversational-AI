@@ -15,13 +15,10 @@ export const Sidebar: React.FC<SidebarProps> = ({
   onCloseMobile,
 }) => {
   const navItems: { id: ViewMode; label: string; icon: string }[] = [
-    { id: 'command-center', label: 'Command Center', icon: 'dashboard' },
+    { id: 'command-center', label: 'Dashboard', icon: 'dashboard' },
     { id: 'ai-assistant', label: 'AI Assistant', icon: 'smart_toy' },
-    { id: 'case-center', label: 'Case Center', icon: 'folder_shared' },
-    { id: 'network-graph', label: 'Network Graph', icon: 'hub' },
+    { id: 'case-center', label: 'Register', icon: 'app_registration' },
     { id: 'crime-search', label: 'Crime Search', icon: 'manage_search' },
-    { id: 'evidence', label: 'Evidence', icon: 'folder_open' },
-    { id: 'settings', label: 'Settings', icon: 'settings' },
   ];
 
   return (
@@ -96,14 +93,6 @@ export const Sidebar: React.FC<SidebarProps> = ({
 
         {/* Footer Links */}
         <div className="px-3 space-y-1.5 mt-auto pt-4 border-t border-white/5">
-          <button
-            onClick={() => onNavigate('settings')}
-            className="w-full flex items-center gap-3.5 px-4 py-2 rounded-lg text-xs font-label-caps text-on-surface-variant/70 hover:text-on-surface hover:bg-white/5 transition-all text-left"
-          >
-            <span className="material-symbols-outlined text-[18px]">help</span>
-            <span>Support</span>
-          </button>
-
           <button
             onClick={() => onNavigate('login')}
             className="w-full flex items-center gap-3.5 px-4 py-2 rounded-lg text-xs font-label-caps text-error/80 hover:text-error hover:bg-error/10 transition-all text-left"
