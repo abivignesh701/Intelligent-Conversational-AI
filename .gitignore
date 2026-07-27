@@ -27,3 +27,5 @@ frontend/.env
 
 # Build outputs
 dist/
+
+backend/data/crime_intel.db
