@@ -6,11 +6,12 @@
     "install:frontend": "cd frontend && npm install",
     "dev:frontend": "cd frontend && npm run dev",
     "dev:backend": "cd backend && .venv\\Scripts\\python.exe -m uvicorn app.main:app --host 127.0.0.1 --port 8000 --reload",
+    "dev:backend:mac": "cd backend && .venv/bin/python -m uvicorn app.main:app --host 127.0.0.1 --port 8000 --reload",
     "dev:all": "concurrently -k -p \"[{name}]\" -n \"BACKEND,FRONTEND\" -c \"yellow.bold,cyan.bold\" \"npm run dev:backend\" \"npm run dev:frontend\"",
     "build:frontend": "cd frontend && npm run build",
     "start:frontend": "cd frontend && npm run start"
   },
   "devDependencies": {
-    "concurrently": "^8.2.2"
+    "concurrently": "^9.2.1"
   }
 }
