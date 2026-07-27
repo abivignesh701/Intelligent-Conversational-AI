@@ -1,8 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Databases
+*.db
+
+# Node
 node_modules/
-build/
-dist/
-coverage/
-.DS_Store
-*.log
-.env*
+
+# Testing
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
 !.env.example
+backend/.env
+frontend/.env
+
+# Build outputs
+dist/
